@@ -62,7 +62,6 @@ class Person(Base):
         self.hair_color = hair_color
         self.shirt_color = shirt_color
         Person.all.append(self)
-    
 
 # Persisting the Data
 if __name__ == '__main__':
