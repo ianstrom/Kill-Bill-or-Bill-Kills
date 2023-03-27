@@ -46,7 +46,7 @@ class Destination(Base):
 
 
 class Person(Base):
-    __tablename__= 'people'
+    __tablename__ = 'people'
 
     all = []
 
@@ -62,6 +62,28 @@ class Person(Base):
         self.hair_color = hair_color
         self.shirt_color = shirt_color
         Person.all.append(self)
+    
+class Location(Base):
+    __tablename__ = 'locations'
+
+    all = []
+
+    id = Column(Integer(), primary_key=True)
+    up = Column(String())
+    down = Column(String())
+    left = Column(String())
+    right = Column(String())
+
+    def __init__(self, up, down, left, right):
+        self.up = up
+        self.down = down
+        self.left = left
+        self.right = right
+        Location.all.append(self)
+    
+    def __repr__(self):
+        return f"Room: {self.id}{chr(10)}Up: {self.up}, Down: {self.down}, Left: {self.left}, Right: {self.right}"
+
 
 # Persisting the Data
 if __name__ == '__main__':
