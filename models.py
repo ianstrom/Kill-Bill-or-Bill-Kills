@@ -23,7 +23,6 @@ class Path(Base):
         self.right = right
         self.person = None
         self.thing = None
-        self.murderer = False
         Path.all.append(self)
     
     def __repr__(self):
