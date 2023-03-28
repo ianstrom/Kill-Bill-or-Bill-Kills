@@ -63,7 +63,13 @@ class Person(Base):
         self.hair_length = hair_length
         self.hair_color = hair_color
         self.shirt_color = shirt_color
+        self.murderer = False
+        self.location = None
+        self.speech = None
         Person.all.append(self)
+    
+    def __repr__(self):
+        return f'Name: {self.name}, Murderer: {self.murderer}'
     
 class Location(Base):
     __tablename__ = 'locations'

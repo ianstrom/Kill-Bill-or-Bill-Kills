@@ -1,7 +1,6 @@
 from models import Path
 import random
 
-#Both of these lists will be put onto attributes respectively
 
 #Random List of indexes for where PEOPLE go
 person_location_list = list(range(1, 18))
@@ -14,6 +13,10 @@ thing_location_list = [id for id in thing_location_list if id!= 7 and id != 8 an
 random.sample(thing_location_list, 4)
 random.shuffle(thing_location_list)
 
+#Both of these lists will be put onto the Path Instances attributes respectively:
+
+#person_location_list
+#thing_location_list
 
 
 
