@@ -1,14 +1,20 @@
 from models import Path
 import random
 
-#Random List of indexes for where people go
-person_location_list = list(range(1, 17))
+#Both of these lists will be put onto attributes respectively
+
+#Random List of indexes for where PEOPLE go
+person_location_list = list(range(1, 18))
 person_location_list = [id for id in person_location_list if id != 7 and id != 8]
 random.shuffle(person_location_list)
 
-#Random List of indexes for where things go
-x = thing_location_list = range(1, 17)
-thing_location_list = list()
+#Random List of indexes for where THINGS go
+thing_location_list = range(1, 18)
+thing_location_list = [id for id in thing_location_list if id!= 7 and id != 8 and id != 1]
+random.sample(thing_location_list, 4)
+random.shuffle(thing_location_list)
+
+
 
 
 p1 = Path("Elevator", 0, 0, 1, 2)
