@@ -79,6 +79,9 @@ class Location(Base):
         self.down = down
         self.left = left
         self.right = right
+        self.person = person
+        self.thing = thing
+        self.searched = False
         Location.all.append(self)
     
     def __repr__(self):

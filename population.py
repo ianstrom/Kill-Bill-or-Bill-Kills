@@ -5,6 +5,7 @@ from sqlalchemy.orm import sessionmaker, declarative_base
 from path_instances import paths
 from destination_instances import destinations
 from person_instances import people
+from location_instances import locations
 
 Base = declarative_base()
 
@@ -23,5 +24,8 @@ if __name__ == '__main__':
         
     for person in people:
         session.add(person)
+    
+    for location in locations:
+        session.add(location)
     
     session.commit()
