@@ -1,7 +1,24 @@
 from models import Path
+import random
 
-# Constructing paths
-#Up, Down, Left, Right
+
+#Random List of indexes for where PEOPLE go
+person_location_list = list(range(1, 18))
+person_location_list = [id for id in person_location_list if id != 7 and id != 8]
+random.shuffle(person_location_list)
+
+#Random List of indexes for where THINGS go
+thing_location_list = range(1, 18)
+thing_location_list = [id for id in thing_location_list if id!= 7 and id != 8 and id != 1]
+random.sample(thing_location_list, 4)
+random.shuffle(thing_location_list)
+
+#Both of these lists will be put onto the Path Instances attributes respectively:
+
+#person_location_list
+#thing_location_list
+
+
 
 p1 = Path("Elevator", 0, 0, 1, 2)
 p3 = Path("Stairs", 0, 0, 3, 4)
@@ -45,6 +62,6 @@ p25
 
 # Code to double-check paths
 
-for path in Path.all:
-    print (path.__repr__())
-    print()
+# for path in Path.all:
+#     print (path.__repr__())
+#     print()
