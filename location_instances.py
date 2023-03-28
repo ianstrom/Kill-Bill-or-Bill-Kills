@@ -1,5 +1,10 @@
 from models import Location
 
+
+
+
+location []
+
 l1 = Location("","","Reception Desk", "Stairs")
 l2 = Location("","", "Elevator", "Johnson Door")
 l3 = Location("Men's Bathroom","", "Stairs", "Johnson")

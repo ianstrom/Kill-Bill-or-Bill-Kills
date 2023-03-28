@@ -23,6 +23,9 @@ subprocess.run("./videos/loading-vid.sh")
 print(f'Reception: (a), Stairs: (d)')
 
 
+
+
+
 def on_press(key):
     if key.char == 'a':
         if char.curr.left > 0:
