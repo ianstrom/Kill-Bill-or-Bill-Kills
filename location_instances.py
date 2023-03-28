@@ -1,22 +1,39 @@
 from models import Location
 
-p1 = Path("Elevator", 0, 0, 1, 2)
-p3 = Path("Stairs", 0, 0, 3, 4)
-p4 = Path("Data Hall Corner", 5, 0, 6, 7)
-p5 = Path("Johnson- Lower", 8, 9, 10, 0)
-p6 = Path("Johnson- Couches", 11, 0, 0, 0)
-p8 = Path("Johnson- Kitchen", 12, 13, 0, 0)
-p9 = Path("Edith", 0, 14, 0, 0)
-p10 = Path("Men's Bathroom", 0, 15, 0, 0)
-p14 = Path("Reception", 0, 0, 16, 17)
-p15 = Path("Large Room Viewpoint", 18, 19, 20, 21)
-p16 = Path("Turing", 22, 0, 0, 0)
-p17 = Path("Large Room- Couches", 23, 24, 0, 25)
-p19 = Path("Collins", 0, 26, 0, 0)
-p20 = Path("Large Room- Kitchen", 27, 28, 29, 0)
-p22 = Path("Small Lecture Hall", 30, 31, 0, 0)
-p23 = Path("Phone Booths", 32, 33, 0, 0)
-p25 = Path("Phase 5- Room", 0, 0, 0, 34)
+l1 = Location("","","Reception Desk", "Stairs")
+l2 = Location("","", "Elevator", "Johnson Door")
+l3 = Location("Men's Bathroom","", "Stairs", "Johnson")
+l4 = Location("Johnson Kitchen", "Johnson Couches", "Johnson Door", "")
+l5 = Location("Johnson","","","")
+l6 = Location("Edith", "Johnson","","")
+l7 = Location("","Johnson Kitchen","","")
+l8 = Location("","Johnson Door","","")
+l9 = Location("","","Foyer", "Elevator")
+l10 = Location("Kitchen", "Turing", "Couches", "Reception Desk")
+l11 = Location("Foyer","","","")
+l12 = Location("Collins", "Foyer","","Kitchen")
+l13 = Location("","Couches","","")
+l14 = Location("Kay", "Foyer", "Couches","")
+l15 = Location("Phone Booths", "Kitchen","","")
+l16 = Location("Phase 5 Area", "Kay","","")
+l17 = Location("","","","Phone Booths")
 
-# l1 = Location(,,"Reception", "Stairs")
-# l2 = Location()
+locations = [
+    l1,
+    l2,
+    l3,
+    l4,
+    l5,
+    l6,
+    l7,
+    l8,
+    l9,
+    l10,
+    l11,
+    l12,
+    l13,
+    l14,
+    l15,
+    l16,
+    l17
+]

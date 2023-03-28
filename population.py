@@ -17,8 +17,10 @@ if __name__ == '__main__':
 
     for path in paths:
         session.add(path)
-    # for destination in destinations:
-    #     session.add(destination)
+
+    for destination in destinations:
+        session.add(destination)
+        
     for person in people:
         session.add(person)
     

@@ -8,8 +8,8 @@ class Character():
     def search():
         pass
     
-    def move(self, dest_id):
-        self.curr = dest_id
+    def move(self, dest):
+        self.curr = dest
         pass
 
     def info():
