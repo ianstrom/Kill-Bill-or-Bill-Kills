@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, create_engine, ForeignKey
+from sqlalchemy import Column, Integer, String, create_engine, ForeignKey, Boolean
 from sqlalchemy.orm import declarative_base
 
 Base = declarative_base()
@@ -14,15 +14,17 @@ class Path(Base):
     down = Column("down", Integer())
     left = Column("left", Integer())
     right = Column("right", Integer())
+    person = Column("person", Integer())
+    thing = Column("thing", String())
 
-    def __init__(self, name, up, down, left, right):
+    def __init__(self, name, up, down, left, right, person, thing):
         self.name = name
         self.up = up
         self.down = down
         self.left = left
         self.right = right
-        self.person = None
-        self.thing = None
+        self.person = person
+        self.thing = thing
         Path.all.append(self)
     
     def __repr__(self):
@@ -57,15 +59,17 @@ class Person(Base):
     hair_length = Column(String())
     hair_color = Column(String())
     shirt_color = Column(String())
+    murderer = Column(Boolean())
+    speech = Column(String())
 
-    def __init__(self, name, hair_length, hair_color, shirt_color):
+    def __init__(self, name, hair_length, hair_color, shirt_color, murderer, speech):
         self.name = name
         self.hair_length = hair_length
         self.hair_color = hair_color
         self.shirt_color = shirt_color
-        self.murderer = False
-        self.location = None
-        self.speech = None
+        self.murderer = murderer
+        # self.location = None
+        self.speech = speech
         Person.all.append(self)
     
     def __repr__(self):
