@@ -7,11 +7,7 @@ class Character():
         self.curr = curr
         self.evidence = []
         self.inventory = []
-        Character.all.append( self )
-
-    def search():
-        pass
-
+    
     def move(self, dest):
         self.curr = dest
 
@@ -20,4 +16,6 @@ class Character():
 
     def acting():
         pass
-
+    
+    def __repr__(self):
+        return f'Name: {self.name}, Location: {self.curr}'

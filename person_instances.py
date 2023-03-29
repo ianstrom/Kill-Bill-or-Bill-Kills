@@ -1,7 +1,5 @@
 from models import Person
 
-
-
 anson = Person("Anson", "short", "black", "red")
 bill = Person("Bill", "short", "brown", "red")
 finn = Person("Finn", "Medium", "black", "red")
