@@ -5,8 +5,9 @@ class Character():
     def __init__(self, name, curr=1):
         self.name = name
         self.curr = curr
-        self.evidence = []
-        self.inventory = []
+        # self.evidence = []
+        # self.inventory = []
+        self.clues = []
     
     def move(self, dest):
         self.curr = dest

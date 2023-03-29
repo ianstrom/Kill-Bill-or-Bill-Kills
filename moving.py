@@ -20,7 +20,7 @@ def query_new_path(new_path):
 def print_directions(destination):
     location = session.query(Location).filter(Location.id == destination.id).all()[0]
     message = ""
-    paths = [str(value) for key, value in location.__dict__.items() if key in ["up", "down", "left", "right"] and value is not None]
+    paths = [str(value) for key, value in location.__dict__.items() if key in ["up", "down", "left", "right"] and value is not None] + ["Search: (f) Speak: (t) Escape: (e) Accuse: (q)"]
     message += " ".join(paths)
     print(message)
 
