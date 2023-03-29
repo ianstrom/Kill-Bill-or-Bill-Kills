@@ -1,8 +1,12 @@
 from person_instances import people
 import random
+from character import Character
+import ipdb
 
-# people[0].murderer = True
-# del people[-2:]
+#debug tools
+chris = Character("chris", 5)
+people[0].murderer = True
+del people[-2:]
 
 hair_length = [person.hair_length for person in people if person.murderer == True][0]
 hair_color = [person.hair_color for person in people if person.murderer == True][0]
@@ -25,15 +29,22 @@ s14 = "Well at least we won't have to present our projects today."
 
 speech_array = [s1, s2, s3, s4, s5, s6, s7, s8, s9, s10, s11, s12, s13, s14]
 
-for person in people:
-    if person.murderer == True:
-        i = random.randint(3, 13)
-        person.speech = speech_array[i]
-        del speech_array[i]
+def set_speeches():
+    for person in people:
+        if person.murderer == True:
+            i = random.randint(3, 13)
+            person.speech = speech_array[i]
+            del speech_array[i]
 
-random.shuffle(speech_array)
+    random.shuffle(speech_array)
 
-for person in people:
-    if person.murderer == False:
-        person.speech = speech_array[0]
-        del speech_array[0]
+    for person in people:
+        if person.murderer == False:
+            person.speech = speech_array[0]
+            del speech_array[0]
+
+def speak(char, person):
+    
+    #char.clues.append
+
+ipdb.set_trace()
