@@ -28,8 +28,7 @@ def move_left(char):
     if char.curr.left > 0:
         new_path = query_direction(char, 'left')
         destination = query_new_path(new_path)
-        if not new_path.bash_path == "": 
-            subprocess.run(new_path.bash_path)
+        subprocess.run(new_path.bash_path)
         print_directions(destination)
         char.move(destination)
     else:
@@ -39,8 +38,7 @@ def move_right(char):
     if char.curr.right > 0:
         new_path = query_direction(char, 'right')
         destination = query_new_path(new_path)
-        if not new_path.bash_path == "": 
-            subprocess.run(new_path.bash_path)
+        subprocess.run(new_path.bash_path)
         print_directions(destination)
         char.move(destination)
     else:
@@ -50,8 +48,7 @@ def move_up(char):
     if char.curr.up > 0:
         new_path = query_direction(char, 'up')
         destination = query_new_path(new_path)
-        if not new_path.bash_path == "": 
-            subprocess.run(new_path.bash_path)
+        subprocess.run(new_path.bash_path)
         print_directions(destination)
         char.move(destination)
     else:
@@ -61,8 +58,7 @@ def move_down(char):
     if char.curr.down > 0:
         new_path = query_direction(char, 'down')
         destination = query_new_path(new_path)
-        if not new_path.bash_path == "": 
-            subprocess.run(new_path.bash_path)
+        subprocess.run(new_path.bash_path)
         print_directions(destination)
         char.move(destination)
     else:

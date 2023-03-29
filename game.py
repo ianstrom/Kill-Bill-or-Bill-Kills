@@ -2,12 +2,10 @@ from pynput import keyboard
 import subprocess
 from character import Character
 import random
-# from user_prompts import *
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy import create_engine
 from models import Path, Person
 from moving import move_left, move_right, move_down, move_up
-
 
 engine = create_engine('sqlite:///billkills.db')
 Session = sessionmaker(bind=engine)
@@ -39,6 +37,7 @@ session.commit()
 char.curr = session.query(Path).filter(Path.id == 1).first()
 
 from attribute_setters import *
+from user_prompts import *
 set_attr()
 
 subprocess.run("./videos/loading-vid.sh")
@@ -59,16 +58,20 @@ def on_press(key):
         move_down(char)
 
     if key.char == 'f':
-        search_promt(char)
+        search_prompt(char)
+        pass
     
     if key.char == 't':
         speak_prompt(char)
+        pass
     
     if key.char == 'e':
         escape_promt(char)
+        pass
 
     if key.char == 'q':
         accuse_prompt(char)
+        pass
 
     print(char.curr.name)
     
