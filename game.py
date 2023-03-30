@@ -6,6 +6,8 @@ from sqlalchemy.orm import sessionmaker
 from sqlalchemy import create_engine
 from models import Path, Person
 from moving import move_left, move_right, move_down, move_up
+from information import get_info, get_suspect_info
+import os
 
 engine = create_engine('sqlite:///billkills.db')
 Session = sessionmaker(bind=engine)
@@ -71,6 +73,14 @@ def on_press(key):
 
     if key.char == 'q':
         accuse_prompt(char)
+        pass
+
+    if key.char == 'z':
+        get_info(char, murderer)
+        pass
+    
+    if key.char == 'x':
+        get_suspect_info()
         pass
 
     print(char.curr.name)
