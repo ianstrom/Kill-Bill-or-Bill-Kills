@@ -79,6 +79,7 @@ class Person(Base):
     
     def __repr__(self):
         return f'Name: {self.name}, Murderer: {self.murderer}'
+
     
 class Location(Base):
     __tablename__ = 'locations'
