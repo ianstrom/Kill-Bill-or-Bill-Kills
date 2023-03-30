@@ -71,6 +71,11 @@ class Person(Base):
         # self.location = None
         self.speech = speech
         Person.all.append(self)
+
+    @property
+    def details(self):
+        return f'Name: {self.name:15}  Hair Length: {self.hair_length:15} Hair Color: {self.hair_color:15} Shirt Color: {self.shirt_color}'
+
     
     def __repr__(self):
         return f'Name: {self.name}, Murderer: {self.murderer}'

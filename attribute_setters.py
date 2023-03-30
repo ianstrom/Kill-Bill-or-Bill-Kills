@@ -10,7 +10,7 @@ Session = sessionmaker(bind=engine)
 session = Session()
 
 #Debugging tools
-import ipdb
+# import ipdb
 # people[0].murderer = True
 # del people[-2:]
 

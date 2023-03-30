@@ -1,28 +1,35 @@
 from os import name
 from subprocess import call
+from sqlalchemy.orm import sessionmaker
+from sqlalchemy import create_engine
+from models import Person
 
-def get_info(character):
+def get_info(character, murderer):
     # Clear Terminal
-
     _ = call('clear'if name == 'posix' else 'cls')
 
     # Example variables for testing (Comment out or delete before use)
 
-    shirt_color = 'blue'
-    hair_length = 'short'
-    hair_color = 'black'
+    shirt_color = murderer.shirt_color
+    hair_length = murderer.hair_length
+    hair_color = murderer.hair_color
 
     # Example Completed Array for Testing (Comment out or delete before use)
 
-    clue_array = [
-        'Edith Key', 
-        'Stairs Key', 
-        'Stained Cloth', 
-        'Blood/Hair',
-        f"* I think I saw someone wearing a {shirt_color} colored shirt walking away from the body before. Could it be them? *",
-        f"* I'm pretty sure I saw someone with {hair_length} length hair hanging out around the body before. Maybe it's them? *",
-        f"* I couldn't see too well, but I think I saw someone suspicious around the body with {hair_color} colored hair. Was that actually the killer? *"
-        ]
+    print(character)
+    print(murderer)
+
+    clue_array = character.clues
+
+    # clue_array = [
+    #     'Edith Key', 
+    #     'Stairs Key', 
+    #     'Stained Cloth', 
+    #     'Blood/Hair',
+    #     f"* I think I saw someone wearing a {shirt_color} colored shirt walking away from the body before. Could it be them? *",
+    #     f"* I'm pretty sure I saw someone with {hair_length} length hair hanging out around the body before. Maybe it's them? *",
+    #     f"* I couldn't see too well, but I think I saw someone suspicious around the body with {hair_color} colored hair. Was that actually the killer? *"
+    #     ]
 
     # Physical Clue Logic
 
@@ -76,4 +83,15 @@ def get_info(character):
         print()
         print("You haven't discovered anything yet. Best get to investigating!")
 
-get_info("test")
+def get_suspect_info():
+    engine = create_engine('sqlite:///billkills.db')
+    Session = sessionmaker(bind=engine)
+    session = Session()
+
+    # Query for all remaining suspects
+    suspects = session.query(Person)
+    for suspect in suspects:
+        print('------------------------------------------------------------------------------------------------------')
+        print(suspect.details)
+
+get_suspect_info()
