@@ -16,9 +16,6 @@ def get_info(character, murderer):
 
     # Example Completed Array for Testing (Comment out or delete before use)
 
-    print(character)
-    print(murderer)
-
     clue_array = character.clues
 
     # clue_array = [
@@ -40,12 +37,12 @@ def get_info(character, murderer):
             thing_dict['Knife'] = 'A bloody knife'
         if thing == 'Edith Key':
             thing_dict['Edith Key'] = 'A good way to lock someone up'
-        if thing == 'Stairs Key':
-            thing_dict['Stairs Key'] = 'a key to the stairwell when you want to make your escape'
-        if thing == 'Stained Cloth':
-            thing_dict['Stained Cloth'] = f'A cloth covered in blood. Its color is {shirt_color}'
-        if thing == 'Blood/Hair':
-            thing_dict['Blood / Hair'] = f'A bit of {hair_length} hair covered in blood'
+        if thing == 'Stairwell Key':
+            thing_dict['Stairwell Key'] = 'a key to the stairwell when you want to make your escape'
+        if thing == 'Bloody Cloth':
+            thing_dict['Bloody Cloth'] = f'A cloth covered in blood. Its color is {shirt_color}'
+        if thing == 'Hair':
+            thing_dict['Hair'] = f'A bit of {hair_length} hair covered in blood'
 
     if thing_dict:
         print()
@@ -65,7 +62,7 @@ def get_info(character, murderer):
             verbal_dict['Shirt Clue'] = f"Someone saw the a flash of a {shirt_color}-colored shirt. Could it be the killer?"
         if "length" in phrase:
             verbal_dict['Hair-length Clue'] = f"There was a suspicious person with {hair_length}-length hair hanging around the body..."
-        if "colored" in phrase:
+        if "sus" in phrase:
             verbal_dict['Hair-color Clue'] = f"An eyewitness said the killer's hair might be {hair_color}."
 
 
@@ -90,6 +87,7 @@ def get_suspect_info():
 
     # Query for all remaining suspects
     suspects = session.query(Person)
+    print()
     for suspect in suspects:
         print('------------------------------------------------------------------------------------------------------')
         print(suspect.details)

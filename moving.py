@@ -9,6 +9,13 @@ Session = sessionmaker(bind=engine)
 
 session = Session()
 
+ids = [1,7,8]
+
+def get_person_in_room(destination):
+    if destination.id not in ids:
+        person = session.query(Person).filter(Person.id == destination.person).first()
+        if person:
+            print(f"You walk to {destination.name} and see {person.name} wearing a {person.shirt_color} shirt.")
 
 def query_direction(char, direction):
     destination_id = getattr(char.curr, direction)
@@ -20,7 +27,7 @@ def query_new_path(new_path):
 def print_directions(destination):
     location = session.query(Location).filter(Location.id == destination.id).all()[0]
     message = ""
-    paths = [str(value) for key, value in location.__dict__.items() if key in ["up", "down", "left", "right"] and value is not None] + ["Search: (f) Speak: (t) Escape: (e) Accuse: (q)"]
+    paths = [str(value) for key, value in location.__dict__.items() if key in ["up", "down", "left", "right"] and value is not None] + ["Search: (f) Speak: (t) Escape: (e) Accuse: (q) Clues: (z) People: (x)"]
     message += " ".join(paths)
     print(message)
 
@@ -31,6 +38,7 @@ def move_left(char):
         subprocess.run(new_path.bash_path)
         print_directions(destination)
         char.move(destination)
+        get_person_in_room(destination)
     else:
         print("You cannot go to the left")
 
@@ -41,6 +49,7 @@ def move_right(char):
         subprocess.run(new_path.bash_path)
         print_directions(destination)
         char.move(destination)
+        get_person_in_room(destination)
     else:
         print("You cannot go to the right")
 
@@ -51,6 +60,7 @@ def move_up(char):
         subprocess.run(new_path.bash_path)
         print_directions(destination)
         char.move(destination)
+        get_person_in_room(destination)
     else:
         print("You cannot go forward")
 
@@ -61,6 +71,7 @@ def move_down(char):
         subprocess.run(new_path.bash_path)
         print_directions(destination)
         char.move(destination)
+        get_person_in_room(destination)
     else:
         print("You cannot go backwards")
 

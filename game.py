@@ -14,6 +14,7 @@ Session = sessionmaker(bind=engine)
 session = Session()
 
 ids_array = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16]
+banned_locations = [1,7,8]
 # char = Character('fucked')
 
 print("Choose a character: \n(1): Anson\n(2): Bill\n(3): Finn\n(4): Jack\n(5): Bobby\n(6): Brett\n(7): Chris C.\n(8): Chris W.\n(9): Eshwar\n(10): Jacob\n(11): Ian\n(12): Kyushik\n(13): Min\n(14): Michelle\n(15): Sally\n(16): Nick")
@@ -44,9 +45,9 @@ set_attr()
 
 subprocess.run("./videos/loading-vid.sh")
 print(f'Reception: (a), Stairs: (d)')
+print(f" You walk out of the Elevator and find {dead_person.name}'s body.")
 
 def on_press(key):
-    print(char)
     if key.char == 'a':
         move_left(char)
 
@@ -60,19 +61,26 @@ def on_press(key):
         move_down(char)
 
     if key.char == 'f':
-        search_prompt(char)
-        pass
+        if char.curr.id != 1:
+            search_prompt(char)
+        else:
+            print("\nNothing to search")
     
     if key.char == 't':
-        speak_prompt(char)
-        pass
+        if char.curr.person != 0 and char.curr.id != 7:
+            speak_prompt(char)
+        else:
+            print("\nThere is no one here... Eerie")
     
     if key.char == 'e':
         escape_promt(char)
         pass
 
     if key.char == 'q':
-        accuse_prompt(char)
+        if char.curr.person != 0 and char.curr.id != 7:
+            accuse_prompt(char)
+        else:
+            print("\nThere is no one to accuse!")
         pass
 
     if key.char == 'z':
@@ -82,12 +90,11 @@ def on_press(key):
     if key.char == 'x':
         get_suspect_info()
         pass
-
-    print(char.curr.name)
     
 
 def on_release(key):
     if key == keyboard.Key.esc:
+        subprocess.run('rm billkills.db')
         return False
 
 with keyboard.Listener(
@@ -95,5 +102,4 @@ with keyboard.Listener(
         on_release=on_release) as listener:
     listener.join()
 
-subprocess.run('rm billkills.db')
 

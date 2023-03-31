@@ -1,7 +1,7 @@
 #!/bin/bash 
 echo -en '[2J' 
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****************************++++++++++****eeeeeeeeeeeeeeeeeeeeeeee****************
 **************************++**++++++****eeeeeeeeeeeeee**eeeeeeee******************
 ********************************++++eeeeeeeeeeee..ee**eeeeeeee********************
@@ -78,7 +78,7 @@ eeee**        ..::ee****eeeeeeeeee    !!::++......!!......++ee  ++!!$$$$$$ee****
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****************************++++++++++****eeeeeeeeeeeeeeeeeeeeeeee****************
 ******************************++++******eeeeeeeeeeeeee**eeeeeeee******************
 ********************************++++eeeeeeeeeeee..ee**eeeeeeee********************
@@ -155,7 +155,7 @@ eeee**        ..::ee****eeeeeeeeee    !!..++::....!!......++ee  ++!!$$$$$$ee****
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****************************++++++++++****eeeeeeeeeeeeeeeeeeeeeeee****************
 ******************************++++******eeeeeeeeeeeeee**eeeeeeee******************
 ********************************++++eeeeeeeeeeee..ee**eeeeeeee********************
@@ -232,7 +232,7 @@ eeee**        ..::ee****eeeeeeeeee    !!..++::....!!......++ee  ++!!$$$$$$******
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******************************++++++++****eeeeeeeeeeeeeeeeeeeeeeee****************
 ******************************++++**++**eeeeeeeeeeeeee**eeeeeeee******************
 ********************************++++eeeeeeeeeeee..ee**eeeeeeeeee******************
@@ -309,7 +309,7 @@ eeee**        ..::ee****eeeeeeeeee    !!..++!!....++......++ee  ++::$$$$$$ee****
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****************************++++++++******eeeeeeeeeeeeeeeeeeeeeeee****************
 **************************++**++++++****eeeeeeeeeeeeee**eeeeeeeeee****************
 ********************************++++eeeeeeeeeeee..ee**eeeeeeeeee******************
@@ -386,7 +386,7 @@ eeee**        ..::eeee**eeeeeeeeee    !!..++!!....!!......++**  ++::$$$$$$ee****
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****************************++++++++++****eeeeeeeeeeeeeeeeeeeeee******************
 ******************************++++++****eeeeeeeeeeeeee**eeeeeeeeee****************
 ee******************************++++eeeeeeeeeeee..ee**eeeeeeeeee******************
@@ -463,7 +463,7 @@ eeee**        ..::eeee**eeeeeeeeee    !!::++++....++......++**  ++::$$$$$$******
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****************************++++++++******eeeeeeeeeeeeeeeeeeeeee******************
 **************************++**++++++****eeeeeeeeeeeeee**eeeeee**ee****************
 ee******************************++++eeeeeeeeeeee..ee**eeeeeeee********************
@@ -540,7 +540,7 @@ eeee**        ..::eeee**eeeeeeeeee    !!::++**....++......++**  ++..$$$$$$******
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******************************++++++******eeeeeeeeeeeeeeeeeeeeeeee****************
 **************************++**++++++****eeeeeeeeeeeeee**eeeeee**ee****************
 ee****************************++++++eeeeeeeeeeee..ee**eeeeeeee********************
@@ -617,7 +617,7 @@ eeee**        ..::eeeeeeeeeeeeeeee    !!::++**....++......++**  ++..$$$$$$******
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '************************++****++++++******eeeeeeeeeeeeeeeeeeeeeeee****************
 ******************************++++++****eeeeeeeeeeeeeeeeeeeeeeeeee****************
 ee******************************++++eeeeeeeeeeee..ee**eeeeeeeeee******************
@@ -694,7 +694,7 @@ eeee**        ..::eeee**eeeeeeeeee    !!..++**....++......++**  ++..$$$$$$******
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '************************++****++++++++****eeeeeeeeeeeeeeeeeeeeeeee****************
 ******************************++++++****eeeeeeeeeeeeee**eeeeeeeeee****************
 ee****************************++++++eeeeeeeeeeee..ee**eeeeeeeeee******************
@@ -771,7 +771,7 @@ eeee**        ..::eeee**eeeeeeeeee    !!..****....++......++**  ++..$$$$$$******
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**********************++++**++++++++++****eeeeeeeeeeeeeeeeeeeeeeee****************
 ******************************++++++****eeeeeeee**eeeeeeeeeeeeeeee****************
 ee******************************++++eeeeeeeeeeee..ee**eeeeee**ee******************
@@ -848,7 +848,7 @@ eeee**        ..::eeeeeeeeeeeeeeee    !!..++**....++......++**  ++..$$$$$$******
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**********************++++**++++++++++****eeeeeeeeeeeeeeeeeeeeeeee****************
 ******************************++++++****eeeeeeee**eeeeeeeeeeeeee******************
 ee******************************++++eeeeeeeeeeee..ee**eeeeee**ee******************
@@ -925,7 +925,7 @@ eeee**        ..::eeeeeeeeeeeeeeee    !!..++**....++......++**  ++..$$$$$$ee****
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**********************++++**++++++++++****eeeeeeeeeeeeeeeeeeeeeeee****************
 ******************************++++******eeeeeeee++eeeeeeeeeeee****ee**************
 ee******************************++++eeeeeeeeeeee..ee**eeeeee**********************
@@ -1002,7 +1002,7 @@ eeee**        ..::eeee**eeeeeeeeee    !!..++**....++......++**  ++..$$$$$$ee****
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******************************++++++******eeeeeeeeeeeeeeeeeeeeeeee****************
 ******************************++++++****eeeeeeee!!eeeeeeeeeeeeeeeeee**************
 ee********************************++eeeeeeeeeeee..ee**eeeeeeeeee******************
@@ -1079,7 +1079,7 @@ eeee**      ....::eeee**eeeeeeeeee    !!::++**....++......++++  ++..$$$$$$ee****
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******************************++++++******eeeeeeeeeeeeeeeeeeeeeeee****************
 ******************************++++++****eeeeeeee::eeeeeeeeeeeeeeee****************
 ee******************************++++eeeeeeeeeeee..ee**eeeeeeee********************
@@ -1156,7 +1156,7 @@ eeee**        ..::eeeeeeeeeeeeeeee    !!::++**....++......++++  ++  $$$$$$$$****
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******************************++++++++****eeeeeeeeeeeeeeeeeeeeee******************
 ******************************++++++**eeeeeeeeee..eeeeeeeeeeeeeeee****************
 ee******************************++++eeeeeeeeeeee..ee**eeeeeeee********************
@@ -1233,7 +1233,7 @@ eeee**      ....::eeeeeeeeeeeeeeee    !!!!++**....++......++++  ++..$$$$$$$$****
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**********************++**++**++++++++****eeeeeeeeeeeeeeeeeeeeeeee****************
 ******************************++++++**eeeeeeeeee..eeeeeeeeeeeeeeee****************
 ee******************************++++eeeeeeeeeeee..ee**eeeeeeee********************
@@ -1310,7 +1310,7 @@ eeee**        ..::eeeeeeeeeeeeeeee    !!::++**....++......++++  ++..$$$$$$$$****
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**********************++**++**++++++++****eeeeeeeeeeeeeeeeeeeeeeee****************
 ******************************++++++**eeeeeeeeee..eeee**eeeeeeeeee****************
 ee******************************++++eeeeeeeeeeee..ee**eeeeeeeeee******************
@@ -1387,7 +1387,7 @@ eeee**        ..::eeeeeeeeeeeeeeee    !!!!++**....++......++++  ++..$$$$$$$$****
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**************************++**++++++++****eeeeeeeeeeeeeeeeeeeeeeee****************
 ******************************++++++**eeeeeeeeee..eeeeeeeeeeeeeeee****************
 ee******************************++++eeeeeeeeeeee!!ee**eeeeeeee********************
@@ -1464,7 +1464,7 @@ eeee**        ..::eeeeeeeeeeeeeeee    !!::++**....++......++++  ++..$$$$$$$$****
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '************************++++**++++++++****eeeeeeeeeeeeeeeeeeeeeeee****************
 ******************************++++++**eeeeeeeeee..eeeeeeeeeeeeeeee****************
 ee******************************++++eeeeeeeeeeee++ee**eeeeeeee********************
@@ -1541,7 +1541,7 @@ eeee**        ..::eeeeeeeeeeeeeeee    !!!!++**....++......++++  ++..$$$$$$$$****
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '************************++**++++++++++**++eeeeeeeeeeeeeeeeeeeeeeee****************
 ******************************++++++**eeeeeeeeee..eeeeeeeeee**********************
 ee******************************++++eeeeeeeeeeee**ee**eeeeee**********************
@@ -1618,7 +1618,7 @@ eeee**        ..::eeeeeeeeeeeeeeee    !!!!++**....++......++++  ++..$$$$$$$$****
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**************************++**++++++++****eeeeeeeeeeeeeeeeeeeeeeee****************
 ****************************++++++++**eeeeeeeeee..eeee**eeeeee********************
 ee******************************++++eeeeeeeeeeeeeeee**eeeeeeee********************
@@ -1695,7 +1695,7 @@ eeee**        ..::eeeeeeeeeeeeeeee    !!!!++**....++......++++  ++..$$$$$$$$ee**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******************************++++++++****eeeeee**eeeeeeeeeeeeeeee****************
 ******************************++++++**eeeeeeeeee..eeee**eeeeee********************
 ee******************************++++eeeeeeeeeeeeeeee**eeeeeeee********************
@@ -1772,7 +1772,7 @@ eeee**        ..::eeeeeeeeeeeeeeee    !!!!++**....++......++++  ++..$$$$$$$$ee**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****************************++++++++++****eeeeee::eeeeeeeeeeeeeeee****************
 ******************************++++++**eeeeeeeeee..eeee**eeeeeeee******************
 ee******************************++++eeeeeeeeeeeeeeee**eeeeeeee********************
@@ -1849,7 +1849,7 @@ eeee**        ..::eeeeeeeeeeeeeeee    !!!!++**....++......++++  ++!!$$$$$$$$ee**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**********************++****++++++++++****eeeeee..eeeeee**eeeeee**ee**************
 ******************************++++++**eeeeeeeeee..eeee**eeeeeeee******************
 ee******************************++++eeeeeeeeeeeeeeee**eeeeeeee********************
@@ -1926,7 +1926,7 @@ eeee**        ..::eeeeeeeeeeeeeeee..  !!!!++**....++......++++  !!!!$$$$$$$$ee**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**********************++******++++++++****eeeeee..eeeeeeeeeeeeeeee****************
 ********************************++++**eeeeeeeeee::eeee**eeeeeeee**ee**************
 ee******************************++++eeeeeeeeeeeeeeee**eeeeeeeeee******************
@@ -2003,7 +2003,7 @@ eeee**        ..::eeeeeeeeeeeeeeee..  !!::!!**....++......++++  !!!!$$$$$$$$$$**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '********************++++****++++++++++****eeeeee..eeeeee**eeeeeeee****************
 ********************************++++**eeeeeeeeee++eeee**eeeeeeee******************
 ee******************************++++eeeeeeeeeeeeeeee**eeeeeeee********************
@@ -2080,7 +2080,7 @@ eeee**        ..::**eeeeeeeeeeeeee..  !!!!::**....++......++++    ++$$$$$$$$$$**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '********************++**++**++++++++******eeeeee..eeeeeeeeeeeeeeee****************
 ****************************++**++++**eeeeeeeeeeeeeeee**eeeeeeee******************
 ee******************************++++eeeeeeeeeeeeeeee**eeeeeeee********************
@@ -2157,7 +2157,7 @@ eeee**        ..::!!ee**eeeeeeeeee..  !!::  **....++......++++    ++$$$$$$$$$$**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '********************++**++**++++++++******eeeeee..eeeeeeeeeeeeee******************
 ********************************++++**eeeeeeeeeeeeeeee**eeeeeeeeee****************
 ee**************++**************++++eeeeeeeeeeeeeeee**eeeeee**ee******************
@@ -2234,7 +2234,7 @@ eeee**        ..::..eeeeeeeeeeeeee....!!::  **....++......++++    ++$$$$$$$$$$**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '********************++**++**++++++++++++**eeeeee..eeeeeeeeeeeeee******************
 ********************************++++**eeeeeeeeeeeeeeee**eeeeeeeeee****************
 ee********************************++eeeeeeeeeeeeeeee**eeeeee**ee******************
@@ -2311,7 +2311,7 @@ eeee**        ..::..eeee**eeeeeeee....!!::  **....++......++++    ++$$$$$$$$$$ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******************++++**++++++++++++******eeeeee!!eeeeee**eeeeeeee****************
 ****************************++**++++++eeeeeeeeeeeeeeee**eeeeeeeeee****************
 **********************************++eeeeeeeeeeeeee****eeeeee**********************
@@ -2388,7 +2388,7 @@ eeee**        ..::..eeee**eeeeeeee..  !!    **....++......!!++    ++$$$$$$$$$$ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******************++++****++++++++++++****eeeeeeeeeeeeeeeeeeeeee****ee************
 ************++******************++++++eeeeeeeeeeeeeeee**eeeeee********************
 ee**************++****************++eeeeeeeeeeeeee++**eeeeee**********************
@@ -2465,7 +2465,7 @@ eeee**        ..::..eeee**eeeeeeee..  !!  ::++....++......!!++!!  ++$$$$$$$$$$ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '************************++**++++++++++****eeeeeeeeeeeeeeeeeeeeee******************
 ********************************++++++eeeeeeeeeeeeeeee**eeee**eeee****************
 ee**********************************eeeeeeeeeeeeee..**eeeeeeee********************
@@ -2542,7 +2542,7 @@ eeee**        ..::..eeeeeeeeeeeeee..  !!  ..::....++......!!++++  ++$$$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '********************++++++++++++++++++****eeeeeeeeeeeeeeeeeeeeeeee****************
 ********************************++++++eeeeeeeeeeeeeeee**eeeeeeee**ee**************
 ee**********************************eeeeeeeeeeeeee..**eeeeeeee********************
@@ -2619,7 +2619,7 @@ eeee**        ..::..ee****eeeeeeee!!..!!    ......++......!!++++  ++$$$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******************++**++++++++++++++++****eeeeeeeeeeeeeeeeeeeeee**ee**************
 ********************************++++++eeeeeeeeeeee!!ee**eeeeeeeeee****************
 ee******************************++++++eeeeeeeeeeee..**eeeeee**********************
@@ -2696,7 +2696,7 @@ eeee**        ..::::eeee!!eeeeeeeeee  !!..  ++....!!::....!!++++  ++$$$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**********************++**++++++++++++****eeeeeeeeeeeeeeeeeeeeeeeeee**************
 ********************++**********++++++eeeeeeeeeeee..eeeeeeeeeeeeee****************
 eeee******************************++::eeeeeeeeeeee!!**eeeeeeee********************
@@ -2773,7 +2773,7 @@ eeeeee        ..::::ee**!!eeeeeeeeee..::!!..**....::++....::++++  ++!!$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '********************++++****++++++++++****eeeeeeee++eeeeeeeeeeee******************
 ********************************++++++eeeeeeeeeeee..eeeeeeeeeeeeee****************
 eeee********************************::eeeeeeeeeeeeee**eeeeeeee********************
@@ -2850,7 +2850,7 @@ eeeeee::        ::::ee**++eeeeeeeeee    !!  **....::++......++++  ++..$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****************************++++++++++****eeeeeeee..eeeeeeeeeeeeeeee**************
 ee****************++************++++++**eeeeeeeeee..eeeeeeeeeeee******************
 eeee********************************::eeeeeeeeeeeeee**eeeeeeeeee******************
@@ -2927,7 +2927,7 @@ eeeeee**        ::::ee****eeeeeeeeee..  !!  ++......++......++++  ++::$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**************************++++++++++++****eeeeeeee..eeeeeeeeeeeeeeee**************
 ******************++************++++++**eeeeeeeeee**eeeeeeeeeeee**ee**************
 eeee********************************::eeeeeeeeeeeeee**eeeeeeeeee******************
@@ -3004,7 +3004,7 @@ eeeeee**        ::::ee****eeeeeeeeee..  !!  ++......++......++++  !!!!$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '************************++++++++++++++****eeeeeeee..eeeeeeeeeeeeeeeeee************
 ********************************++++++**eeeeeeeeeeeeeeeeeeeeeeee******************
 eeee********************************::eeeeeeeeeeeeee**eeeeeeeeee******************
@@ -3081,7 +3081,7 @@ eeeeee**        ::::ee**eeeeeeeeeeee    !!::++**....++......++++    ++$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '********************++**++++**++++++++****eeeeeeee!!eeeeeeeeeeeeee****************
 ee******************************++++++**eeeeeeeeeeeeeeee**eeeeee******************
 eeee********************************::eeeeeeeeeeeeeeeeeeeeeeee********************
@@ -3158,7 +3158,7 @@ eeeeee**        ::::eeee**eeeeeeeeee    !!::++**....++......++++    ++$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '************************++++++++++++++++**eeeeeeeeeeeeeeeeeeeeeeee****************
 ee****************************++++++++**eeeeeeeeeeeeeeeeeeeeeeee******************
 eeee********************************!!eeeeeeeeeeeeee**eeeeeeeeee******************
@@ -3235,7 +3235,7 @@ eeeeee**        ::::eeeeeeeeeeeeeeee    !!::++**....++......++++    ++$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**************************++++++++++++++**eeeeeeeeeeeeeeeeeeeeeeeeee**************
 ee****************************++**++++**eeeeeeeeeeeeeeeeeeeeeeeeeeee**************
 eeee**********************************eeeeeeeeeeeeee::eeeeeeee********************
@@ -3312,7 +3312,7 @@ eeeeee**        ..::eeeeeeeeeeeeeeee    !!..++**....++......++++    ++$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '************************++****++++++++++**eeeeeeeeeeeeeeeeeeeeeeeeeeee************
 ee******************************++++++**eeeeeeeeeeeeeeeeeeeeeeeeeeee**************
 eeee********************************eeeeeeeeeeeeeeee..eeeeeeeeee******************
@@ -3389,7 +3389,7 @@ eeeeee**        ..::eeeeeeeeeeeeeeee..  !!::++**....++......++++::  ++$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**********************++++****++++++++++**eeeeeeeeeeeeeeee**eeeeeeeeee************
 ee**************++******************++**eeeeeeeeeeee::ee**eeeeeeee****************
 eeee********************************eeeeeeeeeeeeeeee..eeeeeeeeee******************
@@ -3466,7 +3466,7 @@ eeeeee**        ..::++eeeeeeeeeeeeee..  !!::++**  ..++......++++++  ++$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******************************++++++++++**eeeeeeeeeeeeeeee**eeeeeeeeee************
 ee********************************++++**eeeeeeeeeeee..ee**eeeeeeeeee**************
 eeee********************************eeeeeeeeeeeeeeee::**eeeeeeee******************
@@ -3543,7 +3543,7 @@ eeeeee**        ..::..eeeeeeeeeeeeee..  !!!!++**....++......++++++  ++$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**********************++**++++++++++++****eeeeeeeeee++eeee**eeeeeeeeee************
 ee********************************++++++eeeeeeeeeeee..ee**eeeeeeeeee**************
 eeee********************************eeeeeeeeeeeeeeee****eeeeeeee******************
@@ -3620,7 +3620,7 @@ eeeeee**        ..::..eeee**eeeeeeee..  !!::!!**::..++......++++++  ++$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******************************++++++++++**eeeeeeeeee..eeeeeeeeeeeeeeee************
 ee********************************++++++eeeeeeeeeeee..ee**eeeeeeeeee**************
 eeeeee******************************ee++eeeeeeeeeeeeee**eeeeeeee******************
@@ -3697,7 +3697,7 @@ eeeeee**        ..::..eeee**eeeeeeee..  !!::..**::..!!......++++++  ++!!$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee********************++******++++++++++**eeeeeeeeee..eeeeeeeeeeeeeeeeee**********
 ee********************************++++++eeeeeeeeeeee++ee**eeeeeeeeee**************
 eeeeee******************************ee::eeeeeeeeeeeeee**eeeeeeee******************
@@ -3774,7 +3774,7 @@ eeeeee**        ..::..eeeeeeeeeeeeee!!  !!..  **....::::....!!++++  ++!!$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee**************++****************++++++**eeeeeeeeee..eeee**eeeeeeeeeeee**********
 ee********************************++++++eeeeeeeeeeeeeeee**eeeeeeeeee**************
 eeeeee******************************ee::eeeeeeeeeeeeee++eeeeeeee******************
@@ -3851,7 +3851,7 @@ eeeeee**        ..::..eeee**eeeeeeeeee  !!  ..**......!!......++++  ::++$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee****************************++++++++++**eeeeeeeeee!!eeee**eeeeeeeeee************
 eeee**************++**************++++++eeeeeeeeeeeeeeee**eeeeeeeeee**************
 eeeeee******************************ee::eeeeeeeeeeeeee..eeeeeeeeee****************
@@ -3928,7 +3928,7 @@ eeeeee**        ..::..eeee++eeeeeeeeee..!!::::++......++......++++  ..++$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee********************++******++++++++++**eeeeeeeeeeeeeeee**eeeeeeeeeeee**********
 eeee********************************++++eeeeeeeeeeeeeeee**eeeeeeeeee**************
 eeeeee************++****************ee::eeeeeeeeeeeeee..eeeeeeeeee****************
@@ -4005,7 +4005,7 @@ eeeeee**        ..::..eeee!!eeeeeeeeee..  !!  ........++......++++    ++$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee******************************++++++++**eeeeeeeeeeeeeeee**eeeeeeeeeeee**********
 eeee********************************++++eeeeeeeeeeeeeeee**eeeeeeeeee**************
 eeeeee******************************ee::eeeeeeeeeeeeee..eeeeeeeeee****************
@@ -4082,7 +4082,7 @@ eeeeeeee..      ..::::eeee!!eeeeeeeeee    !!  ........++......++++    ++$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee**************++****************++++++**eeeeeeeeeeeeeeee**eeeeeeeeeeee**********
 eeee************++******************++++eeeeeeeeeeeeeeee**eeeeeeeeee**************
 eeeeee******************************ee::eeeeeeeeeeeeee..eeeeeeee******************
@@ -4159,7 +4159,7 @@ eeeeeeee!!      ..::!!ee**!!eeeeeeeeee..  !!  ++......++......++++    ++$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee********************************++++++**eeeeeeeeeeeeeeeeeeeeeeeeeeeeee**********
 eeee**********************************++eeeeeeeeeeeeee::**eeeeeeeeee**************
 eeeeee******************************ee::eeeeeeeeeeeeee::eeeeeeeeee****************
@@ -4236,7 +4236,7 @@ eeeeeeee**        ::::ee****eeeeeeeeee..  !!..++......++......++++    ++$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee**********************************++++**eeeeeeeeeeee**ee**eeeeeeeeeeee**********
 eeee**********************************++eeeeeeeeeeeeee..**eeeeeeeeeeee************
 eeeeee************++****************ee::eeeeeeeeeeeeee::eeeeeeeeee****************
@@ -4313,7 +4313,7 @@ eeeeeeee**        ::::ee**eeeeeeeeeeee    !!  ++**....++......++++    ++$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee********************************++++++**eeeeeeeeeeee::ee**eeeeeeeeeeee**********
 eeee**********************************++eeeeeeeeeeeeee..**eeeeeeeeeeee************
 eeeeee******************************ee++eeeeeeeeeeeeee::eeeeeeeeee****************
@@ -4390,7 +4390,7 @@ eeeeeeee**        ::::eeeeeeeeeeeeeeee..  !!  ++**....++......++++!!  ++$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee********************************++++++**eeeeeeeeeeee..eeeeeeeeeeeeeeee**********
 eeee**********************************++eeeeeeeeeeeeee!!**eeeeeeeeeeee************
 eeeeee******************************eeeeeeeeeeeeeeeeee**eeeeeeeeee****************
@@ -4467,7 +4467,7 @@ eeeeeeee**        ..::eeeeeeeeeeeeeeee..  !!  ++**....++......++++++  ++ee$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee**********************************++++**eeeeeeeeeeee..eeeeeeeeeeeeeeee**********
 eeee************++++********************eeeeeeeeeeeeeeee**eeeeeeeeeeee************
 eeeeee******************************eeeeeeeeeeeeeeeeeeeeeeeeeeeeee****************
@@ -4544,7 +4544,7 @@ eeeeeeee**        ::::eeeeeeeeeeeeeeee....!!..++**....++......++++++  !!++$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee**********************************++++eeeeeeeeeeee++eeeeeeeeeeeeeeee**********
 eeeeee************++********************eeeeeeeeeeeeeeee**eeeeeeeeeeee************
 eeeeeeee****************************eeeeeeeeeeeeeeeeeeeeeeeeeeeeee****************
@@ -4621,7 +4621,7 @@ eeeeeeee**        ..::eeeeeeeeeeeeeeee..  !!..++**....++......++++++  ..++$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee**************************************eeeeeeeeeeeeeeeeeeeeeeeeeeeeee**********
 eeeeee**********************************!!eeeeeeeeeeeeee**eeeeeeeeee**************
 eeeeeeee****************************eeee++eeeeeeeeeeeeeeeeeeeeeeeeee**************
@@ -4698,7 +4698,7 @@ eeeeeeee**        ..::**eeeeeeeeeeeeee..  !!..++**....::......!!++++  ..++$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee**********************************++++eeeeeeeeeeeeeeeeeeeeeeeeeeeeee**********
 eeee************************************::eeeeeeeeeeeeee**eeeeeeeeeeee************
 eeeeeeee************++**************eeee::eeeeeeeeeeeeeeeeeeeeeeee****************
@@ -4775,7 +4775,7 @@ eeeeeeee**        ::::..eeeeeeeeeeeeee..  !!..++**::....!!......++++  ..++$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee********************************++++++eeeeeeeeeeeeeeeeeeeeeeeeeeeeee**********
 eeee************************************::eeeeeeeeeeeeee++eeeeeeeeeeee************
 eeeeeeee**********++****************eeee::eeeeeeeeeeeeeeeeeeeeeeee****************
@@ -4852,7 +4852,7 @@ eeeeeeee**        ::::..ee****eeeeeeee..  !!..++++......++......++++    ++$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee**************++******************++++eeeeeeeeeeeeee**eeeeeeeeeeeeee**********
 eeeeee**********************************::eeeeeeeeeeeeee..eeeeeeeeeeee************
 eeeeee******************************eeee::eeeeeeeeeeeeeeeeeeeeeeee****************
@@ -4929,7 +4929,7 @@ eeeeeeee**        ::::..eeeeeeeeeeeeee++..!!  ::++......++......++++    ++$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee************************************++eeeeeeeeeeeeee::eeeeeeeeeeeeee**********
 eeee**************++********************::eeeeeeeeeeeeee..eeeeeeeeee**************
 eeeeeeee******++****++**************eeee::eeeeeeeeeeeeeeeeeeeeee******************
@@ -5006,7 +5006,7 @@ eeeeeeee**        ::::..eeee**eeeeeeeeee..!!!!  ++......++......++++    ++$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee**********************************++++eeeeeeeeeeeeee..eeeeeeeeeeee************
 eeeeee**********++**++******************::eeeeeeeeeeeeee!!eeeeeeeeee**************
 eeeeee**************++**************eeee::eeeeeeeeeeeeeeeeeeeeeeee****************
@@ -5083,7 +5083,7 @@ eeeeeeee**        ::::..eeee**eeeeeeeeee..  ++..**......++......++++    ++ee$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee********************++**************++eeeeeeeeeeeeee..eeeeeeeeeeee************
 eeee************************************::eeeeeeeeeeeeee**eeeeeeeeee**************
 eeeeeeee************++**************eeee::eeeeeeeeeeeeeeeeeeeeeeee****************
@@ -5160,7 +5160,7 @@ eeeeeeee**        ..::..ee**!!eeeeeeeeee..  !!  ..  ....++......++++::  ++++$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee************************************++eeeeeeeeeeeeee++eeeeeeeeeeee************
 eeee************************************!!eeeeeeeeeeeeeeeeeeeeeeee****************
 eeeeee**************++**************eeee::eeeeeeeeeeeeeeeeeeeeeeee****************
@@ -5237,7 +5237,7 @@ eeeeeeeeee        ::::::eeee!!eeeeeeeeee    ++  ........++......++++++  ::++$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee************************************++eeeeeeeeeeeeeeeeeeeeeeeeeeee************
 eeee************************************++eeeeeeeeeeeeeeee**eeeeeeee**************
 eeeeeeee**********++++**************eeee::eeeeeeeeeeeeeeeeeeeeeeee****************
@@ -5314,7 +5314,7 @@ eeeeeeeeee!!      ..::::ee**!!eeeeeeeeee    !!  !!!!....++......++++++  ..++$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee******************++**************++++eeeeeeeeeeeeeeeeeeeeeeeeee**************
 eeee**ee********++++********************eeeeeeeeeeeeeeeeeeeeeeeeee****************
 eeeeeeee******++**++++++************eeee**eeeeeeeeeeeeeeeeeeee********************
@@ -5391,7 +5391,7 @@ eeeeeeeeee**      ..::::ee**!!eeeeeeeeee    !!..!!**....++......++++++    ++$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee****************++********************++eeeeeeeeeeeeeeee**eeeeeeee**************
 eeeeeeee********************************eeeeeeeeeeeeeeeeeeeeeeee******************
 eeee**ee************++++************eeeeeeeeeeeeeeeeeeeeeeeeeeee******************
@@ -5468,7 +5468,7 @@ eeeeeeee****        ::::ee****eeeeeeeeee    !!..!!**....++......++++++    ++$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee************++**********************++eeeeeeeeeeeeeeee**eeeeeeee**************
 eeee**ee********************************eeeeeeeeeeeeeeeeeeeeeeee******************
 eeeeeeee**********++**++************eeeeeeeeeeeeeeeeeeeeeeeeee********************
@@ -5545,7 +5545,7 @@ eeeeeeeeee**        ::::ee****eeeeeeeeee..  !!  !!**....!!......!!++++  ..++$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee**************++**********************++**eeeeeeeeeeeeee++eeeeee****************
 eeee************************************ee**eeeeeeeeeeeeeeeeeeee******************
 eeeeeeee********++******************eeeeeeeeeeeeeeeeeeeeeeeeee********************
@@ -5622,7 +5622,7 @@ eeeeeeee****        ::::ee**eeeeeeeeeeee..  !!  !!**......!!......++++    ++$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****ee************++**********************!!eeeeeeeeeeeeee..**eeee****************
 eeeeee************++******************eeee!!eeeeeeeeeeeeeeeeee********************
 **ee**ee****************************eeeeee++eeeeeeeeeeeeeeee**********************
@@ -5699,7 +5699,7 @@ eeeeeeeeee**        ::::eeeeeeeeeeeeeeee....!!  !!**......!!......++++    ++ee$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee************++**++++********************::eeeeeeeeeeeeee..**ee******************
 eeeeeeee********************************ee::eeeeeeeeeeeeeeeeeeee******************
 **eeeeeeee************++************eeeeee::eeeeeeeeeeeeeeee**********************
@@ -5776,7 +5776,7 @@ eeeeeeeeee**        ::::eeeeeeeeeeeeeeee....!!  !!**::..::++......++++    ++++$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee**************************************::eeeeeeeeeeeeee!!ee**ee****************
 eeeeeeee******************************eeee::eeeeeeeeeeeeeeeeee********************
 ++eeeeeeee**************++**********eeeeee::eeeeeeeeeeeeeeeeee********************
@@ -5853,7 +5853,7 @@ eeeeeeeeee**        ::::eeeeeeeeeeeeeeee..  !!..++**......++......++++..  ::++$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeeeee********++++++++********************::eeeeeeeeeeeeee****ee******************
 eeee**ee**********++******************eeee::eeeeeeeeeeeeeeee**********************
 !!eeee**ee**************************eeeeee::eeeeeeeeeeeeeeeeee********************
@@ -5930,7 +5930,7 @@ eeeeeeeeee**        ::::eeeeeeeeeeeeeeee..  !!..++**......++......++**$$  ..++$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee****************************************::eeeeeeeeeeeeeeee**ee******************
 eeeeeeee************++++**************eeee::eeeeeeeeeeeeeeeeee********************
 ..eeeeee********++******************eeeeee::eeeeeeeeeeeeeeeeee********************
@@ -6007,7 +6007,7 @@ eeeeeeeeee**        ::::eeeeeeeeeeeeeeee..  !!..++**......++......++**$$  ..++$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee************++++****++****************::eeeeeeeeeeeeeeee**ee******************
 eeeeee**********++++++++**************eeee::eeeeeeeeeeeeeeee**********************
   eeeeee**********++++**************eeeeee::eeeeeeeeeeeeeeee**********************
@@ -6084,7 +6084,7 @@ eeeeeeeeee**        ::::**eeeeeeeeeeeeee::  !!..!!**......++......++**$$    ++$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee****************++********************!!eeeeeeeeeeeeeeee**ee******************
 eeeeee********************************eeee::eeeeeeeeeeeeeeee**********************
   eeeeeeee**************************eeeeee::eeeeeeeeeeeeeeee**********************
@@ -6161,7 +6161,7 @@ eeeeeeeeee**        ::::::eeeeeeeeeeeeee++..!!!!  **......++......++ee$$    ++$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee************++++++********************++eeeeeeeeeeeeeeeeee********************
 eeeeeeee************++++**************eeee::eeeeeeeeeeeeeeee**********************
   **eeee************++**************eeeeee::eeeeeeeeeeeeeeee**********************
@@ -6238,7 +6238,7 @@ eeeeeeeeee**        ..::..eeee**eeeeeeeeee....++::++......++::....++ee$$    ++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee**ee**********++**++**********************eeeeeeeeeeeeeeee**ee******************
 eeeeee**********++****++**************eeee++eeeeeeeeeeeeeeeeee********************
   **eeee********++******************eeeeee::eeeeeeeeeeeeeeee**********************
@@ -6315,7 +6315,7 @@ eeeeeeeeee**        ..::..eeeeeeeeeeeeeeee    ++....::....++::....::$$$$    !!++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeeeee**************++++++****************eeeeeeeeeeeeeeeeeeee********************
 eeee****************++++++************eeeeeeeeeeeeeeeeeeeeee**********************
   eeeeee******++******++************eeeeeeeeeeeeeeeeeeeeeeee**********************
@@ -6392,7 +6392,7 @@ eeeeeeeeee**        ..::..eeeeeeeeeeeeeeee    ++  ++**....::!!......$$$$    ..++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeeeee**********++**++********************eeeeeeeeeeeeeeeeeeee********************
 eeeeeeee************++++**************eeeeeeeeeeeeeeeeeeeeee**********************
   **eeeeee**************************eeeeeeeeeeeeeeeeeeeeeeee**********************
@@ -6469,7 +6469,7 @@ eeeeeeeeee**        ..::..eeee++eeeeeeeeee    !!..****......++......$$$$ee    ++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeeeee************++**********************ee++eeeeeeeeeeeeeeee********************
 **eeeeee**********++++++**************eeeeee**eeeeeeeeeeeeee**********************
   !!**ee************++**************eeeeeeeeeeeeeeeeeeeeeeee**********************
@@ -6546,7 +6546,7 @@ eeeeeeeeee**        ..::::eeee!!eeeeeeeeee    !!::****....::++......$$$$$$    ++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeeeee**********++++++********************ee::eeeeeeeeeeeeee**********************
 ++eeeeee**********++**++++************eeeeee!!eeeeeeeeeeeeee**********************
   ..ee******************************eeeeeeee++eeeeeeeeeeee************************
@@ -6623,7 +6623,7 @@ eeeeeeeeee**        ..::::ee**!!eeeeeeeeee    !!  ****....::++......$$$$$$    ++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeeeee**************++******************eeee::eeeeeeeeeeeeee**********************
 !!eeeeeeee**************++************eeeeee::eeeeeeeeeeeeee**********************
 ..  eeee**ee************************eeeeeeee::eeeeeeeeeeee************************
@@ -6700,7 +6700,7 @@ eeeeeeeeee**::      ..::::ee**!!eeeeeeeeee  ..!!::****......++......$$$$$$  ..++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeeeeeee**********++++******************eeee::eeeeeeeeeeeeeeee******************++
 !!eeeeeeee********++****++************eeeeee::eeeeeeeeeeeeee**********************
 ::  eeeeee******++******************eeeeeeee::eeeeeeeeeeee************************
@@ -6777,7 +6777,7 @@ eeeeeeeeeeee**        ::::ee****eeeeeeeeee..  !!!!****......++......$$$$$$  ..!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeeeeeee**************++****************eeee::eeeeeeeeeeeeee********************++
 !!eeeeeeee****************************eeeeee::eeeeeeeeeeee********************++++
 !!  **eeeeee********++++************eeeeeeee::eeeeeeeeeeee**********************++
@@ -6854,7 +6854,7 @@ eeeeeeeeeeee**        ::::ee****eeeeeeeeee..  !!..++++......++......$$$$$$....++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**eeee************++********************eeee::eeeeeeeeeeeeeeee****************++++
 !!eeeeeeee**************++************eeeeee::eeeeeeeeeeeeee****************++++++
 ++  eeeeeeee************************eeeeeeee::eeeeeeeeee**************************
@@ -6931,7 +6931,7 @@ eeeeeeeeeeee**        ::::ee****eeeeeeeeee..  !!..++++......++......::$$$$**..++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**eeee************++********************eeee::eeeeeeeeeeeeee****************++++++
 !!eeeeee********++****++++************eeeeee::eeeeeeeeeeee******************++++++
 ++  **eeee**************************eeeeeeee::eeeeeeeeeeee**********************++
@@ -7008,7 +7008,7 @@ eeeeeeeeeeee**        ..::eeee**eeeeeeeeee..  !!..++++......!!!!......$$$$$$..++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++eeeeee**********++++**++**************eeee::eeeeeeeeeeeeee****************++++++
 !!eeeeee**********++++****************eeeeee::eeeeeeeeeeee****************++++++++
 ++  **eeee********++++************eeeeeeeeee::eeeeeeeeee************************++
@@ -7085,7 +7085,7 @@ eeeeeeeeeeee**        ..::eeeeeeeeeeeeeeee..  !!!!..++......::!!......$$$$$$!!++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++eeee************++++++++**************eeee!!eeeeeeeeeeeeee****************++++++
 !!**eeee****************++************eeeeee::eeeeeeeeeeee**************++++++++++
 ++  ++eeee************************eeeeeeeeee::eeeeeeeeee******************++++++++
@@ -7162,7 +7162,7 @@ eeeeeeeeeeee**        ..::eeeeeeeeeeeeeeee::  !!!!..!!  ....::++......$$$$ee++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++eeee**ee****++****++++++**************eeee**eeeeeeeeeeeeee************++++++++++
 ::**eeee**********++**++**************eeeeee++eeeeeeeeeeee**************++++++++++
 ++  ::ee**ee**********************eeeeeeeeee++eeeeeeeeee****************++++++++++
@@ -7239,7 +7239,7 @@ eeeeeeeeeeee**        ..::eeeeeeeeeeeeeeee**    !!!!..!!....::++......$$$$**++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++**ee************++++++++**************eeeeeeeeeeeeeeeeee**************++++++++++
 ::!!eeeeee****************************eeeeeeeeeeeeeeeeee****************++++++++++
 ++..  **eeee**********++**********eeeeeeeeeeeeeeeeeeeeee****************++++++++++
@@ -7316,7 +7316,7 @@ eeeeeeeeeeee**        ..::eeeeeeeeeeeeeeeeee    !!  !!!!......++..++..$$$$++::++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!eeee**ee**********++**++**************eeeeee++eeeeeeeeee**************++++++++++
 ::  ee**************++**++************eeeeeeee**eeeeeeee**************++++++++++++
 ++!!  **ee**********++++**********eeeeeeeeeeeeeeeeeeeeee**************++++++++++++
@@ -7393,7 +7393,7 @@ eeeeeeeeeeee**        ..::**eeeeeeeeeeeeeeee..  !!  !!!!......++..ee..$$$$::  !!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::******************++++++**************eeeeee::eeeeeeee**************++++++++++++
 ::  eeee************++****************eeeeeeee!!eeeeeeee**************++++++++++++
 ++++  **ee**************++********eeeeeeeeeeee++eeeeee****************++++++++++++
@@ -7470,7 +7470,7 @@ eeeeeeeeeeee**        ..::!!eeee**eeeeeeeeee    !!  !!++......++::**..**$$..    
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..eeee**ee******++++++++++**************eeeeee::eeeeeeee**************++++++++++++
 !!  **eeee**********++++++************eeeeeeee::eeeeee****************++++++++++++
 ++++  **ee**********++++++********eeeeeeeeeeee::eeeeee****************++++++++++++
@@ -7547,7 +7547,7 @@ eeeeeeeeeeeeee        ..::..eeee**eeeeeeeeee    !!  !!++......!!!!......$$..    
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '  eeeeeeee********++**++++++************eeeeee::eeeeeeee**************++++++++++++
 !!  **eeeeee************++************eeeeeeee::eeeeeeee************++++++++++++++
 ++++  eeee************++************eeeeeeeeee::eeee******************++++++++++++
@@ -7624,7 +7624,7 @@ eeeeeeeeeeeeee        ....::eeee++eeeeeeeeee    !!..!!**........++..**..ee      
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '  eeeeee**ee******++++++++**************eeeeee::eeeeeeee**************++++++++++++
 ++  eeeeee**********++****************eeeeeeee::eeeeeeee************++++++++++++++
 ++++  ++**************++************eeeeeeeeee::eeeeee****************++++++++++++
@@ -7701,7 +7701,7 @@ eeeeeeeeeeeeee!!        ..::eeee++eeeeeeeeee..  !!!!::**........++..$$..**!!    
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '  **eeee**********++**++++++************eeeeee**eeeeeeee**************++++++++++++
 ++  **eeeeee********++****************eeeeeeee++eeeeeeee**************++++++++++++
 ++++    eeeeee******++++++**********eeeeeeeeee++eeeeeeee**************++++++++++++
@@ -7778,7 +7778,7 @@ eeeeeeeeeeeeee**        ..::ee****eeeeeeeeee::  ..!!  ++**......++..$$..++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '  **ee**ee********++++++++++************eeeeeeee**eeeeee**************++++++++++++
 ++  ..eeee**********++++++**++********eeeeeeeeee**eeeeee**************++++++++++++
 ++++..  ee**************************eeeeeeeeeeee**eeee**************++++++++++++++
@@ -7855,7 +7855,7 @@ eeeeeeeeeeeeee**        ..::eeeeeeeeeeeeeeee**    !!..**ee......++!!$$..++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '  ++eeee************++++++++************eeeeeeee!!eeeeee**************++++++++++++
 ++    ee************++++++++**********eeeeeeeeee!!eeeeee**************++++++++++++
 ++++!!  ee**********++++++++********eeeeeeeeeeee++eeee**************++++++++++++++
@@ -7932,7 +7932,7 @@ eeeeeeeeeeeeee**        ..::eeeeeeeeeeeeeeeeee    !!..ee**......**++++..++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '  !!****************++++++++************eeeeeeee::eeeeeeee**************++++++++++
 ++::  ****************++++++**********eeeeeeeeee::eeeeee**************++++++++++++
 ++++!!  ****************++++********eeeeeeeeeeee::eeee****************++++++++++++
@@ -8009,7 +8009,7 @@ eeeeeeeeeeeeee**        ..::eeeeeeeeeeeeeeeeee    !!..ee**........++..::++++!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '  !!eeee**********++++****++************eeeeeeee::eeeeeeee**************++++++++++
 ++!!  eeee**ee******++++**++**********eeeeeeeeee..eeeeee****************++++++++++
 ++++++  **ee**********++++++********eeeeeeeeeeee::eeeeee****************++++++++++
@@ -8086,7 +8086,7 @@ eeeeeeeeeeeeee**        ..::::eeeeeeeeeeeeeeee    !!..ee**........++..!!++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..!!eeeeee************++++++************eeeeeeee::eeeeeeee**************++++++++++
 ++!!  eeee**********++++++************eeeeeeeeee::eeeeee****************++++++++++
 ++++++  **ee************++**********eeeeeeeeeeee::eeeeee**************++++++++****
@@ -8163,7 +8163,7 @@ eeeeeeeeeeeeeeee        ......eeee**eeeeeeeeee..  !!::****....::..++..!!++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!::eeeeeeee********++++++++************eeeeeeee::eeeeeeee**************++++++++++
 ++++  eeeeeeee********++++++**********eeeeeeeeee::eeeeeeee**************++++++++++
 ++++++  ++ee************++++********eeeeeeeeeeee::eeeeee****************++++******
@@ -8240,7 +8240,7 @@ eeeeeeeeeeeeeeee        ......eeee!!eeeeeeeeee..  !!!!..**::..$$..++++++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!..eeeeee************++****************eeeeeeee++eeeeeeee**************++++++++++
 ++++  **eeee**************++**********eeeeeeeeee!!eeeeee****************++++++++++
 ++++++  ..eeee********++++++********eeeeeeeeeeee..eeee********************++******
@@ -8317,7 +8317,7 @@ eeeeeeeeeeeeeeee        ....::eeee!!eeeeeeeeee..  !!!!..eeee..$$..ee++++!!++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++..eeeeeeeeee******++**++++************eeeeeeeeeeeeeeee****************++++++++++
 ++++  ::eeeeee************++**********eeeeeeeeeeeeeeeeee****************++++++++**
 ++++++..  eeee**********++**********eeeeeeeeeeee**eeee************************++**
@@ -8394,7 +8394,7 @@ eeeeeeeeeeeeeeee..            eeee!!eeeeeeeeee..    !!..eeeeeeeeee++++!!++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++..++eeeeeeee**********++++************eeeeeeeeee**eeee****************++++++++++
 ++++    eeeeee************************eeeeeeeeeeee**ee******************++++++++++
 ++++++!!  eeee**********++++********eeeeeeeeeeeeee**ee****************************
@@ -8471,7 +8471,7 @@ eeeeeeeeeeeeeeee    ..::!!    ee****eeeeeeeeee**    !!++++++++++++++++++++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++::..eeeeee****************************eeeeeeeeee!!eeee****************++++++++++
 ++++....eeee**************************eeeeeeeeeeee**ee****************++**++++**++
 ++++++++  ee************++++++******eeeeeeeeeeeeee**ee********************++++**++
@@ -8548,7 +8548,7 @@ eeeeeeeeeeeeeeee..      ..::  ee**!!eeeeeeee**ee    !!**++++++++++$$++$$$$$$!!$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++::  eeeeeeee**************************eeeeeeeeee::eeee****************++++++++++
 ++++!!  eeee************++************eeeeeeeeeeee::ee******************++++++++++
 ++++++++  eeeeee********++**********eeeeeeeeeeeeee!!**********************++++****
@@ -8625,7 +8625,7 @@ eeeeeeeeeeeeeeee..      ::::  ee**!!eeeeeeeeeeee..  !!**++++++++++$$++++$$$$!!$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++!!  eeeeeeee**************************eeeeeeeeee::eeee****************++++++++++
 ++++++  eeeeeeee**********++**********eeeeeeeeeeee::ee******************++++++++++
 ++++++++  **ee**********++**********eeeeeeeeeeeeee::ee********************++**++**
@@ -8702,7 +8702,7 @@ $$$$$$$$$$$$eeeeeeee**********ee****eeeeeeeeeeee    !!************$$$$++$$$$++$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++!!  eeeeeeee**********++**************eeeeeeeeee::ee******************++++++++++
 ++++++  **eeeeee**********************eeeeeeeeeeee::ee****************++++++++++++
 ++++++++  !!ee**********++**********eeeeeeeeeeeeee::********************++**++****
@@ -8779,7 +8779,7 @@ ee$$$$$$$$$$eeeeeeeeee********ee**eeeeeeeeeeeeee    !!++**********$$$$++$$$$ee$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++  **eeeeee************++************eeeeeeeeee::eeee**************++++++++++++
 ++++++  !!eeee************************eeeeeeeeeeee::ee****************++++++++++++
 !!++++++....eeee**********++********eeeeeeeeeeeeee..******************++****++++++
@@ -8856,7 +8856,7 @@ ee$$$$$$$$$$$$eeeeee**********eeeeeeeeeeeeeeee**    !!++**********$$$$++$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++  ::eeeeeeee********++**************eeeeeeeeee::ee****************++++++++++++
 ++++++  ..eeeeee******++**************eeeeeeeeeeee::ee**************++++++++++++++
 ++++++++!!  eeeeeeee****++++******eeeeeeeeeeeeeeee::****************++++++++++****
@@ -8933,7 +8933,7 @@ ee$$$$$$$$$$eeeeeeee**********eeeeeeeeeeeeeeeeee    !!!!**********ee$$++$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++  ..eeeeee************++************eeeeeeeeee::******************++++++++++++
 ++++++!!  ee**ee**********++********eeeeeeeeeeeeee::**************++++++++++++++++
 ++++++++++  **eeeeee******++++****eeeeeeeeeeeeeeee::******************++++++++++**
@@ -9010,7 +9010,7 @@ ee$$$$$$$$$$$$eeeeee**********eeeeee**eeeeeeee!!      !!**************++!!******
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++::  eeeeeeee************************eeeeeeeeee!!****************++++++++++++++
 ++++++++  eeee**ee******************eeeeeeeeeeeeee::****************++++++++++++++
 ++++++++++  **eeee********++******eeeeeeeeeeeeeeee::**************++++++++++++++++
@@ -9087,7 +9087,7 @@ ee$$$$$$$$$$$$eeeeee**********!!eeee**eeeeee::        !!****************!!******
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++  eeeeeeee**********++**********eeeeeeeeeeee******************++++++++++++++
 ++++++++  **eeee********************eeeeeeeeeeeeee******************++++++++++++++
 ++++++++++  !!ee**********++******eeeeeeeeeeeeeeee++******************++++++++++!!
@@ -9164,7 +9164,7 @@ $$@@@@$$$$$$$$eeee************!!++****eeeeeeee**::..  !!!!!!!!!!!!!!!!!!!!!!!!::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++  **eeeeeeee********************eeeeeeeeeeeeee++**************++++++++++++++
 ++++++++  ::eeeeeeee****************eeeeeeeeeeeeee****************++++++++++++++++
 ++!!++++++..  eeeeee******++******eeeeeeeeeeeeeeee****************++++++++++++++::
@@ -9241,7 +9241,7 @@ $$@@@@$$$$$$$$eeee**********++$$ee**eeeeeeeeee****....!!**++++++++++!!!!!!!!!!!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++  ..eeeeee**********************eeeeeeeeeeee**::************++++++++++++++++
 ++++++++..  eeeeee********++********eeeeeeeeeeeeee**!!**************++++++++++++++
 ++!!++++++!!  eeee********++******eeeeeeeeeeeeeeee**!!************++++++++++++++::
@@ -9318,7 +9318,7 @@ ee@@@@$$$$$$$$eeee**********++eeee**eeeeeeeeee****....!!++++++++++++!!!!!!!!!!!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++....eeee**ee******++************eeeeeeeeeeeeee..************++++++++++++++++
 !!++++++!!  eeeeee********++********eeeeeeeeeeeeee**..************++++++++++++++++
 ++!!++++++++  eeeeee******++++****eeeeeeeeeeeeee****::************++++++++++++++::
@@ -9395,7 +9395,7 @@ $$$$$$$$$$$$eeee********++++++++ee**!!eeeeeeee****::..!!!!****************!!++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++!!  eeeeeeee********************eeeeeeeeeeeeee::************++++++++++++++++
 ++++++++++  eeee********++**********eeeeeeeeeeee****::************++++++++++++++++
 ++++++++++++  **eeee****++++++****eeeeeeeeeeeeee****::************++++++++++++!!::
@@ -9472,7 +9472,7 @@ ee$$$$$$$$$$eeee********++++++++ee**++eeeeeeee****::..::!!****************!!**++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++  eeeeeeee**********++********eeeeeeeeeeeeee..**********++++++++++++++++++
 ++++++++++  **ee**ee******++++******eeeeeeeeeeeeee**..**********++++++++++++++++++
 ++++++++++++  ..ee********++++****eeeeeeeeeeeeee****..************++++++++++++::::
@@ -9549,7 +9549,7 @@ $$$$$$$$$$$$ee********++++++++++$$**!!eeeeeeee****....  !!****************!!++ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++  ++eeeeeeee**********++******eeeeeeeeeeeeee..**********++++++++++++++++++
 ++++++++++  ..ee**ee******++++******eeeeeeeeeeeeee**..**********++++++++++++++++++
 ++++++++++++..  ee********++++++**eeeeeeeeeeee******..**********++++++++++++++::::
@@ -9626,7 +9626,7 @@ $$$$$$$$$$$$eeee******++++++++++ee**!!eeeeeeeeee**....  !!****************!!!!ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++  ..eeeeee********************eeeeeeeeeeee**..**********++++++++++++++++++
 ++++++++++..  eeee********++++******eeeeeeeeeeee****..************++++++++++++++++
 ++++++!!++++!!  eeee******++++++**eeeeeeeeeeee******..**********++++++++++++++::::
@@ -9703,7 +9703,7 @@ ee$$$$$$$$$$ee********++++++++++$$**++eeeeeeeeee**::..  !!****************++!!ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++::..eeeeee********++**********eeeeeeeeee****!!**********++++++++++++++++++
 ++!!++++++++  eeee********++++******eeeeeeeeeeee****::************++++++++++++++::
 ++++++!!++++++  **********++++++eeeeeeeeeeeeeeee****::********++++++++++++++::::::
@@ -9780,7 +9780,7 @@ eeeeeeeeeeee******++++++++++++++$$++**eeee$$ee$$****..  !!++****************!!**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!++++++++  eeeeee********++**********eeeeeeeeeeee************++++++++++++++++++++
 ++!!!!++++++  **eeee******++++****eeeeeeeeeeeeee****************++++++++++++++++::
 ++++++!!++++++  **********++++++eeeeeeeeeeeeee******++********++++++++++++++::::::
@@ -9857,7 +9857,7 @@ eeeeeeeeeeee******++++++++++++++$$++****ee$$$$$$****....!!!!****************!!++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!++++++++  eeeeee********++**********eeeeeeeeeeee****!!******++++++++++++++++++++
 ++++++++++++  **ee********++++****eeeeeeeeeeeeee******!!********++++++++++++++++::
 ++**++++++++++  ::ee******++++++eeeeeeeeeeeeee********++******++++++++++++++::::::
@@ -9934,7 +9934,7 @@ echo -en '!!++++++++  eeeeee********++**********eeeeeeeeeeee****!!******++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++  ++eeee********************eeeeeeeeeeee****::********++++++++++++++++++
 ++++++++++++  ..ee********++++****eeeeeeeeeeeeee******::********++++++++++++++++::
 ++++++++++++++....ee******++++++eeeeeeeeeeeeee********::******++++++++++++++::::::
@@ -10011,7 +10011,7 @@ echo -en '++++++++++  ++eeee********************eeeeeeeeeeee****::********++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++  ::eeee**********++********eeeeeeeeee******::********++++++++++++++++++
 ++++++++++++    eeee******++++++**eeeeeeeeeeeeee******..********++++++++++++++++::
 ++++++++++++++..  ********++++++eeeeeeeeeeeeeeee******::******++++++**++++++::::::
@@ -10088,7 +10088,7 @@ echo -en '++++++++++  ::eeee**********++********eeeeeeeeee******::********++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++    eeeeee******++++++****eeeeeeeeeeeeee****::********++++++++++++++++++
 ++++++++++++..  eeee******!!++****eeeeeeeeeeeeee******..********++++++++++++++++::
 ++++**++++++++++  eeee****++++++eeeeeeeeeeeeee********..********++++++++++++::::::
@@ -10165,7 +10165,7 @@ echo -en '++++++++++    eeeeee******++++++****eeeeeeeeeeeeee****::********++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++!!..  eeee********++++********eeeeeeeeeeee****..********++++++++++++++++++
 ++++++++++++!!  eeee******++++++****eeeeeeeeeeee******..********++++++++++++++!!::
 ++++**++++++++++  eeee****++++++**eeeeeeeeeeee********..********++++++++++++::::::
@@ -10242,7 +10242,7 @@ echo -en '++++++++!!..  eeee********++++********eeeeeeeeeeee****..********++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++!!  eeee**********++********eeeeeeeeeeee****::********++++++++++++++++++
 ++++++!!++++!!  eeee******++**++**eeeeeeeeeeeeee******::********++++++++++++++::::
 ++++**++++++++++  **********++++**eeeeeeeeeeeeee******..********++++**++++!!::::::
@@ -10319,7 +10319,7 @@ echo -en '++++++++++!!  eeee**********++********eeeeeeeeeeee****::********++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++  eeee********************eeeeeeeeeeee******++******++++++++++++++++++
 ++++**++++++++  **********++++++**eeeeeeeeeeeeee****************++++++++++++++::::
 ++++**++++++++++  !!ee******++++!!eeeeeeeeeeee********++********++++++++++!!::::::
@@ -10396,7 +10396,7 @@ echo -en '++++++++++++  eeee********************eeeeeeeeeeee******++******++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++!!!!++++++  **ee**********++++****eeeeeeeeeeee********::****++++++++++++++++++++
 ++++++!!++++++  !!ee******++++++++eeeeeeeeeeee**********::****++++++++++++++++::::
 ++++ee++++++++++  ..********++!!!!eeeeeeeeeeee**********++****++++++++++++::::::::
@@ -10473,7 +10473,7 @@ echo -en '++!!!!++++++  **ee**********++++****eeeeeeeeeeee********::****++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++!!++++++    ee********++++++++**eeeeeeeeeeee********..****++++++++++++++++++!!
 ++++**++++++++    ee********++++++eeeeeeeeee************::****++++++++++++++++::::
 ++++@@++!!++++++..::********++!!!!eeeeeeeeee************::****++++++++++++::::::::
@@ -10550,7 +10550,7 @@ echo -en '++++!!++++++    ee********++++++++**eeeeeeeeeeee********..****++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++!!++++++++..  ee**********++++****eeeeeeeeee**********..****++++++++++++++++++::
 ++++**++++++++!!  **********++++++eeeeeeeeee************..**++++++++++++++++::::::
 ++++@@++!!++++++....********++!!!!eeeeeeeeee************::****++++++++++++::::::::
@@ -10627,7 +10627,7 @@ echo -en '++!!++++++++..  ee**********++++****eeeeeeeeee**********..****++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++!!++++!!  **eeee****++++++****eeeeeeeeeeee********..****++++++++++++++++++::
 ++++++++++++++++  **********++++++eeeeeeeeeeee**********..**++++++++++++++++::::::
 ++++@@++++++++++::..********++!!!!eeeeeeeeee************..**++++++++++++::::::::::
@@ -10704,7 +10704,7 @@ echo -en '++++++!!++++!!  **eeee****++++++****eeeeeeeeeeee********..****++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++!!++++++  eeee******++++++****eeeeeeeeee**********..**++++++++++++++++++++::
 ++++**++++++++++  !!ee******++++!!eeeeeeeeeeee**********..++++++++++++++++++::::::
 ++++@@++++++++++..  ********++!!!!eeeeeeeeee************..**++++++++++++::::::::::
@@ -10781,7 +10781,7 @@ echo -en '++++++!!++++++  eeee******++++++****eeeeeeeeee**********..**++++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++++  **********++++++****eeeeeeeeee**********..**++++++++++++++++++!!::
 ++++**++!!++++++  ::********++++!!eeeeeeeeeeee**********..++++++++++++++++++::::::
 ++++@@++++++++++::....******++++!!eeeeeeeeee************..**++++++++++++::::::::..
@@ -10858,7 +10858,7 @@ echo -en '++++++++++++++  **********++++++****eeeeeeeeee**********..**++++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++!!++++++  ..**********++++++**eeeeeeee************!!++++++++++++++++++++::::
 ++**ee++++++++++  ..********++++!!eeeeeeeeee************!!**++++++++++++++++::::::
 ++++ee++++++++::++....******++!!!!eeeeeeee**************..++++++++++++++::::::::..
@@ -10935,7 +10935,7 @@ echo -en '++++++!!++++++  ..**********++++++**eeeeeeee************!!++++++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++!!++++++  ..**********++++++**eeeeeeee**************++++++++++++++++++++::::
 ++**$$++++++++++..::********++++!!eeeeeeeeee**************!!++++++++++++++::::::::
 ++++**++++!!++::++!!  ********!!!!eeeeeeee**************++++++++++++++++::::::::..
@@ -11012,7 +11012,7 @@ echo -en '++++++!!++++++  ..**********++++++**eeeeeeee**************++++++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++++!!  **********++++++eeeeeeeeee************++!!++++++++++++++++++::::
 ++**@@++++++++++..::********++++!!eeeeeeee**************++::++++++++++++++::::::::
 ++++**++++++++..++++  ******++!!!!eeeeeeee****************!!++++++++++!!::::::::..
@@ -11089,7 +11089,7 @@ echo -en '++++++++++++++!!  **********++++++eeeeeeeeee************++!!++++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++**++++++++++++  **********++++++eeeeeeeeee**************..++++++++++++++++++::::
 ++**@@++!!++++++....********++!!!!eeeeeeee**************++::++++++++++++++::::::::
 ++++**++++++++..++++  ********++!!eeeeee****************++::++++++++++::::::::::..
@@ -11166,7 +11166,7 @@ echo -en '++**++++++++++++  **********++++++eeeeeeeeee**************..++++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++**++++++++++++  ::ee******++++++eeeeeeee**************++..++++++++++++++++!!::::
 ++**@@++++++++++::..**********!!!!eeeeee******************::++++++++++++++::::::::
 ++++++++++++++!!++++  ++******++!!eeeeee******************::++++++++++::::::::::..
@@ -11243,7 +11243,7 @@ echo -en '++**++++++++++++  ::ee******++++++eeeeeeee**************++..++++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++ee++!!++++++++  ::********++++++eeeeeeee****************..++++++++++++++++::::::
 ++**ee++++++++++::..::******++!!!!eeeeeeee**************++::++++++++++++++::::::::
 ++++++++++++!!++++++  ..******++!!eeeeee******************..++++++++++::::::::....
@@ -11320,7 +11320,7 @@ echo -en '++ee++!!++++++++  ::********++++++eeeeeeee****************..++++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++****++++++++++  ..********++++!!eeeeeeee****************..++++++++++++++++::::::
 ++****++++++++::++..  ******++!!!!eeeeee****************++..++++++++++++::::::::::
 ++++++++++++::++++++..  ******++!!eeeeee****************++..++++++++++::::::::....
@@ -11397,7 +11397,7 @@ echo -en '++****++++++++++  ..********++++!!eeeeeeee****************..++++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++ee**++++++++++..::********++++!!eeeeeeee****************..++++++++++++++++::::::
 ++++**++++++++::++!!  ********++!!eeeeee****************++..++++++++++++::::::::::
 ++++++++++++::++++++++  ****++++!!**eeee****************++..++++++++!!::::::::..::
@@ -11474,7 +11474,7 @@ echo -en '++ee**++++++++++..::********++++!!eeeeeeee****************..++++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++ee**++++++++++....********++++!!eeeeeeee****************..++++++++++++++!!::::::
 ++++**++++++++..++++  ********++!!eeeeee****************++..++++++++++++::::::::..
 ++++++++++++::++++++++  ******++!!**eeee****************++..++++++++::::::::::..::
@@ -11551,7 +11551,7 @@ echo -en '++ee**++++++++++....********++++!!eeeeeeee****************..++++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++@@**++++++++++::..**********++!!eeeeeeee**************++!!++++++++++++++::::::::
 ++++**++++++++::++++  ********++!!eeeeee****************++!!++++++++++!!::::::::..
 ++++++++++!!++++++++++  ******++!!**ee****************++**::++++++++::::::::....::
@@ -11628,7 +11628,7 @@ echo -en '++@@**++++++++++::..**********++!!eeeeeeee**************++!!++++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++@@**++++++++!!::  ++********++!!eeeeee****************++++::++++++++++++::::::::
 ++++**++++++!!++++++  ++******++!!eeee******************++++++++++++++::::::::::..
 ++++++++++::++++++++++  !!****++!!eeee******************++++++++++++::::::::....::
@@ -11705,7 +11705,7 @@ ee**********++++++!!++++++++++++++$$$$**ee****************::..  ::!!!!::::++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++@@**++++++++::!!  ..********!!!!eeeeee****************++++::++++++++++!!::::::::
 ++++++++++++::++++++  ..******++!!**ee******************++++++++++++++::::::::....
 ++++++++++::**++++++++..  ****++!!eeee******************++++::++++::::::::::....::
@@ -11782,7 +11782,7 @@ ee************++!!!!++++++++!!!!++$$$$++ee++**************::..  ::!!!!!!!!!!!!::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++ee**++++++++..++::  ********++!!ee******************++++++::++++++++++::::::::::
 ++++++++++++::++++++!!  ******++!!eeee****************++++++::++++++++::::::::....
 ++++++++++++**++++++++!!  ****++!!eeee****************++++++..++++::::::::....::::
@@ -11859,7 +11859,7 @@ eeeeeeee$$eeee********++++++++++++$$ee**eeeeeeeeee$$ee****....  !!!!************
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++**++++++++++!!++++  ********++!!ee******************++++++..++++++++++::::::::..
 ++++++++++!!!!++++++++  ******++!!ee****************++++++++..++++++::::::::::..::
 ++++++++::****++++++++++  ****++!!ee******************++++++..++++::::::::..::::!!
@@ -11936,7 +11936,7 @@ ee@@@@$$@@$$$$eeee**********++++++$$ee**eeeeeeeeeeeeee****....  !!!!++++!!!!!!!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++::++++++  ********++!!******************++++++++..++++++++::::::::....
 ++++++++++!!**++++++++  ****++++!!******************++++++++..++++++::::::::....::
 ++++++++::++ee++++++++++  ****++!!******************++++++++..++::::::::....::::**
@@ -12013,7 +12013,7 @@ ee@@@@@@@@$$$$$$eeee************++!!ee**eeeeeeeeeeeeee**  ....  !!!!!!!!!!!!!!!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++!!..++++++  ::****++++!!******************++++++++..++++++++::::::::....
 ++++++++++!!ee++++++++  ::****++!!******************++++++++..++++::::::::::....::
 ++++++!!++**$$++++++++++  ::**++!!******************++++++++..++..::::::  ..::::**
@@ -12090,7 +12090,7 @@ ee@@@@@@$$$$$$$$eeeeee************eeee**eeeeeeeeeeee    ..  ..  !!!!************
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++!!++++++++    ****++++!!******************++++++++..++++++++::::::::....
 ++++++++::++**++++++++    ****++!!****************++++++++++..++++::::::::....::::
 ++++++..++**@@++++++++++    **++!!******************++**++++..!!....::....::::++**
@@ -12167,7 +12167,7 @@ ee$$$$$$$$$$$$$$eeeeee************eeeeeeeeeeeeeeeeee..      ..  !!!!************
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++!!++++++++::  ****++++!!******************++++++++..++++++::::::::::....
 ++++++++::****++++++++!!  ****++!!******************++++++++..++++::::::......::::
 ++++++..++**@@++++++++++!!  **++!!******************++++++++..............::::ee**
@@ -12244,7 +12244,7 @@ ee$$$$$$$$$$$$$$eeeeee************eeeeeeeeeeeeeeeeee$$****....  !!!!************
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++::++++++++++  ****++++!!****************++++++++++..++++++::::::::....::
 ++++++++::****++++++++++  ****++!!****************++++++++++..++::::::::......::::
 ++++!!!!++**@@++++++++++!!  **++!!******************++++++++..........  ..::::****
@@ -12321,7 +12321,7 @@ ee$$$$$$$$$$$$eeeeeeeeee**********eeeeeeeeeeeeeeeeeeeeeeee  ..  !!!!********$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++!!++++++++++  ****++++!!**************++++++++++++::!!++++::::::..  ..::
 ++++++::++****++++++++++  **++++!!****************++++++++++::::......::......::**
 ++++..++++**@@++++++++++!!  ++++!!******************++++++++..............::++****
@@ -12398,7 +12398,7 @@ ee$$$$$$$$$$eeeeeeeeeeee**********eeeeee++eeeeeeeeeeeeeeee..    !!!!********@@$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++!!++++++++++++  ****++++!!**************++++++++++++++::++::::::::......::
 ++++++..++**ee++++++++!!  **++++!!****************++++++++++++..............::::ee
 ++++..++++**@@++++++++!!!!  ++++!!****************++++++++++!!............::ee**$$
@@ -12475,7 +12475,7 @@ ee$$eeeeeeeeeeeeee....        !!++eeeeee::eeeeeeeeeeeeeeee..    !!!!**++++++**$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++::++++++++++++  !!**++++!!**************++++++++++++++..++::::::::....::::
 ++++++..++eeee++!!++++++  !!++!!!!****************++++++++++++..............::::ee
 ++++  ++++**$$++++++++!!!!  ++++!!****************++++++++++++......  ..::::ee**$$
@@ -12552,7 +12552,7 @@ eeeeeeeeeeeeeeeeee..  !!!!::::..  eeeeee++eeeeeeeeeeeeeeee..  ..!!!!++++++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++::++++++++++++    **++++!!**************++++++++++++++..++::::........::::
 ++++!!..++$$ee++++++++++  ..++++!!****************++++++++++++..............::++ee
 ++!!!!++++**$$++++++++!!!!  ..++!!**************++++++++++++++..  ..  ..::!!ee**$$
@@ -12629,7 +12629,7 @@ eeeeeeeeeeeeeeeeee    ::::!!!!  !!eeeeee++eeeeeeeeeeeeeeee..    !!!!::++++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++**++++++++++..  **++++!!************++++++++++++++++..!!..::........::::
 ++++!!++++$$ee++!!++++++  ..++++!!**************++++++++++++++............::::**ee
 ++::++++++++ee++++++++!!!!....++!!**************++++++++++++++..  ..  ..::eeee$$$$
@@ -12706,7 +12706,7 @@ eeeeeeeeeeeeeeeeee              ..eeeeee++eeeeeeeeee::eeee::..  !!!!eeeeeeee****
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++::++****++++++++::  **++++!!**************++++++++++++++..............::::!!
 ++++..++++@@ee++++++++!!::  ++++!!**************++++++++++++++..  ....  ..::::eeee
 ++::++++++++ee++++++!!!!!!!!  ++!!****************++++++++++++..  ......::ee$$$$$$
@@ -12783,7 +12783,7 @@ eeeeeeeeeeeeeeeeee          ....::eeeeee++eeeeeeeeee  eeee::    ::!!**eeee....$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++::++**++++++++++++  **++++!!**************++++++++++++++..............::::**
 ++!!..++++@@**++++++!!!!!!  ++!!!!****************++++++++++++..  ....  ..::!!eeee
 ++::++++++++ee++++++!!!!!!!!  ++!!******************++++++++++..  ....::..eeee$$ee
@@ -12860,7 +12860,7 @@ eeeeeeeeeeeeeeeeee          ....::eeeeee**eeeeeeeeee  eeee**      !!++eeee....**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++..++ee++++++++++!!  ++++++!!**************++++++++++++++..............::::ee
 ++!!..++++@@**++!!++++!!!!  ++++!!**************++++++++++++++..............**eeee
 ++::++++++++**++++++++!!!!!!  ++!!**************++++++++++++++....    ::::ee$$$$**
@@ -12937,7 +12937,7 @@ eeeeeeeeeeeeeeeeee          ....::eeeeeeeeeeeeeeeeee++eeeeee      !!++eeee......
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++!!++$$**++++++++!!  !!++!!!!**************++++++++++++++..........  ....::**
 ++!!::++++$$**++++++++!!!!  ++!!!!**************++++++++++++++......  ......eeee**
 !!!!++++++++**++++++++!!!!!!  !!!!**************++++++++++++++::..    ::::ee$$$$**
@@ -13014,7 +13014,7 @@ eeeeeeeeeeeeeeeeee          ....::eeeeeeeeeeeeeeeeeeeeeeeeee..    !!!!ee**++....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++!!++++@@++++++++++++  ::++!!!!************++++++++++++++++!!..............****
 ++::!!++++$$**++++++++!!!!..!!++!!************++++++++++++++++!!..  ......::eeee**
 ::++++++++++**++++++++!!!!!!  !!!!************++++++++++!!++++!!..    ::::eeee$$ee
@@ -13091,7 +13091,7 @@ eeeeeeeeeeeeeeeeee            ..::eeeeeeeeeeeeeeeeeeee++eeee..    !!!!eeee**  ..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++..++++@@**++++++++!!..  ++!!!!************++++++++++++++++++..  ........::ee**
 ++..++++++ee**++++++!!!!!!....!!!!************++++++++++++++++++..  ....::!!eeeeee
   ++++++++++**++++++!!!!!!!!..  !!************++++++++++::++++++..    ::::**$$$$$$
@@ -13168,7 +13168,7 @@ eeeeeeeeeeeeeeeeee            ..::eeeeeeeeeeeeeeeeeeee  eeee::    !!!!++ee**....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++..++++@@**++!!++!!!!!!  ++!!!!**********++++++++++++++++++++..      ....::eeee
 ++  ++++++****++++!!++!!!!!!  ++!!**********++++++++++++++++++++..    ..::::ee$$$$
   ++++++++++++++++++!!!!!!!!::  !!**********++++++++++++::++++++..    ..::!!$$$$$$
@@ -13245,7 +13245,7 @@ eeeeeeeeeeeeeeeeee..  ..          eeeeeeeeeeeeeeeeeeee  eeee!!..    !!++eeeeee**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!++!!++++@@++++!!!!++!!!!  ++!!!!**********++++++++++++++++++++....    ....!!eeee
 !!!!++++++****++!!!!++!!!!!!  !!!!**********++++++++++++++!!++++....  ..::::eeee$$
 !!++++++++++++++++!!!!!!!!!!!!  !!**********++++++++++++::++++++....  ..::::**$$$$
@@ -13322,7 +13322,7 @@ eeeeeeeeeeeeeeeeee!!          ..::eeeeeeeeeeeeeeeeeeee  eeee**..    !!!!eeee!!..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++..++++++@@++++++!!!!!!!!  ::!!!!**********++++++++++++++++++++....    ..::**eeee
 ..!!++++++++**++++++!!!!!!!!  !!!!********++++++++++++++++::++++....    ::::ee$$$$
 !!++++++++++++++!!!!!!!!!!!!!!  !!**********++++++++++!!::::++++....    ::::++$$$$
@@ -13399,7 +13399,7 @@ eeeeeeeeeeeeeeeeee**          ....++eeeeeeeeeeeeeeeeee  eeeeee..    !!++eeee**::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++..++++++$$**++!!++!!!!!!    !!!!++******++++++++++++++++++++++!!..    ..::**eeee
 ..!!!!++++++**++++!!!!!!!!!!    !!++********++++++++++++++::++++!!..    ::::!!$$$$
 !!++++++++++++++++!!!!!!!!!!!!    ++********++++++++++::::::++++!!..    ::::++$$$$
@@ -13476,7 +13476,7 @@ eeeeeeeeeeeeeeeeee**          ....::eeeeeeeeeeeeeeeeee  eeeeee..    !!++**eeee**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!  !!++++$$**++!!!!!!!!!!..  ++!!!!******++++++++++++++++++++++++..    ..::::eeee
   ++++++++++**++!!!!!!!!!!!!..  !!!!******++++++++++++++++::++++++..    ..::::$$$$
 !!!!++++++++++++++++!!!!!!!!!!    ++******++++++++++++::::..++++++....  ::::!!**$$
@@ -13553,7 +13553,7 @@ eeeeeeeeeeeeeeeeeeee            ....eeeeee++eeeeeeeeee..**eeee..    ..!!++**eeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!  ++++++ee**++!!!!!!!!!!!!  !!!!!!******++++++++++++++++++++++++..      ::::eeee
   ++++++++++**++++!!!!!!!!!!::  !!!!******++++++++++++++!!::++++++..    ..::::ee$$
 ++!!++++++++++++!!!!!!!!!!!!!!..  !!********++++++++++::::..++++++..    ..::::++$$
@@ -13630,7 +13630,7 @@ eeeeeeeeeeeeeeeeeeee            ....eeeeee++eeeeeeeeee**  eeee::      !!++ee**ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!  ++++++ee**++!!!!!!!!!!!!  ++!!::******++++++++++++++++++++++++....    ..::eeee
   !!++++++++++++++!!!!!!!!!!!!  !!::******++++++++++++++::::++++++....    ::::**$$
 ++++++++++++++++!!!!!!!!!!!!!!::  ::********++++++++++::::..++++++....    ::::++$$
@@ -13707,7 +13707,7 @@ eeeeeeeeeeeeeeeeeeee            ..::eeeeee++eeeeeeeeeeee  eeeeee..    !!++ee**ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!++++++ee**++!!!!!!!!!!!!  !!!!::******++++++++++++++++!!!!++++....    ::::**ee
 ::!!!!++++++++++++!!!!!!!!!!!!  !!::******++++++++++++++::::++++++....    ::::++$$
 ++++++++++++++++++!!!!!!!!!!!!::  ::********++++++++++::::..++++++....    ::::++ee
@@ -13784,7 +13784,7 @@ eeeeeeeeeeeeeeeeeeee            ..::eeeeee++eeeeeeeeeeee  eeeeee..    !!++++**ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::!!++++++ee++++++!!!!!!!!!!  !!!!::******++++++++++++++++::!!++++::..    ::..!!ee
 !!!!!!++++++++++++!!!!!!!!!!!!  ::::******++++++++++++++::::!!++++::....  ::::!!$$
 ++++++++++++++++!!!!!!!!!!!!!!!!  ::******++++++++++++::::..!!++++::....  ::::!!++
@@ -13861,7 +13861,7 @@ eeeeeeeeeeeeeeeeeeee            ..::eeeeee++eeeeeeeeeeee  eeeeee..    !!++++eeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::++++!!++**++++++!!!!!!!!!!  !!!!::******++++++++++++++++::::++++!!..    ::::::$$
 ++++!!++++++++++++!!!!!!!!!!!!  ::::******++++++++++++++::::::++++!!....  ::::::$$
 ++++++++++++!!++++!!!!!!!!!!!!::  ::******++++++++++!!::::  ::++++::....  ::::::++
@@ -13938,7 +13938,7 @@ eeeeeeeeeeeeeeeeee++            ..::eeeeee++eeeeeeeeeeee  eeeeee..      !!++eeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::++++++++**++++++!!!!!!!!!!    !!::******++++++++++++++++..::++++++..    ::::::$$
 !!++++++++++++++!!!!!!!!!!!!!!  ..!!******++++++++++++!!::::::++++++....  ::::::**
 !!++++++++++++++!!!!!!!!!!!!!!::  ::******++++++++++::::..  ::++++!!....  ::::::++
@@ -14015,7 +14015,7 @@ eeeeeeeeeeeeeeeeee              ..::eeeeee++eeeeeeeeeeee  eeeeee..      !!++eeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!++++++++++++!!!!!!!!!!!!    !!++******++++++++++++++!!::::++++++....  ::::::$$
 !!++++++++++++++!!++!!!!!!!!!!    ********++++++++++++::::..::++++++....  ::::::++
 !!++++++++++++++!!!!!!!!!!!!!!::  **********++++++++::::..  ::++++++....  ::::::**
@@ -14092,7 +14092,7 @@ eeeeeeeeeeeeeeeeee              ....eeeeee++eeeeeeeeeeee  eeeeee..      !!++eeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!++!!++++++++++!!!!!!!!!!!!    !!******++++++++++++++++::::::++++++....  ::::::ee
 ++++++++!!++++!!++!!!!!!!!!!::    ********++++++++++++::::..::++++++....  ..::::++
 ++++++++++++++++!!!!!!!!!!!!::::  ********++++++++++::::..::!!++++++......::::::**
@@ -14169,7 +14169,7 @@ eeeeeeeeeeeeeeeeee              ....eeeeee++eeeeeeeeeeee  eeeeee..      !!++eeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!++++++++++++!!!!!!!!!!!!..  ::******++++++++++++++++::::::++++++....    ::::**
 ++!!++++++++++++++!!!!!!!!!!::    ********++++++++++!!::::  ::++++++........::::++
 ++++++++++++++++!!!!!!!!!!!!::::  ********++++++++!!::..  ::!!++++++....  ..::::**
@@ -14246,7 +14246,7 @@ eeeeeeeeeeeeeeeeee              ....eeeeee++eeeeeeeeeeee  eeeeee::      !!++**ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++++!!++!!!!!!!!!!::  !!******++++++++++++++!!::::::++++++....    ::::++
 ++++++++++++++++!!!!!!!!!!!!!!::  ********++++++++++::::..  ::++++++......  ::::++
 ++!!++!!++++++++!!!!!!!!!!!!::::..********++++++++::::..  **!!++++++......  ::::**
@@ -14323,7 +14323,7 @@ eeeeeeeeeeeeeeeeee              ..++eeeeee++eeeeeeeeeeee  eeeeee!!      !!++!!ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!++++++++++++++!!!!!!!!!!!!::  ::******++++++++++++++::::....++++++....    ::::++
 !!++++++++++++!!!!!!!!!!!!!!::::  ******++++++++++++::::..  ++++++++......  ::::++
 ++!!++++++++++++!!!!!!!!!!!!::::::********++++++++::::  ::**++++++++......  ::::++
@@ -14400,7 +14400,7 @@ eeeeeeeeeeeeeeeeee              ..eeeeeeee++eeeeeeeeeeee  eeeeee**      !!++++ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++!!++++++++++++++!!!!!!!!!!!!  ::******++++++++++++++::::....++++++......  ::::!!
 !!++++++++++++++!!!!!!!!!!!!::::  ******++++++++++++::::  ::**++++++......  ::::!!
 !!++++++++++++++!!!!!!!!!!::::::::********++++++::::..  !!ee**++++++......  ::::!!
@@ -14477,7 +14477,7 @@ eeeeeeeeeeeeeeeeee              ..eeeeeeee++eeeeeeeeeeee  **eeeeee..    !!++!!ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++++!!!!!!!!!!!!!!::  ::******++++++++++++::::..  ..++++++......  ::::!!
 ++++++++++++++++!!!!!!!!!!!!::::  ******++++++++++::::..  ::**++++++......  ::::!!
 !!++++++++!!++!!!!!!!!!!!!!!::::::******++++++++::::....**eeee++++++......  ::::!!
@@ -14554,7 +14554,7 @@ ee****eeeeeeeeeeee          ....::eeeeeeee++eeeeeeeeeeee  ++eeeeee      !!++++**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++++++!!!!!!!!!!!!::    ******++++++++++++::::..  ::++++++::....  ::::::
 ++!!++++++++!!!!!!!!!!!!!!!!::::  ******++++++++++::::....**ee++++++..::..  ::::::
 ++++++++++++++!!!!!!!!!!!!!!::::::********++++++::::  ::**eeee++++++......  ::::!!
@@ -14631,7 +14631,7 @@ eeeeeeeeeeeeeeee                ..eeeeeeee**eeeeeeeeeeee    eeeeee..    ::!!++ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++++!!!!!!!!!!!!!!::    ****++++++++++++++::::....**++++++::....  ::::!!
 ++++++++++++++!!!!!!!!!!!!!!::::  ******++++++++!!::::  ::eeee++++++::::....::!!!!
 ++++++++++!!!!++!!!!!!!!!!!!::::::********++++::::..  !!eeeeee++++++..::..  ::!!!!
@@ -14708,7 +14708,7 @@ eeeeeeeeeeeeeeee                ..eeeeeeeeeeeeeeeeeeeeee    eeeeee....    ++++ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++++!!!!!!!!!!::::::    ****++++++++++++::::..  ::ee++++**!!::....::!!!!
 ++!!++++++++++!!!!!!!!!!!!!!::::  ******++++++++::::..  ::eeee++++**!!::....::!!!!
 ++++++++!!++!!!!!!!!!!!!!!!!::::::********++++::::....eeeeeeee++++**::::....::!!!!
@@ -14785,7 +14785,7 @@ ee**eeeeeeeeeeee            ..::::eeeeeeeeeeeeeeeeeeeeee    eeeeee..      !!++**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++++!!!!!!!!!!!!::::..  ****++++++++++++::::..  !!ee++++**!!::....::::!!
 ++++++++++++++!!!!!!!!!!!!::::::  ****++++++++++::::....**eeee++++**!!::....::::!!
 ++++++++++!!++++!!!!!!!!!!::::::::********++++::::  ::eeeeeeee++****!!::::..::!!!!
@@ -14862,7 +14862,7 @@ eeeeeeeeeeeeeeee                ..eeeeeeeeeeeeeeeeeeeeee    eeeeee..      !!++!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++++!!!!!!!!!!!!::::::..****++++++++++++::::....**ee++++**++::......!!!!
 ++++++++++++!!!!!!!!!!!!!!!!::::..****++++++++!!::::  ::eeeeee++++**++::......::!!
 !!++++++++!!++++!!!!!!!!!!::::::::******++++::::::  !!eeeeeeee++****++::......!!!!
@@ -14939,7 +14939,7 @@ ee****eeeeeeeeee            ..::::eeeeeeeeeeeeeeeeeeeeee    eeeeee..      !!++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++++!!!!!!!!!!!!!!::::******++++++++++::::..  ::eeee++++++++::....  ::!!
 !!++++!!++++!!!!!!!!!!!!!!::::::******++++++++::::..  !!eeeeee++++++++::::..  !!!!
 !!!!!!!!++!!++!!!!!!!!!!!!::::::********++++::::....**eeeeeeee++++++**::....  !!!!
@@ -15016,7 +15016,7 @@ eeeeeeeeeeeeeeee                ..eeeeeeeeeeeeeeeeeeeeee    eeeeee::      !!++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++!!!!!!!!!!!!!!::::::******++++++++++::::..  !!**ee++++++**..::..  ::!!
 ++++++++++++!!!!!!!!!!!!!!::::::******++++++++::::....**eeeeee++++++++::::..  !!!!
 !!++!!++++!!!!!!!!!!!!!!::::::::********++++::::  ::eeeeeeeeee++++****::::..  ::!!
@@ -15093,7 +15093,7 @@ eeeeeeeeeeeeee**                ..eeeeeeeeeeeeeeeeeeeeee    eeeeee!!      !!++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++!!!!!!!!!!!!!!::::::******++++++++!!::::....**eeee++++++++..::..  ::::
 ++++++++++!!!!!!!!!!!!!!::::::::********++++!!::..  ::****eeee++++++++..::..  ::!!
 ++++++++++++++!!!!!!!!!!::::::::********++::::..  !!**eeeeeeee++++++**::::..  ::!!
@@ -15170,7 +15170,7 @@ eeeeeeeeeeeeee    ....          ..eeeeeeeeeeeeeeeeeeee!!    eeeeee**..    !!++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++!!!!!!!!!!!!!!::::::****++++++++++::::..  ::****ee++++++++..::..  ::::
 ++++++++++++++!!!!!!!!!!::::::::******++++++::::..  !!****eeee++++++++..::..  ::!!
 ++++++++++++++!!!!!!!!::::::::  ********++::!!..::**eeeeeeeeee++++++++..::..  ::!!
@@ -15247,7 +15247,7 @@ eeeeeeeeeeeeee....::..  ..      ::eeeeeeeeeeeeeeeeeeee..    eeeeeeee....  ::++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++!!!!!!!!!!!!!!::::::******++++++++::::..  !!****ee!!++++++......  ::::
 ++++++++++++!!++!!!!!!!!!!::::::******++++++::::....****eeeeee!!++++++......  ::::
 ++++++++!!++!!!!!!!!!!::::::::  ********++::..  ::eeeeeeeeeeee++++++++..::..  ::!!
@@ -15324,7 +15324,7 @@ eeeeeeeeeeeeee::::..  ....    ..eeeeeeeeeeeeeeeeeeeeee..    eeeeeeee....    ++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++!!!!!!!!!!!!::::::::******++++++!!::::..::******ee!!++++++..::..  ::::
 ++++++++++++!!!!!!!!!!!!::::::::********++::::..  ::****eeeeee::++++++..::....::::
 ++++++++++++++!!!!!!!!!!::::::  ********::!!..  !!ee**eeeeeeee!!++++++..::....::!!
@@ -15401,7 +15401,7 @@ eeeeeeeeeeeeee::::......::    ..eeeeeeeeeeeeeeeeeeeeee..  ..eeeeeeee..      ++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++++!!!!!!!!!!!!::::::****++++++++::::..  ::******ee!!++++++..::....::::
 ++++++++++++!!!!!!!!!!!!::::::::******++++::::....++****eeeeee!!++++++..::....::::
 ++++++++++++++!!!!!!!!!!::::::  ********::!!..::**eeeeeeeeeeee!!++++++..::..  ::!!
@@ -15478,7 +15478,7 @@ ee**eeeeeeee**              ..::eeeeeeee++eeeeeeeeeeee      eeeeeeee..      ++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++++!!!!!!!!!!!!::::!!****++++++++::::....++****eeee::++++++..::..  ::::
 ++++++++++++++!!!!!!!!!!::::..::********++::::..::******eeeeee!!++++++........::!!
 ++++++++++++++!!!!!!!!!!::..  ::******++::::..!!****eeeeeeee$$!!++++++..::....::!!
@@ -15555,7 +15555,7 @@ eeeeeeeeeeee  ::::::::::::    ..eeeeeeee++eeeeeeeeeeee::..::eeeeeeee..  ..  ++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++++++!!!!!!!!::::::********++++::::::  ::******eeee!!++++++..::....::::
 ++++++++++++++!!!!!!!!::::::..**********::::....++****eeeeeeee!!++++++..::....::::
 ++++++++++++++!!!!!!!!::::    ********::!!..::**eeeeeeeeeeee$$!!++++++..::....::::
@@ -15632,7 +15632,7 @@ eeeeeeeeeeee....::::::::!!    ..eeeeeeee++eeeeeeeeeeee::..::eeeeeeee..      ++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++++++!!!!!!!!::::::********++++::::....++******eeee!!++++++::........::
 ++++++++++++++!!!!!!::::::::  ********++::::  ::****eeeeeeeeee!!++++++..::......::
 ++++++++++++!!!!!!!!!!!!    ::******++::::  !!**eeeeeeeeeeee$$!!++++++..::......::
@@ -15709,7 +15709,7 @@ eeeeeeeeeeee..::..::::::::    ..eeeeeeee++eeeeeeeeeeee....::eeeeeeee....    ++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++++!!!!!!!!::::::::********++::::..  ::********eeee!!++++++!!::....  ::
 ++++++++++++!!!!!!!!!!::::..  ********::!!..  !!****eeeeeeeeee!!++++++::::....  ::
 ++++++++++++!!!!!!!!!!    ..::******::!!..::eeeeeeeeeeeeee$$$$!!++++++!!::....  ::
@@ -15786,7 +15786,7 @@ eeeeeeeeee**::::::!!::::      ..eeeeeeee**eeeeeeeeeeee    !!eeeeeeee......  !!++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++!!!!!!!!!!::::::  ********++::::..::********eeeeee!!++++++++::....  ::
 ++++++++++++!!!!!!::!!::  ::  ******!!::::  ::******eeeeeeeeee!!++++++++::....  ::
 ++++++++++++!!!!!!!!::    ::::******::..  ::eeeeeeeeeeeeee$$$$!!++++++++::....  ::
@@ -15863,7 +15863,7 @@ eeeeeeeeee                ..::**eeeeeeeeeeeeeeeeeeeeee      eeeeeeee::....  !!++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++!!!!!!!!::::!!..  ********::::..  ::********eeeeee!!++++++++::....  ::
 ++++++++++++!!!!!!!!!!::  ..::******::!!..  !!****eeeeeeeeee$$!!++++++++::::..  ::
 ++++++++++!!!!!!!!!!    ::::::******!!..::**eeeeeeeeeeeeee$$$$!!++++++++......  ::
@@ -15940,7 +15940,7 @@ eeeeeeeeee                ..::eeeeeeeeeeeeeeeeeeeeeeee    ..eeeeeeee......  ++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++!!!!!!!!::::::  ********++::!!....++******eeeeeeee::++++++++..::..  ::
 ++++++++++++!!!!!!!!!!    ::++****++::..  ::******eeeeeeeeee$$!!++++++++..::..  ::
 ++++++++++!!!!!!!!..  ..::::******!!..  ::eeeeeeeeeeeeee$$$$$$!!++++++++..::..  ::
@@ -16017,7 +16017,7 @@ eeeeeeeeee                ..::eeeeeeeeeeeeeeeeeeeeeeee    !!eeeeeeee::....  !!++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++!!!!::!!::!!!!    ********::::..  ::********eeeeeeee::++++++++..::..  ::
 ++++++++++!!!!!!!!!!..    ::******::!!..  !!******eeeeeeee$$$$!!++++++++......  ::
 ++++++++!!!!!!!!::    !!!!!!******!!....++eeeeeeeeeeeeee$$$$$$!!++++++++..::..  ::
@@ -16094,7 +16094,7 @@ eeeeeeee**            ..::::..eeeeeeee**eeeeeeeeeeee..    ..eeeeeeee::..    !!++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++!!!!!!!!::::..  ********::!!..  !!********eeeeeeee!!++++++++..::..  ::
 ++++++++++!!!!!!!!::    ::::******::!!..::******eeeeeeeeee$$$$!!++++++++..::..  ::
 ++++++++!!!!!!!!    ::!!!!::******!!  ::**eeeeeeeeeeeeee$$$$$$!!++++++++..::..  ::
@@ -16171,7 +16171,7 @@ eeeeeeee              ....::..eeeeeeee++eeeeeeeeeeee        eeeeeeee!!....  !!++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++!!!!!!!!!!!!  ::..******!!::::  ::********eeeeeeeeee!!++++++++..::..  ::
 ++++++++!!!!!!!!!!    ..::!!******!!..  ::ee****eeeeeeeeee$$$$!!++++++++..::..  ::
 ++++++!!!!!!!!::    !!!!!!!!******!!  !!**eeeeeeeeeeeeee$$$$$$!!++++++++..::....::
@@ -16248,7 +16248,7 @@ eeeeeeee              ....::..eeeeeeee++eeeeeeeeeeee        eeeeeeee!!..    !!++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++!!!!!!!!!!..  ..::******::!!..  ::********eeeeeeee$$!!++++++++..::....::
 ++++++!!!!!!!!!!::    ::!!::******!!  ..++ee****eeeeeeeeee$$$$!!++++++++..::....::
 ++++++!!!!!!!!    !!!!!!!!::******!!..****eeeeeeeeeeee$$$$$$$$!!++++++++..::....::
@@ -16325,7 +16325,7 @@ eeeeeeee            ....::::**eeeeeeee++eeeeeeeeeeee      ..eeeeeeee**..      !!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++!!!!!!!!!!::    ::++******::::....++********eeeeeeee$$!!++++++++..::::..::
 ++++++++!!!!!!!!    ..!!!!++******!!  ::**ee****eeeeeeeeee$$$$!!++++++++..::....::
 ++++!!!!!!!!..  ..!!!!!!::++******++::****eeeeeeeeeeee$$$$$$@@!!++++++++..::....::
@@ -16402,7 +16402,7 @@ eeeeee++            ....::::eeeeeeeeee**eeeeeeeeeeee      ..eeeeeeeeee..      !!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++!!!!!!!!!!      ::******++!!..  ::********eeeeeeeeee$$!!++++++++..::::....
 ++++++!!!!!!!!::    !!!!::******++::  ::**ee****eeeeeeee$$$$$$!!++++++++..::::..::
 ++!!!!!!!!!!    !!!!!!!!!!******++!!!!****eeeeeeeeeeee$$$$$$@@!!++++++++..::....::
@@ -16479,7 +16479,7 @@ eeeeee              ....::::eeeeeeeeeeeeeeeeeeeeeeee      ..eeeeeeeeee..      !!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++!!!!!!!!!!    ::::******!!!!..  !!********eeeeeeeeee$$!!++++++++..::::....
 ++++++!!!!!!!!    ::!!!!::******!!....**eeee****eeeeeeee$$$$$$!!++++++++..::::..  
 ++!!!!!!!!    ..!!!!!!!!!!ee****!!::!!****eeeeeeeeeeee$$$$$$@@!!++++++**..::::..  
@@ -16556,7 +16556,7 @@ eeeeee              ....::..eeeeeeeeeeeeeeeeeeeeeeee      ..eeeeeeeeee..  ..  !!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++!!!!!!!!!!      ::::******!!..  ::ee********eeeeeeee$$$$!!++++****..::::..  
 ++!!!!!!!!!!      !!!!!!::******!!::::**ee******eeeeeeee$$$$$$!!++++****::::::..  
 !!!!!!!!::    !!!!!!!!::::ee****!!::++**eeeeeeeeeeeeee$$$$$$@@!!++++****::::::..  
@@ -16633,7 +16633,7 @@ eeeeee              ....::..eeeeeeeeeeeeeeeeeeeeeeee    ....eeeeeeeeee..  ..  !!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++!!!!!!!!!!::    ::::::******!!    ::ee********eeeeeeee$$$$!!++******++::::....
 !!!!!!!!!!!!    !!!!::::::******!!..++**eeeeeeeeeeeeeeee$$$$$$!!********++::::::  
 !!!!!!!!    ::!!!!!!!!!!::ee****!!::****eeeeeeeeeeee$$$$$$@@@@!!********!!::::::  
@@ -16710,7 +16710,7 @@ eeee**            ::::::::..eeeeeeeeeeeeeeeeeeeeeeee    ....eeeeeeeeee....    !!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++!!!!!!!!!!!!    ..!!::::******::  ::**ee******eeeeeeeeee$$$$!!**********::::....
 !!!!!!!!!!    ..!!!!!!!!::******::..****eeee**eeeeeeee$$$$$$$$!!**********::::::..
 !!!!!!..    !!!!!!!!!!::::ee****!!..****eeeeeeeeeeee$$$$$$@@@@!!**********::::::  
@@ -16787,7 +16787,7 @@ eeee              ::::::::..eeeeeeeeeeeeeeeeeeeeeeee    ....eeeeeeeeee..      !!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!!!!!!!!!      ::::::++******!!  ::**ee******eeeeeeee$$$$$$!!**********..::::..
 !!!!!!!!::    !!!!!!::::++ee****!!..****eeeeeeeeeeeeee$$$$$$@@!!**********..::....
 !!!!!!    !!!!!!!!!!!!!!++ee****!!..****eeeeeeeeeeee$$$$$$@@@@!!**********..::::..
@@ -16864,7 +16864,7 @@ eeee              ..::::::++eeeeeeee**eeeeeeeeeeeeee    ....**eeeeeeee......  !!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!!!!!!!::    ::!!::::******++!!..++**ee******eeeeeeee$$$$$$!!**********..::::..
 !!!!!!!!    ::!!!!!!!!::ee******!!!!****eeeeeeeeeeeeee$$$$$$@@!!**********..::::..
 !!!!    ::!!!!!!!!!!!!::eeee****++::**eeeeeeeeeeeeee$$$$@@@@@@++**********..::::..
@@ -16941,7 +16941,7 @@ eeee              ..::::::eeeeeeeeee++eeeeeeeeeeeeee    ....::eeeeeeee::......!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!!!!!!!    ..!!!!!!::******++!!::****ee******eeeeeeee$$$$$$!!**********..::::..
 !!!!!!..  ..!!!!!!!!!!::eeee**++!!!!****eeeeeeeeeeee$$$$$$$$@@++**********..::::..
 !!::    !!!!!!!!!!!!!!::eeee**++++!!ee**eeeeeeeeeeee$$$$@@@@@@++**********..::::..
@@ -17018,7 +17018,7 @@ ee++              ..::::::eeeeeeeeee!!eeeeeeeeeeee**    ....::eeeeeeee!!..  ..::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!!!!!..    !!::::::::******!!::::****ee****eeeeeeee$$$$$$$$++**********..::::..
 !!!!::  ..!!!!!!!!!!::::eeee**!!::!!****eeeeeeeeeeee$$$$$$@@@@++**********..::::..
 !!    !!!!!!!!!!!!!!!!!!eeee**!!!!!!**eeeeeeeeeeee$$$$$$@@@@@@++**********..::::::
@@ -17095,7 +17095,7 @@ ee                ..::::..eeeeeeeeee++eeeeeeeeeeee::    ....::eeeeeeee++..  ..  
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!!!::    ::!!::::::::ee****!!::!!**eeee****eeeeeeee$$$$$$$$++**********..::::::
 !!!!    ::!!!!!!!!::::::eeee**!!::!!****eeeeeeeeeeee$$$$$$@@@@++**********::::::::
     ::!!!!!!::!!!!!!!!::eeee**!!!!!!****eeeeeeeeee$$$$$$@@@@@@************..::::::
@@ -17172,7 +17172,7 @@ ee              ....::::..eeeeeeeeee++eeeeeeeeeeee      ..::::eeeeeeeeee..  ..  
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!!!    ..!!!!::::::++ee****!!::++**ee********eeeeee$$$$$$$$ee**********::::::::
 !!    ..!!!!!!!!!!!!::++eeee**!!::******eeeeeeeeeeee$$$$$$@@@@ee**********::::::::
   ..!!!!!!!!!!!!!!!!::++eeee**!!::******eeeeeeeeee$$$$$$@@@@@@ee**********::::::::
@@ -17249,7 +17249,7 @@ eeeeeeeeee**++..  ..++****eeeeeeee**::eeeeeeeeeeee::::********eeeeeeeeee......  
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!..  ..!!!!!!!!::::**ee****!!..****eeee****eeeeeeee$$$$$$@@$$**********!!::::::
 ::    !!!!!!!!!!!!::::eeee****!!..****eeeeeeeeeeeeee$$$$@@@@@@$$**********!!::::::
   !!!!!!!!!!!!!!!!::::eeeeee**!!..ee****eeeeeeeeee$$$$@@@@@@@@$$**********!!::::::
@@ -17326,7 +17326,7 @@ eeeeeeeeee++++..  ..++**eeeeeeeeee!!::eeeeeeeeeeee::::**ee****eeeeeeeeee......  
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!..    !!!!!!!!::::::ee******++..****eeee****eeeeee$$$$$$$$@@$$++********++::::::
     !!!!!!!!!!!!::::::eeeeee****..****eeeeeeeeeeee$$$$$$@@@@@@@@************::::::
 ::!!!!!!!!!!!!!!::::::eeeeee****..ee**ee$$eeeeee$$$$$$@@@@@@@@@@************::::::
@@ -17403,7 +17403,7 @@ eeeeeeee**++!!    !!++**eeeeeeeeee::::eeeeeeeeeeee::::********eeeeeeeeee::..  ..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::    ::!!!!!!::::::::eeee**!!++::****eeee**eeeeeeee$$$$$$@@@@@@++**********..::::
   ::!!!!!!::!!!!::::::eeeeee!!**!!****eeeeeeeeeeee$$$$$$@@@@@@@@++**********..::::
 !!!!!!!!!!!!::!!::::::eeeeee++ee!!eeeeee$$eeeeee$$$$$$@@@@@@@@@@++**********..::::
@@ -17480,7 +17480,7 @@ eeeeeeee**++::    ++++**eeeeeeeeee::++eeeeeeeeeeee::::******eeeeeeeeeeee!!......
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '    ::!!!!!!::::::::::eeee**!!!!!!****ee**eeeeeeeeee$$$$$$@@@@@@!!**********..::::
 ..!!!!!!!!::!!::::::::eeeeee!!::!!****eeeeeeeeeeee$$$$$$@@@@@@@@!!**********..::::
 !!!!!!!!!!!!!!::::::::eeeeee!!!!++eeeeee$$eeeeee$$$$$$@@@@@@@@@@++**********..::::
@@ -17557,7 +17557,7 @@ eeeeeeee++**..  ..++****eeeeeeeeee::eeeeeeeeeeeeee::::**ee**eeeeeeeeeeee**......
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '  ..!!!!::!!::::::::**eeee**!!::!!****eeeeeeeeeeeeee$$$$$$@@@@@@!!**********..::::
 !!!!!!!!!!::::::::::**eeeeee!!!!!!****eeeeeeeeeeee$$$$@@@@@@@@@@!!**********..::::
 !!!!!!!!!!!!!!!!!!::**eeeeee!!!!@@eeeeee$$eeeeee$$$$@@@@@@@@@@@@!!**********..::::
@@ -17634,7 +17634,7 @@ eeeeeeee++++..  ..!!****eeeeeeeeee..eeeeeeeeeeeeee::::**@@**eeeeeeeeeeeeee......
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..::!!!!::::::::::::eeeeee**::::++****eeeeeeeeeeee$$$$$$@@@@@@@@!!**********..::::
 !!!!!!!!!!!!!!::::::eeeeeeee!!::******eeeeeeeeee$$$$$$@@@@@@@@@@!!**********..::::
 ::!!!!!!::!!::::::::eeeeeeee::::@@eeeeeeeeeeeeee$$$$@@@@@@@@@@@@++**********..::::
@@ -17711,7 +17711,7 @@ eeeeee**++!!    ..!!**eeeeeeeeeeee::eeeeeeeeeeeeee::::**@@**eeeeeeeeeeeeee::....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::!!!!!!::!!::::::::eeeeee**!!..******eeeeeeeeeeee$$$$$$@@@@@@@@!!**********::::::
 !!!!!!!!::::!!::::::eeeeee**!!..eeee**eeeeeeeeee$$$$$$@@@@@@@@@@!!**********..::::
 !!!!!!!!..!!::::::::eeeeee**!!..@@eeeeeeeeeeee$$$$$$@@@@@@@@@@++++**********::::::
@@ -17788,7 +17788,7 @@ eeeeee**++!!  ..!!++**eeeeee**ee**::eeeeeeeeeeeeee::::**@@**eeeeeeeeeeeeee::..  
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!!!!!!!::::::::::eeeeee!!$$::****eeeeeeeeeeeeee$$$$$$@@@@@@@@!!**********::..::
 !!!!!!!!::!!::::::::eeeeee!!ee::eeeeeeeeeeeeee$$$$$$@@@@@@@@@@@@++**********!!..::
 !!!!!!!!::!!!!!!::::eeeeee!!**::$$eeee$$eeeeee$$$$$$@@@@@@@@++++************++..::
@@ -17865,7 +17865,7 @@ eeeeee****..  ..!!++**eeeeee**ee::::eeeeeeeeeeeeee::**ee****eeeeeeeeeeeeee::....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!!!!!::::::::::**eeeeee!!!!!!****eeeeeeeeeeee$$$$$$@@@@@@@@@@!!************..::
 !!!!!!!!!!::!!::::**eeeeee!!!!!!eeeeee$$eeeeee$$$$$$@@@@@@@@@@++++************::::
 !!!!!!!!!!!!!!::::**eeeeee!!!!!!eeeeee$$eeee$$$$$$@@@@@@@@++++++++************..::
@@ -17942,7 +17942,7 @@ eeeeee**++..  ..!!****eeeeee**ee::!!eeeeeeeeeeeeee::**ee****eeeeeeeeeeeeee!!....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!!!!!::::::::::eeeeeeee!!::!!ee**eeeeeeeeeeee$$$$$$@@@@@@@@@@++************..::
 !!!!!!::!!::::!!::eeeeeeee!!!!$$eeeeee$$eeeeee$$$$$$@@@@@@@@++++**************..::
 !!!!!!!!!!!!!!::::$$eeeeee!!!!!!eeeeee$$eeee$$$$$$@@@@@@++++++++**************..::
@@ -18019,7 +18019,7 @@ eeeeee**++..  ..!!**eeeeeeeeeeee..::eeeeeeeeeeee::::********eeeeeeeeeeeeee++....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!!!!!!!!!::::::eeeeeeee!!::++eeeeeeeeeeeeeeee$$$$@@@@@@@@@@++**************..::
 !!!!!!::!!!!::::::eeeeeeee!!::@@eeeeee$$eeee$$$$$$$$@@@@@@++++++++************..::
 !!!!!!!!!!!!::::::$$eeeeee::::++eeeeee$$eeee$$$$$$@@@@++++++++++**************..::
@@ -18096,7 +18096,7 @@ eeeeee**++..  ..++**eeeeeeeeeeee::eeeeeeeeeeeeee::::********ee**eeeeeeeeee**....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!!!!!!!!!!!::++eeeeee++**..eeeeeeeeeeeeeeee$$$$$$@@@@@@@@**++++************..::
 !!!!!!!!!!!!!!::!!eeeeee++++..@@eeeeeeeeeeee$$$$$$@@@@@@**++++++++************..::
 !!!!!!!!!!!!::::!!$$eeee++++..eeeeeeeeeeeeee$$$$$$@@ee++++++++++++************..::
@@ -18173,7 +18173,7 @@ eeeeee**++......++**eeeeee**ee**::eeeeeeeeeeeeee::::**@@**eeeeeeeeeeeeeeeeee....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!::!!!!!!::::eeeeeeee!!++!!$$eeee$$eeeeeeee$$$$$$@@@@@@ee++++++++**********!!..
 !!!!!!!!!!!!::::$$eeeeee!!++!!$$eeeeeeeeeeee$$$$$$@@@@ee++++++++++************!!::
 !!!!!!!!!!::!!!!$$$$eeee!!++!!eeeeeeee**ee$$$$$$@@$$++++++++++++**************!!..
@@ -18250,7 +18250,7 @@ eeee****++....::****eeeeee**ee**::eeeeeeeeeeeeee::::ee@@****ee**eeeeeeeeeeee....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!::!!!!!!::::eeeeeeee!!!!++eeeeee$$eeeeee$$$$$$$$@@@@ee++++++++++**********++..
 !!!!!!!!!!::::::$$eeeeee!!!!!!eeeeee$$eeee$$$$$$$$@@$$++++++++++++************++..
 !!!!!!!!!!!!::!!$$$$eeee!!!!!!eeeeee$$**ee$$$$$$$$++++++++++++++**************++..
@@ -18327,7 +18327,7 @@ eeeeee++++....::**eeeeeeee**ee::::eeeeeeeeeeeeee!!::ee$$****ee**eeeeeeeeeeee::..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!!!!!!!::::::eeeeeeee::!!$$eeeeee$$eeeeee$$$$$$@@@@$$++++++++++************++..
 !!!!!!!!!!!!::!!$$eeeeee::::!!eeeeee$$eeee$$$$$$@@$$++++++++++++++**************..
 !!!!!!!!!!!!!!!!$$eeeeee::!!!!eeeeee$$eeee$$$$$$++++++++++++++++++**************..
@@ -18404,7 +18404,7 @@ eeeeee**++....!!**eeeeeeeeeeee::::eeeeeeeeeeeeee::**ee******ee**eeeeeeeeeeee++..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!!!!!!!::::$$eeeeee!!!!..@@eeeeee$$eeeeee$$$$$$@@$$++++++++++++**************..
 !!!!!!!!!!::::$$$$eeee++!!..**eeeeee$$eeee$$$$$$$$++++++++++++++++**************..
 !!!!!!!!!!!!::ee$$eeee++!!..++eeeeee$$++ee$$$$++++++++++++++++++++**************..
@@ -18481,7 +18481,7 @@ $$$$@@@@++..::..  eeeeeeeeeeee!!++eeeeeeeeeeee@@..::..::$$$$$$$$eeeeeeeeeeee**..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!::::::!!::::$$eeeeee!!++..$$eeeeeeeeeeee$$$$$$$$@@++++++++++++****************..
 !!!!!!!!!!::::$$eeeeee!!++..eeeeeeeeeeeeee$$$$$$++++++++++++++++****************::
 !!!!!!!!!!::::$$$$eeee!!++..eeeeeeee$$++ee$$++++++++++++++++++**++**************::
@@ -18558,7 +18558,7 @@ $$$$$$$$::..::!!  eeeeeeeeeeee::eeeeeeeeeeeeee++..::  ee$$$$$$$$eeeeeeeeeeeeee..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!::!!!!::::::$$eeeeee!!!!!!eeeeeeeeeeeeee$$$$$$$$++++++++++++++****************::
 !!!!!!!!::::::$$eeeeee!!!!!!eeeeeeee**ee$$$$$$++++++++++++++++++****************!!
 !!::!!::!!::::$$eeeeee!!!!!!eeeeeeee@@++ee**++++++++++++++++++++****************!!
@@ -18635,7 +18635,7 @@ $$ee$$$$....::  eeeeeeee**eeee::eeeeeeeeeeeeee!!..::..$$$$$$$$$$eeeeeeeeeeeeee..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::!!::::::::$$$$eeeeee::::!!eeeeee$$eeeeee$$$$$$++++++++++++++++++**************++
 ::!!!!!!::::$$$$eeeeee::!!!!eeeeee$$**ee$$$$**++++++++++++++++++++++************++
 !!!!!!!!::::ee$$eeeeee::!!!!eeeeeeee@@eeee++++++++++++++++++++++++**************++
@@ -18712,7 +18712,7 @@ $$$$$$ee....::  eeeeeeeeeeee::::eeeeeeeeeeeeee......  $$$$$$$$$$eeeeeeeeeeeeee::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::!!::::::$$eeeeee!!++..++eeeeee$$eeeeee$$$$**++++++++++++++++++++************++
 !!!!::::::::$$$$eeee!!!!..!!eeeeee$$eeee$$ee++++++++++++++++++++++++************++
 ::::!!!!::::$$$$eeee!!!!::!!eeeeee$$$$ee++++++++++++++++++++++++++**************++
@@ -18789,7 +18789,7 @@ $$$$eeee....::  eeeeeeeeeeee::::eeeeeeeeeeeeee........$$$$$$$$eeeeeeeeeeeeeeee++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::::$$eeeeee!!!!..eeeeeeee$$eeeeee$$ee++++++++++++++++++++++++++********++
 ::::::::::::$$eeeeee!!++  eeeeeeee$$**eeee++++++++++++++++++++++++++++************
 ::!!::::::::$$$$eeee!!++  eeeeeeee@@++++++++++++++++++++++++++++::++++************
@@ -18866,7 +18866,7 @@ $$$$eeee..::!!**eeeeee**eeee..::eeeeeeeeeeeeee..  ....$$$$$$$$eeeeeeeeeeeeeeee**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::$$$$eeeeee::!!!!eeeeeeeeeeeeee$$ee++++++++++++++++++++++++++++******++++
 ::::::::::$$$$eeeeee!!!!!!eeeeeeee$$++ee++++++++++++++++++++++++++++++++******++**
 ::::::::::ee$$eeeeee!!!!!!eeeeeeee@@++++++++++++++++++++++++++::::++++++**********
@@ -18943,7 +18943,7 @@ eeee$$ee..::  eeeeeeee**eeee::!!eeeeeeeeeeee$$  ..  ::$$$$$$$$eeeeeeeeeeeeeeeeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::$$$$eeee++!!!!!!eeeeeeee**eeee$$++++++++++++++++++++++++++++++++++++++++
 ::::::::::$$$$eeee++!!!!!!eeeeeeeeee**++++++++++++++++++++++++++!!++++++++++++++++
 ::::::::::$$$$eeee++::!!!!eeeeeeee@@++++++++++++++++++++++++::::::++++++++++++++++
@@ -19020,7 +19020,7 @@ eeeeee**..::  eeeeeeeeeeee**::eeeeeeeeeeeeeeee..    ee$$$$$$$$ee**eeeeeeeeeeeeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::!!$$$$eeee!!++  !!eeeeee$$**eeee++++++++++++++++++++++++++++++++++++++++++
 ::::::::!!$$$$eeee!!++..!!eeeeee$$ee++++++++++++++++++++++++++!!::++++++++++++++++
 ::::::::::$$$$eeee!!!!..!!$$$$eeee**++++++++++++++++++++++::::::::++++++++++++++++
@@ -19097,7 +19097,7 @@ ee**********eeeeeeee**eeee****eeeeeeeeeeeeeeee$$**ee**********++**eeeeeeeeeeeeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::$$$$eeeeee!!::::eeeeeeee$$**ee++++++++++++++++++++++++++!!++++++++++++++++
 ::::::::$$$$eeeeee!!!!::eeeeeeee$$**++++++++++++++++++++++++!!::::++++++++++++++++
 ::::::::$$$$eeeeee!!!!..$$$$eeee++++++++++++++++++++++++::::::::::++++++++++++++++
@@ -19174,7 +19174,7 @@ ee..........eeeeeeee**eeee****eeeeeeeeeeeeee!!!!    ++$$$$$$$$ee**eeeeeeeeeeeeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::$$$$eeee++::::!!eeeeeeee$$**++++++++++++++++++++++++++!!..!!++++++++++++++
 ::::::::$$$$eeee++::!!!!eeeeeeee$$++++++++++++++++++++++++!!....::!!++++++++++++++
 ::::::::$$$$eeee++::!!!!$$$$ee++++++++++++++++++++++++::..::::::::!!++++++++++++++
@@ -19251,7 +19251,7 @@ echo -en '::::::::$$$$eeee++::::!!eeeeeeee$$**++++++++++++++++++++++++++!!..!!++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::ee$$$$eeee!!++..!!eeeeeeee**++++++++++++++++++++++++++!!::::::++++++++++++++
 ::::::ee$$$$eeee!!!!..!!$$eeee**++++++++++++++++++++++++::::..::::::++++++++++++++
 ::::::**$$$$eeee!!!!::!!$$ee++++++++++++++++++++++!!::....::::::::!!++++++++++++++
@@ -19328,7 +19328,7 @@ echo -en '::::::ee$$$$eeee!!++..!!eeeeeeee**++++++++++++++++++++++++++!!::::::++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::$$$$eeeeee::!!..eeeeeeeeee++++++++++++++++++++++++++::......::++++++++++++++
 ::::::$$$$eeeeee!!!!..ee$$$$**++++++++++++++++++++++++::....::::::!!++++++++++++++
 ::::::$$$$eeeeee!!!!..eeee****++++++++++++++++++!!::....::::::::::!!++++++++++++++
@@ -19405,7 +19405,7 @@ echo -en '::::::$$$$eeeeee::!!..eeeeeeeeee++++++++++++++++++++++++++::......::++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::**$$$$eeee!!!!::!!$$eeeeee++++++++++++++++++++++++!!::......::::++++++++++++++
 ::::**$$$$eeee++!!!!!!$$ee**++++++++++++++++++!!!!!!::....::::::::!!++++++++++++++
 ::::**$$$$eeee++!!::!!ee******++++++++++++++++!!......::::::::::::!!++++++++++++++
@@ -19482,7 +19482,7 @@ echo -en '::::**$$$$eeee!!!!::!!$$eeeeee++++++++++++++++++++++++!!::......::::++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::$$$$$$eeee!!!!..!!$$eeee++++++++++++++++++++++++!!......::::..::++++++++++++++
 ::::$$$$$$eeee!!!!..!!ee****++++++++++++++++++!!::......::::::::::!!++++++++++++++
 ::::$$$$$$eeee!!!!!!**********++++++++++++++::......::::::::::::::!!++++++++++++++
@@ -19559,7 +19559,7 @@ echo -en '::::$$$$$$eeee!!!!..!!$$eeee++++++++++++++++++++++++!!......::::..::++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::**$$$$$$ee**::!!::ee$$****++++++++++++++++++!!!!::......::::::::!!++++++++++++++
 ::**$$$$eeee**::!!::**********++++++++++++++!!::....::::::::::::::!!++++++++++++++
 ::**$$$$eeee**!!++************++++++++++!!::........::::::::::::::!!++++++++++++++
@@ -19636,7 +19636,7 @@ eeee$$++**eeeeee********!!**eeeeeeee******::....................++**************
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::$$$$$$eeee!!!!::!!ee******++++++++++++++++++!!......::::::::::::::++++++++++++++
 ::$$$$$$eeee!!!!!!**********++++++++++++++!!......::::::::::::::::::++++++++++++++
 ::$$$$$$eeee++****************++++++++!!..............::::::::::::::++++++++++++++
@@ -19713,7 +19713,7 @@ $$**$$!!eeeeeeee********::**eeeeeeee******........................**************
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**$$$$$$ee**!!!!..************++++++++++++!!::......::::..::::::::::++++++++++++++
 **$$$$$$eeee!!****************++++++++!!::......::....::::::::::::::++++++++++++++
 **$$$$$$eeeeeeee**************++++++::..............::::::::::::::::++++++++++++++
@@ -19790,7 +19790,7 @@ $$!!!!++**eeee**********!!eeeeeeee******++........................**************
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$eeee!!::++************++++++++++++!!........::....::::::::::::++++++++++++!!
 $$$$$$eeee++******************++++++!!..................::::::::::::++++++++++++++
 $$$$$$eeeeeeeeee**************++!!......::........::::::::::::::++@@++++++++++++!!
@@ -19867,7 +19867,7 @@ $$!!!!****ee**********++**eeeeeeee******  ........................**************
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$eeee!!******************++++++!!................::::::::::::::!!++++++++++++
 $$$$$$eeeeeeee****************++!!::............::::::::::::::::::!!!!++++++++++++
 $$$$$$eeeeeeee**************++........::......::::::::::::::!!@@@@@@!!++++++++++++
@@ -19944,7 +19944,7 @@ ee!!!!****ee**********::**eeeeeeee******  ........................++************
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$eeee**eeee****************++++::..............::::::::::::::::::!!++++++++++!!
 $$$$$$eeeeeeee**************++::......::......::::::::::::::::!!**@@!!++++++++++++
 $$$$eeeeeeeeee**********++::......::....::..::::::::::::::++@@@@@@@@++++++++++++++
@@ -20021,7 +20021,7 @@ ee!!******ee**********::**eeeeeeee******..........................++************
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$eeeeeeeeee**************++!!................::::::::::::::::::++++++++!!++++!!
 $$$$eeeeeeeeee************!!..................::::::::::::::!!@@@@@@++++++++++++++
 $$$$eeeeeeeeeeee******!!::......::........::::::::::::!!@@@@@@@@@@@@++++++++++++++
@@ -20098,7 +20098,7 @@ ee!!**ee**************++eeeeeeeeee******..........................++************
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$eeeeeeeeee************++::................::::::::::::::::!!@@@@@@++++++!!!!!!
 $$eeeeeeeeeeeeee******++::......::..........::::::::::::!!@@@@@@@@@@@@++++++!!!!++
 $$eeeeeeeeee******++::......::........::....::::::::++@@@@@@@@@@@@@@@@++++++++++++
@@ -20175,7 +20175,7 @@ ee******ee**********!!**eeeeeeeeee******..........................!!++**********
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$eeeeeeeeeeee********++::................::..::::::::::::!!**@@@@@@@@++++++!!!!!!
 $$eeeeeeeeeeee******::......::..........::::::::::::::++@@@@@@@@@@@@@@++++++!!++!!
 $$eeeeeeee******::....................::::::::::!!@@@@@@@@@@@@@@@@@@@@++++++++++++
@@ -20252,7 +20252,7 @@ $$****ee************::**eeeeeeee********............................++++********
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeeeeeeeeeeeee******!!......::................::::::::::!!@@@@@@@@@@@@!!++++!!!!!!
 eeeeeeeeee******!!......::::............::::::::::!!@@@@@@@@@@@@@@@@@@!!++++++!!!!
 eeeeee******!!......::::::..::........::::::::**@@@@@@@@@@@@@@@@@@@@@@!!++++!!!!!!
@@ -20329,7 +20329,7 @@ eeee****************::**eeeeee********++............................++++**++****
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeeeeeeeee******!!............::..........::::::::::!!@@@@@@@@@@@@@@@@++++++++!!!!
 eeeeee******++........::............::::::::::::++@@@@@@@@@@@@@@@@@@@@++++++++!!!!
 eeee****++......::::..::::..::........::::::@@@@@@@@@@@@@@@@@@@@@@@@@@++++++++!!!!
@@ -20406,7 +20406,7 @@ eeeeeeee**********++**eeeeeeee**********..........................  !!++++++****
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeeeee******++........................::::::::::::++@@@@@@@@@@@@@@@@@@@@++++++!!!!
 eeee****++::......::::............::::::::::::@@@@@@@@@@@@@@@@@@@@@@@@@@++++++!!!!
 ee****........::::..::....::::::..::::::++@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@++++++!!!!
@@ -20483,7 +20483,7 @@ eeeeee************::****eeee**********++..........................  !!++++++++**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee******::......::..................::::::::!!@@@@@@@@@@@@@@@@@@@@@@@@!!++++!!!!
 ******::......::..::..::..::......::::::::++@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!++!!!!!!
 ee::......::..........::..::....::::::@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!++++!!!!
@@ -20560,7 +20560,7 @@ eeeeee************::******************!!..........................  ::++++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******::......::::..................::::::::**@@@@@@@@@@@@@@@@@@@@@@@@@@++++++!!!!
 **!!......::..........::........::::::::@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@++++++!!!!
 ++....::..............::::..::::::**@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@++++++++!!
@@ -20637,7 +20637,7 @@ eeeeee************!!++**ee************..............................  !!++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**!!..............................::::::++@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!++!!!!
 ................::............::::::$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!++!!!!
 ::................::::::::..::!!$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!++++!!
@@ -20714,7 +20714,7 @@ eeee************::********************................................!!++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::..............................::::++@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!++++!!
 ..............................::**@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!++!!!!
 ::..................::::::::**$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!++++++
@@ -20791,7 +20791,7 @@ ee************++!!****eeeeee**********    ........................  ::..++******
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..............................::::$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$$!!!!!!
 ::......................::::++ee@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ee!!!!!!
 !!..............::..::::::**$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@**!!!!!!
@@ -20868,7 +20868,7 @@ ee**++******::....**eeeeeeeeee******::  ..++ee****++!!!!......::!!  ++  ++++****
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..........................::::**$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!++!!
 ::......................::**ee$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!!!!!
 !!::............::::**ee::ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ee!!++++
@@ -20945,7 +20945,7 @@ echo -en '..........................::::**$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..................::..::::!!ee@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@++!!!!
 ::..............::..::!!**ee$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!!!!!
 ::::........::..!!ee$$ee++ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!!!!!
@@ -21022,7 +21022,7 @@ echo -en '..................::..::::!!ee@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '....................::::**$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!!!
 ::............::::**$$!!ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ee!!!!
 ::::........::eeee$$$$++eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ee!!!!
@@ -21099,7 +21099,7 @@ echo -en '....................::::**$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '............::::::::++++ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$$!!!!
 ::..........::++ee$$$$::ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ee!!!!
 ::::..::!!ee$$$$$$$$$$::ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!ee!!!!
@@ -21176,7 +21176,7 @@ echo -en '............::::::::++++ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '............::!!**$$**ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@++$$**::
 ::....::::++eeee$$$$ee++ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!ee**::
 !!::!!ee$$$$$$ee$$$$$$!!ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::ee**::
@@ -21253,7 +21253,7 @@ echo -en '............::!!**$$**ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..........!!**$$$$$$::ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!!!ee!!
 ::..::**$$$$$$ee$$$$++eeee$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@ee!!
 !!!!$$$$ee$$$$ee$$$$****ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@**::
@@ -21330,7 +21330,7 @@ echo -en '..........!!**$$$$$$::ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '....::!!**eeee$$$$$$!!ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@ee++
 ::++$$$$$$$$ee$$$$$$::ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@ee++
 !!ee$$!!eeeeeeee$$$$!!eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@**++
@@ -21407,7 +21407,7 @@ echo -en '....::!!**eeee$$$$$$!!ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..!!**$$$$$$ee$$$$****ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@eeee
 !!$$eeee$$$$ee$$$$ee++ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@ee**
 !!$$**::eeeeee$$$$$$::eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@++!!@@****
@@ -21484,7 +21484,7 @@ echo -en '..!!**$$$$$$ee$$$$****ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**$$$$$$$$eeee$$$$!!eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@@@ee
 ee$$::ee$$eeee$$$$****ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!!!@@@@ee
 **$$::**eeeeee$$$$ee++eeee$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@@@$$**
@@ -21561,7 +21561,7 @@ ee$$::ee$$eeee$$$$****ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!!!@@@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$ee**$$eeee$$$$$$::eeee$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!!!@@@@ee
 $$**::eeeeeeee$$$$::eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@@@@@**
 $$++::eeeeeeee$$$$++**eeee$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@@@@@**
@@ -21638,7 +21638,7 @@ ee**::eeeeee**$$$$ee!!eeeeee$$++!!++++++++**@@@@@@@@@@@@$$@@@@@@@@@@@@!!::@@@@$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$::**$$$$ee$$$$**++ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!ee@@@@ee
 $$::**eeeeee$$$$ee::eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!@@@@@@ee
 ee::++eeeeeeee$$$$::eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@@@@@**
@@ -21715,7 +21715,7 @@ ee**++****************++++++!!::!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!::++****::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++::eeeeeeee$$$$++**ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!@@@@@@@@
 ++::ee**eeee$$$$**++eeee$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@@@@@$$
 ++::**eeee**$$$$ee!!eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$$$$**::eeee$$ee
@@ -21792,7 +21792,7 @@ ee**++************************++++++++++++++++!!++!!!!!!eeee!!!!!!::::::::::!!!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..****eeee$$$$$$::eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@@@@@@@
 ::++**eeeeee$$$$::**ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!@@@@@@@@
 ::++**eeee**$$$$****eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@$$ee************::::******ee
@@ -21869,7 +21869,7 @@ ee++++************************++++++++++++++++++++++++++++++$$**!!!!::eeeeee++..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::****eeee$$$$ee::eeee$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$$::@@@@@@@@
 ::****eeee$$$$$$..eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!!!@@@@@@@@
 ::**eeeeeeee$$ee!!**eeee$$$$@@@@@@@@@@@@@@@@ee****++++++++++++********::++**++****
@@ -21946,7 +21946,7 @@ echo -en '::****eeee$$$$ee::eeee$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******eeee$$$$****ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!!!@@@@@@@@
 ****eeee**$$$$**!!eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@@@@@@@@@
 ****eeee**$$$$ee..**eeee$$$$eeee****++++++++++++++++++++++++++++++++++::++++++++++
@@ -22023,7 +22023,7 @@ echo -en '******eeee$$$$****ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****eeeeee$$$$::**ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@@@@@@@@@
 ****eeee**$$$$****eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@@@@@@@@@
 ****eeee**$$$$++++eeeeee$$ee++++++++++++++!!!!!!!!++++++++++++++++++++::++++++++++
@@ -22100,7 +22100,7 @@ echo -en '****eeeeee$$$$::**ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****eeee$$$$ee..eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@@@@@@@@@
 ****eeee$$$$ee::**eeee$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@@@@@@@@@
 ****eeee**$$ee++**eeee$$$$!!!!!!++++++!!++++++!!++++++!!++++++++++++!!::++++++++!!
@@ -22177,7 +22177,7 @@ echo -en '****eeee$$$$ee..eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****ee**$$$$**++eeee$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@@@@@@@@@
 **eeee**$$$$ee::eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@@@@@@@@@
 ****eeee$$$$ee..**eeee$$$$!!!!++++++++++++++++++++++++!!++++++++++++::::++++++!!!!
@@ -22254,7 +22254,7 @@ echo -en '****ee**$$$$**++eeee$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**eeeeee$$$$!!**ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$$::@@@@@@@@@@
 **eeee**$$$$++++eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!!!@@@@@@@@@@
 ****eeeeeeee**!!**eeee$$$$!!@@@@@@@@@@@@@@@@@@@@$$ee**!!********++++::++++++++!!!!
@@ -22331,7 +22331,7 @@ echo -en '**eeeeee$$$$!!**ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**eeee$$$$ee::**ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!!!@@@@@@@@@@
 **eeeeee$$ee!!**eeee$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@@@@@@@@@@@
 **eeeeee$$ee++++eeeeee$$**!!@@@@@@@@@@@@@@@@@@@@@@@@**!!@@@@$$ee****::++++++!!!!!!
@@ -22408,7 +22408,7 @@ echo -en '**eeee$$$$ee::**ee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**ee**$$$$**!!eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@@@@@@@@@@@
 **eeee$$$$ee..**eeee$$$$++******eeee$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!@@@@@@@@@@@@
 **eeeeee$$ee::**eeeeee$$!!!!@@@@@@@@@@@@@@@@@@@@@@@@!!@@@@@@@@@@@@**::++++++!!!!!!
@@ -22485,7 +22485,7 @@ echo -en '**ee**$$$$**!!eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**eeee$$$$++**eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!@@@@@@@@@@@@
 eeeeee$$ee++++**eeee$$$$!!!!++++++!!!!++++++++++ee$$@@@@@@@@@@@@@@@@::@@@@@@@@@@$$
 eeeeeeee$$**::**eeee$$$$!!!!++++++++**ee$$@@@@@@@@@@!!@@@@@@@@@@@@!!::**++++!!!!!!
@@ -22562,7 +22562,7 @@ eeeeeeee$$**::**eeee$$$$!!!!++++++++**ee$$@@@@@@@@@@!!@@@@@@@@@@@@!!::**++++!!!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee$$$$ee::**eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@@@@@@@@@@@
 eeeeee$$ee!!**eeee$$$$**!!++++++++!!!!!!++++!!!!++++++**$$@@@@@@@@++::@@@@@@@@@@$$
 eeeeeeeeee++++**eeee$$$$!!!!!!!!!!!!!!!!!!!!++++**ee!!@@@@@@@@@@@@::@@$$**++!!!!!!
@@ -22639,7 +22639,7 @@ eeeeeeeeee++++**eeee$$$$!!!!!!!!!!!!!!!!!!!!++++**ee!!@@@@@@@@@@@@::@@$$**++!!!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee$$$$**!!eeeeee$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!!!@@@@@@@@@@@@
 eeeeee$$ee::**eeee$$$$!!**@@@@@@ee**++++++!!!!!!!!!!++++++**@@@@@@::@@@@@@@@@@@@$$
 eeeeeeeeee::****eeee$$++!!$$$$eeee++++!!!!!!!!!!!!!!!!++$$@@@@@@@@::@@@@$$**!!!!ee
@@ -22716,7 +22716,7 @@ eeeeeeeeee::****eeee$$++!!$$$$eeee++++!!!!!!!!!!!!!!!!++$$@@@@@@@@::@@@@$$**!!!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeeeeeee++++eeee$$$$$$ee$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::@@@@@@@@@@@@$$
 eeeeeeee++!!**eeee$$$$!!@@@@@@@@@@@@@@@@$$**++++!!!!!!++++++****@@::@@@@@@@@@@@@$$
 eeeeeeee**::****eeee$$ee**@@@@@@@@@@@@@@$$++!!!!!!!!!!++++++$$@@@@::@@@@@@**!!!!ee
@@ -22793,7 +22793,7 @@ eeeeeeee**::****eeee$$ee**@@@@@@@@@@@@@@$$++!!!!!!!!!!++++++$$@@@@::@@@@@@**!!!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeeeeeee::**eeee$$$$++!!++++++++ee@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!@@@@@@@@@@@@$$
 eeeeeeee!!****eeee$$ee!!ee@@@@@@@@@@@@@@@@@@@@@@++!!++++++++++++**::@@@@@@@@@@$$$$
 eeeeeeee++++****eeee$$$$@@@@@@@@@@@@@@@@@@@@@@ee++!!!!++++++++ee::::@@@@@@$$!!!!ee
@@ -22870,7 +22870,7 @@ eeeeeeee**!!****eeeeee$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::**$$@@@@$$!!ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeeeee++!!**eeee$$$$!!!!++++++++++!!++++$$@@@@@@@@@@@@@@@@@@@@@@@@::@@@@@@@@@@@@$$
 eeeeeeee..****eeee$$++!!!!++++++++$$@@@@@@@@@@@@@@!!**++++++++++::::@@@@@@@@@@$$ee
 eeeeeeee..****eeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@ee!!++++++++++++::++@@@@@@@@!!**ee
@@ -22947,7 +22947,7 @@ eeeeeeee..****eeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@ee!!++++++++++++::++@@@@@@@@!!**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeeeee!!++**eeee$$$$!!eeee**++++++!!!!!!!!++++@@@@@@@@@@@@@@@@@@!!!!@@@@@@@@@@$$$$
 eeeeee++++**eeeeee$$!!!!++!!!!!!!!!!!!++ee@@@@@@@@!!@@$$**++++++::!!**@@@@@@@@$$ee
 eeeeee**::****eeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@$$!!ee@@**++++++!!::**@@@@@@@@!!ee@@
@@ -23024,7 +23024,7 @@ eeeeee**::****eeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@$$!!ee@@**++++++!!::**@@@@@@@@!!ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeeeee..**eeeeee$$**!!@@@@@@@@$$**++++!!!!!!++++++@@@@@@@@@@@@@@::@@@@@@@@@@@@$$$$
 eeeeee::++**eeeeee$$!!@@@@@@@@**++!!!!!!!!++**@@!!@@@@@@@@**++++::++++$$@@@@$$$$ee
 eeeeee::++****eeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@**@@@@ee++++::::++@@@@@@@@!!eeee
@@ -23101,7 +23101,7 @@ eeeeee::++****eeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@**@@@@ee++++::::++@@@@@@@@!!ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee++!!**eeeeee$$!!!!$$@@@@@@@@@@@@ee++++!!!!++++++ee@@@@@@@@@@!!@@@@@@@@@@@@$$$$
 eeee**::****eeeeee$$$$@@$$ee@@@@@@@@++!!!!!!!!!!!!@@@@@@@@@@**++::++++++@@@@$$eeee
 eeeeee..++****eeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@ee@@@@$$++::::++**@@@@!!++eeee
@@ -23178,7 +23178,7 @@ eeeeee..++****eeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@ee@@@@$$++::::++**@@@@!!++ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee::++**eeeeee$$!!!!++++**ee@@@@@@@@@@$$++++!!!!++++ee@@@@@@@@::@@@@@@@@@@@@$$ee
 eeee!!++****eeee$$$$$$@@@@@@@@@@ee@@@@@@++!!!!!!!!++@@@@@@@@@@::::++++++@@@@$$ee**
 eeeeee!!******eeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$$@@@@ee::!!++++@@@@!!ee$$ee
@@ -23255,7 +23255,7 @@ eeeeee!!******eeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$$@@@@ee::!!++++@@@@!!ee$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee**::****eeee$$**!!++!!++++!!++**@@@@@@@@@@**!!!!++++**$$@@@@::!!@@@@@@@@@@$$$$ee
 eeee..******eeee$$$$$$@@@@@@@@@@@@@@$$@@@@**++!!!!++**@@@@@@@@::++++++!!$$$$$$ee$$
 eeee**++******eeee$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ee@@::::++++++ee@@!!ee@@ee
@@ -23332,7 +23332,7 @@ eeee**++******eeee$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ee@@::::++++++ee@@!!ee@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee!!!!****eeee$$**++@@@@$$ee++!!!!++@@@@@@@@@@!!++++++++**@@@@::@@@@@@@@@@@@$$ee**
 eeee!!******eeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@$$!!!!++++ee@@@@@@!!++++++!!ee$$$$ee$$
 ee**::++******eeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$$::++++++ee++!!eeee@@
@@ -23409,7 +23409,7 @@ ee**::++******eeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$$::++++++ee++!!eeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee..++****eeee$$$$$$$$@@@@@@@@ee++!!++ee@@@@@@!!@@**++++++@@@@::@@@@@@@@@@@@$$eeee
 ee::++****eeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@$$!!**++++++@@@@::::ee++!!!!ee$$ee**$$
 ****::++******eeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::::**++++ee::ee$$ee$$
@@ -23486,7 +23486,7 @@ ee::++****eeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@$$!!**++++++@@@@::::ee++!!!!ee$$ee**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee!!****eeeeee$$$$@@@@@@@@@@@@@@@@++!!++ee@@@@!!@@@@++++++ee!!::@@@@@@@@@@$$$$ee$$
 ee::******eeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@ee++@@**++++ee@@::++$$++!!++ee$$ee$$$$
 ee**++++******eeee$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@++::@@**++++ee::ee@@ee$$
@@ -23563,7 +23563,7 @@ ee**++++******eeee$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@++::@@**++++ee::ee@@ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::++****eeeeee$$$$@@@@@@@@@@@@@@@@@@++!!!!**!!$$@@@@**++++**::ee@@@@@@@@@@$$$$ee$$
 ee++******eeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@$$@@$$++++**@@::@@$$++!!!!ee$$ee$$$$
 eeee++******eeeeeeee$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$$::@@**!!!!++!!eeee@@$$
@@ -23640,7 +23640,7 @@ eeee++******eeeeeeee$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$$::@@**!!!!++!!eeee@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::******eeee$$$$$$@@@@@@@@@@@@@@@@@@@@!!!!!!!!@@@@@@ee++++++!!@@@@@@@@@@@@$$ee**$$
 ee++******eeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@ee@@@@++++++::::@@ee++!!!!$$eeee$$$$
 ee++++******eeeeeeee$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!::@@**!!!!!!eeeeee$$$$
@@ -23717,7 +23717,7 @@ ee++++******eeeeeeee$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!::@@**!!!!!!eeeeee$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++****eeeeee$$$$$$@@@@@@@@@@@@@@@@@@@@++!!!!!!ee@@@@$$++++++::@@@@@@@@@@$$$$ee$$$$
 ::********eeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@++++++::::@@ee++!!!!$$ee$$$$$$
 **++++******eeeeeeee$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ee::**@@++!!!!!!ee@@ee$$$$
@@ -23794,7 +23794,7 @@ echo -en '++****eeeeee$$$$$$@@@@@@@@@@@@@@@@@@@@++!!!!!!ee@@@@$$++++++::@@@@@@@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******eeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@++!!!!**@@@@@@**++::::@@@@@@@@@@$$$$ee$$$$
 ++******eeeeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@ee@@**++++::@@@@ee++!!++$$ee$$$$$$
 **++********eeeeeeee$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@++!!**@@++!!!!!!eeee@@$$$$
@@ -23871,7 +23871,7 @@ echo -en '******eeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@++!!!!**@@@@@@**++::::@@@@@@@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******eeeeee$$$$@@@@@@@@@@@@@@@@@@@@**@@$$!!!!++@@@@@@**++::**@@@@@@@@@@$$$$**$$$$
 ++******eeeeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@ee@@$$++::!!@@@@ee!!!!++eeee$$$$$$
 ++++******eeeeeeee$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::**@@++!!!!**eeee$$$$ee
@@ -23948,7 +23948,7 @@ echo -en '******eeeeee$$$$@@@@@@@@@@@@@@@@@@@@**@@$$!!!!++@@@@@@**++::**@@@@@@@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****eeeeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@**ee!!!!++**@@@@ee++::**@@@@@@@@@@$$ee$$$$**
 ++******eeeeee$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@++::::@@@@**++!!**ee**$$$$**
 ++++******eeeeeeeeee$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@$$::::**@@++!!!!ee@@ee$$$$**
@@ -24025,7 +24025,7 @@ echo -en '****eeeeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@**ee!!!!++**@@@@ee++::**@@@@@@@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****eeeeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@!!**++++**@@@@$$::::**@@@@@@@@$$$$ee$$$$ee
 ********eeeeee$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ee@@++::!!@@@@**!!!!$$ee$$$$$$ee
 ++++******eeeeeeeeee$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@!!::@@ee@@++!!!!ee$$$$$$$$ee
@@ -24102,7 +24102,7 @@ echo -en '****eeeeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@!!**++++**@@@@$$::::**@@@@@@@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****eeeeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@++@@++++++@@@@@@::++**@@@@@@@@$$$$**$$$$$$
 ********eeeeee$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@ee@@::!!**@@@@++!!!!$$ee$$$$$$ee
 ++++******eeeeeeeeee$$$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@::@@ee@@!!!!++eeee$$$$$$ee
@@ -24179,7 +24179,7 @@ echo -en '****eeeeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@++@@++++++@@@@@@::++**@@@@@@@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****eeeeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@**@@**++++@@@@**!!++**@@@@@@@@$$ee$$$$**$$
 ********eeeeeeee$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@**@@!!::**@@@@++!!++ee**$$$$**ee
 ++++******eeeeeeeeee$$$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@ee::::@@@@$$!!!!ee$$ee$$$$**ee
@@ -24256,7 +24256,7 @@ echo -en '****eeeeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@**@@**++++@@@@**!!++**@@@@@@@@
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****eeeeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@ee++++@@@@::::++@@@@@@@@$$$$ee$$$$$$ee
 ******eeeeeeee$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@ee@@::!!**@@$$!!!!eeee$$$$$$eeee
 ++********eeeeeeee$$$$$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@ee::@@@@@@++!!!!ee$$$$$$$$eeee
@@ -24333,7 +24333,7 @@ echo -en '****eeeeeeee$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@ee++++@@@@::::++@@@@@@@@$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****eeeeee$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@$$++++@@@@::++++@@@@@@@@$$$$**$$$$$$ee
 ******eeeeeeee$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@$$!!!!++@@@@++!!!!$$ee$$$$$$eeee
 ++********eeeeeeeeee$$$$$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@::@@**@@!!!!++eeee$$$$eeee**
@@ -24410,7 +24410,7 @@ echo -en '****eeeeee$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@$$++++@@@@::++++@@@@@@@@$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**eeeeeeee$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@++++@@++::++**@@@@@@@@$$ee$$$$**$$ee
 ******eeeeeeee$$$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!::++@@@@!!!!eeeeee$$$$**eeee
 ++********eeeeeeeeee$$$$$$$$$$$$@@@@@@@@@@@@@@@@@@!!::**@@@@ee!!!!ee$$ee$$$$**ee::
@@ -24487,7 +24487,7 @@ eeeeeeee++++++++++++++++++++!!$$$$$$$$$$ee$$$$$$++++++++******++++++++++**::  ::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**eeeeeeee$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@$$++**@@::!!++@@@@@@@@$$$$ee$$$$$$eeee
 ******eeeeeeee$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@ee::!!**@@ee!!!!$$ee$$$$$$$$eeee
 ++******eeeeeeeeeeee$$$$$$$$$$$$$$@@@@@@@@@@@@@@@@@@::@@@@@@++!!!!eeee@@$$$$eeee::
@@ -24564,7 +24564,7 @@ ee++..::......  ....::::....................  ++  ..ee$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**eeeeeeee$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@ee++**@@!!++++@@@@@@@@$$$$ee$$ee$$eeee
 ******eeeeeeee$$$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@::++@@@@++!!eeee**$$$$**eeee++
 ++********eeeeeeeeee$$$$$$$$$$$$$$$$@@@@@@@@@@@@**++!!@@**@@!!!!eeee$$$$$$**ee++::
@@ -24641,7 +24641,7 @@ $$::  ::..::......::..::....................      ++$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeeeeeeeee$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@**++**::!!++**@@@@@@$$$$ee$$$$$$eeeeee
 ****eeeeeeeeee$$$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@++::!!++@@@@!!++$$ee$$$$$$$$eeee::
 ++******eeeeeeeeeeeeee$$$$$$$$$$$$$$$$$$@@@@@@@@@@::@@@@@@**!!!!eeee@@$$$$eeee::::
@@ -24718,7 +24718,7 @@ ee$$        ......::::::......................  ....++$$$$$$$$$$ee++..  ....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**eeeeeeee$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@**++++!!++++@@@@@@@@$$$$**$$ee$$eeee**
 ******eeeeeeeeee$$$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@++::++**@@**!!**$$ee$$$$eeeeee**::
 ++********eeeeeeeeeeee$$$$$$$$$$$$$$$$@@@@@@@@****::@@@@@@!!!!eeee$$$$$$**ee**::::
@@ -24795,7 +24795,7 @@ eeee::!!eeeeeeeeeeeeeeee++!!!!....::!!**eeeeee::::++!!    ++!!++++++::..eeeeeeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**eeeeeeee$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@**++::!!++++@@@@@@$$$$ee$$$$$$$$eeee::
 ****eeeeeeeeeeee$$$$$$$$$$@@@@@@@@@@@@@@@@@@@@**::++++@@@@++!!$$ee$$$$$$$$eeee::::
 ++******eeeeeeeeeeeeee$$$$$$$$$$$$$$$$$$@@@@@@@@::@@@@ee@@!!!!eeee@@$$$$eeee::::::
@@ -24872,7 +24872,7 @@ ee**..eeeeeeeeeeeeeeee**++!!....::!!++eeeeee$$::!!++      !!!!++++!!..::eeeeeeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeeeeeeeee$$$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@++::!!@@++++@@@@@@$$$$**$$ee$$eeee**::
 ****eeeeeeeeeeee$$$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@::++++@@@@!!**$$ee$$$$eeeeeeee::::
 **********eeeeeeeeeeeeee$$$$$$$$$$$$$$$$@@@@++**::@@@@@@++!!eeee$$$$$$**eeee::::::
@@ -24949,7 +24949,7 @@ ee::**eeeeeeeeeeeeeeee++!!::....::!!++eeeeee$$::ee++    ++::++++++::..eeeeee$$::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**eeeeeeeeee$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@++::!!ee++ee@@@@$$$$ee$$$$$$$$eeee::::
 ******eeeeeeeeee$$$$$$$$$$$$@@@@@@@@@@@@@@@@++::@@++++@@++!!$$$$ee$$$$$$eeee::::::
 **********eeeeeeeeeeeeeeee$$$$$$$$$$$$@@@@@@@@::@@@@@@@@!!!!eeee@@$$$$eeee::::::::
@@ -25026,7 +25026,7 @@ echo -en '**eeeeeeeeee$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@++::!!ee++ee@@@@$$$$ee$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**eeeeeeeeee$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@::::@@**++@@@@@@$$$$ee$$ee$$eeeeee::::
 ******eeeeeeeeeeee$$$$$$$$$$$$@@@@@@@@@@@@@@@@::@@++**@@!!++$$ee$$$$ee$$eeee::::::
 **********eeeeeeeeeeeeeeee$$$$$$$$$$$$@@@@++**::@@@@ee@@!!**ee$$$$$$**$$ee::::::::
@@ -25103,7 +25103,7 @@ echo -en '**eeeeeeeeee$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@::::@@**++@@@@@@$$$$ee$$ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**eeeeeeeeee$$$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@::::@@++++@@@@@@$$ee$$$$$$$$eeee!!::::
 ******eeeeeeeeeeee$$$$$$$$$$$$@@@@@@@@@@@@++::++@@++@@@@!!ee$$ee$$$$$$eeee!!::::::
 **********eeeeeeeeeeeeeeee$$$$$$$$$$$$@@@@@@::@@@@@@ee++!!ee$$@@$$$$eeee!!::::::::
@@ -25180,7 +25180,7 @@ echo -en '**eeeeeeeeee$$$$$$$$$$@@@@@@@@@@@@@@@@@@@@@@::::@@++++@@@@@@$$ee$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**eeeeeeeeee$$$$$$$$$$@@@@@@@@@@@@@@@@@@@@++::ee@@++++@@@@$$$$ee$$ee$$eeeeee::::::
 ******eeeeeeeeeeee$$$$$$$$$$$$$$@@@@@@@@@@@@::**ee++@@++!!$$ee$$$$ee$$eeee::::::::
 ************eeeeeeeeeeeeeeee$$$$$$$$@@@@++ee::@@@@@@@@!!**ee$$@@$$ee$$ee::::::::::
@@ -25257,7 +25257,7 @@ eeeeeeeeeeeeeeeeee**++**....::!!++eeeeee$$@@$$**    ::!!!!++++!!..++eeeeee++    
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**eeeeeeeeee$$$$$$$$$$@@@@@@@@@@@@@@@@@@@@ee::@@@@++$$@@@@$$$$ee$$$$$$eeee**::::::
 ******eeeeeeeeeeeeee$$$$$$$$$$$$@@@@@@@@++::**@@++++@@!!++$$ee$$$$$$eeee**::::::::
 ************eeeeeeeeeeeeeeee$$$$$$$$@@@@@@::$$@@@@$$@@!!ee$$@@$$$$eeee**::::::::::
@@ -25334,7 +25334,7 @@ eeeeeeeeeeeeeeee****++++..  !!!!++++!!!!++++++++ee$$ee$$$$eeee++!!..    ........
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**eeeeeeeeee$$$$$$$$$$$$@@@@@@@@@@@@@@@@!!::!!@@**++@@@@$$$$ee$$$$$$$$eeee::::::::
 ******eeeeeeeeeeeeee$$$$$$$$$$$$@@@@@@@@@@::@@@@++**@@!!$$ee$$$$$$$$eeee::::::::::
 ************eeeeeeeeeeeeeeee$$$$$$@@$$++ee::@@@@@@**!!++eeee@@$$eeeeee::::::::::::
@@ -25411,7 +25411,7 @@ eeeeeeeeeeeeeeee**++++......!!++++!!++++++++!!ee$$eeee$$$$$$++**++      ....  ..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**eeeeeeeeeeee$$$$$$$$$$@@@@@@@@@@@@@@@@!!::++@@++++@@@@$$$$ee$$ee$$eeeeee::::::::
 ******eeeeeeeeeeeeee$$$$$$$$$$$$@@@@@@**::!!@@@@++@@++!!$$ee$$$$eeeeeeee::::::::::
 **************eeeeeeeeeeeeee$$$$$$@@$$@@::ee@@@@@@**!!ee$$@@$$$$eeeeee::::::::::::
@@ -25488,7 +25488,7 @@ eeeeeeeeeeeeee**++++++....!!!!++++::!!++++++!!$$$$$$$$$$eeee++++!!    ........
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**eeeeeeeeeeee$$$$$$$$$$@@@@@@@@@@@@@@**::!!++@@++++@@$$$$ee$$$$@@$$eeee!!::::::::
 ********eeeeeeeeeeeeee$$$$$$$$$$@@@@@@@@::@@@@@@++@@!!eeee$$$$$$$$eeee!!::::::::::
 **************eeeeeeeeeeeeeeee$$$$$$**$$::@@@@@@$$++!!eeee@@$$$$eeee::::::::::::::
@@ -25565,7 +25565,7 @@ eeeeeeeeeeeeee******!!..::!!++$$$$eeeeeeee::    !!++!!::..            ....  ....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**eeeeeeeeeeeeee$$$$$$$$$$@@@@@@@@@@@@@@::++++@@++**@@$$$$ee$$ee$$eeeeee::::::::::
 ********eeeeeeeeeeeeee$$$$$$$$$$@@@@****::@@ee**++@@!!$$ee$$$$ee$$eeee::::::::::::
 ****************eeeeeeeeeeeeee$$@@$$$$::**@@@@@@$$!!eeee$$@@$$**eeee::::::::::::::
@@ -25642,7 +25642,7 @@ eeeeeeeeeeeeee******....!!!!eeee$$eeee$$ee      ++++!!::              !!    ....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****eeeeeeeeeeee$$$$$$$$$$@@@@@@@@@@**::ee++**@@!!@@$$$$ee$$$$$$$$eeee++::::::::::
 ********eeeeeeeeeeeeeeee$$$$$$@@@@@@@@::@@@@**++++!!**eeee$$$$$$eeee++::::::::::::
 ++**************eeeeeeeeeeeeee$$@@**$$::@@@@@@$$ee!!ee$$@@$$$$eeee++::::::::::::::
@@ -25719,7 +25719,7 @@ eeeeeeeeeeee********++..::..!!!!!!!!!!::        ....::              ..::....$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****eeeeeeeeeeee$$$$$$$$$$$$@@@@@@@@@@::@@++$$@@!!@@$$$$ee$$$$$$eeeeee::::::::::::
 ********eeeeeeeeeeeeee$$$$$$$$@@@@**ee::@@@@ee!!++!!$$ee@@$$$$$$eeee::::::::::::::
 **************eeeeeeeeeeeeeeee@@ee$$!!++@@@@$$$$++eeeeee@@$$ee$$ee::::::::::::::::
@@ -25796,7 +25796,7 @@ eeeeeeeeeeee******++!!....::!!!!!!!!::..      ::!!++::            ..::....**$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****eeeeeeeeeeee$$$$$$$$$$$$@@@@@@ee::**@@++@@**!!@@$$eeee$$ee$$eeee**::::::::::::
 **********eeeeeeeeeeeeee$$$$$$@@@@@@::$$@@@@@@!!!!++eeee@@$$eeeeee**::::::::::::::
 ++**************eeeeeeeeeeeeee@@$$$$::$$@@$$$$$$++ee@@$$$$$$**ee**::::::::::::::::
@@ -25873,7 +25873,7 @@ eeeeeeeeeeee++******  ::  !!**!!!!!!::        ::::++!!            ..::....$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****eeeeeeeeeeeeee$$$$$$$$$$@@@@@@@@::@@@@!!@@++!!$$$$ee$$$$$$$$eeee!!::::::::::::
 **********eeeeeeeeeeeeee$$$$@@$$ee$$::@@@@@@@@!!!!eeee$$$$$$$$eeee::::::::::::::::
 ++**************eeeeeeeeeeeeee$$@@++::$$$$$$$$$$**ee$$@@$$$$eeee::::::::::::::::::
@@ -25950,7 +25950,7 @@ eeeeeeeeeeee****  **..::::!!ee!!!!!!::        ....::              ::....++$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****eeeeeeeeeeeeee$$$$$$$$@@@@@@ee**!!@@@@++@@!!**$$$$ee$$ee$$eeee**::::::::::::::
 **********eeeeeeeeeeeeee$$$$@@ee@@::ee@@@@@@@@!!++$$ee$$$$eeeeeeee::::::::::::::::
 ++**************eeeeeeeeeeee@@ee$$::$$$$$$$$$$$$ee$$ee@@$$eeeeee::::::::::::::::::
@@ -26027,7 +26027,7 @@ ee**++eeee++++++....  ........++  ..        ..  !!..      ..ee$$$$$$$$$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****eeeeeeeeeeeeee$$$$$$$$@@@@@@@@::@@@@@@++@@!!ee$$ee$$$$$$$$eeee++::::::::::::::
 **********eeeeeeeeeeeeee$$$$@@**$$::@@@@@@$$ee!!eeee$$$$$$eeeeee!!::::::::::::::::
 ++**************eeeeeeeeeeee@@@@**::$$$$$$$$$$eeee@@$$$$$$eeee!!::::::::::::::::::
@@ -26104,7 +26104,7 @@ eeeeeeeeee****::!!..!!!!++eeee!!!!!!        ::..!!!!            ..::....$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******eeeeeeeeeeeeee$$$$$$@@@@ee**::@@@@$$++@@!!$$$$**$$$$$$eeeeee::::::::::::::::
 **********eeeeeeeeeeeeeeee@@ee$$::**@@@@@@ee!!!!eeee$$$$$$$$eeee::::::::::::::::::
 ++****************eeeeeeee$$++$$::ee$$$$$$$$$$ee$$ee@@$$eeeeee::::::::::::::::::::
@@ -26181,7 +26181,7 @@ eeeeeeee******..**::!!++**$$ee++!!!!        ::::::              ::....++$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******eeeeeeeeeeeeee$$$$$$@@@@@@::@@@@$$ee**ee!!$$ee$$$$ee$$eeee++::::::::::::::::
 **********eeeeeeeeeeeeee$$@@$$$$::@@@@@@@@ee!!eeee$$$$$$eeeeee++::::::::::::::::::
 ++****************eeeeee**@@@@**::$$$$$$$$$$eeee@@ee$$$$**ee++::::::::::::::::::::
@@ -26258,7 +26258,7 @@ eeeeee******::..++!!!!!!ee$$ee!!!!        ::::**!!            ..::....$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******eeeeeeeeeeeeee$$$$@@$$ee**::@@@@@@**$$!!**$$**$$$$$$eeeeee::::::::::::::::::
 ************eeeeeeeeeeee@@**$$::!!@@@@@@$$++!!eeee@@$$$$eeeeee::::::::::::::::::::
 ++++**************eeeeee**ee$$::**$$$$$$$$$$eeee$$@@$$$$eeee::::::::::::::::::::::
@@ -26335,7 +26335,7 @@ eeee********..::**!!!!**eeeeee!!!!        ::..!!::            ::......$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******eeeeeeeeeeeeee$$$$@@**@@::$$@@@@@@++++!!$$ee$$$$ee$$eeee**::::::::::::::::::
 ************eeeeeeeeeeee@@@@$$::$$@@$$$$$$!!eeee$$@@$$eeeeee**::::::::::::::::::::
 ++++****************ee**$$@@**::$$$$$$$$$$eeee$$ee$$$$eeee**::::::::::::::::::::::
@@ -26412,7 +26412,7 @@ echo -en '******eeeeeeeeeeeeee$$$$@@**@@::$$@@@@@@++++!!$$ee$$$$ee$$eeee**::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '********eeeeeeeeeeee$$@@$$$$**::@@@@@@@@!!!!**ee**$$$$ee$$eeee::::::::::::::::::::
 **************eeeeeeeeee**@@::!!$$$$$$$$$$!!eeee@@$$$$eeeeee::::::::::::::::::::::
 ++++****************ee**ee$$::**$$$$$$$$eeeeee$$$$$$$$eeee::::::::::::::::::::::::
@@ -26489,7 +26489,7 @@ echo -en '********eeeeeeeeeeee$$@@$$$$**::@@@@@@@@!!!!**ee**$$$$ee$$eeee::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '********eeeeeeeeeeee$$@@**$$::ee@@@@@@@@!!!!$$ee$$$$$$$$eeee**::::::::::::::::::::
 **************eeeeee**@@@@ee::$$$$$$$$$$$$eeeeee@@$$eeeeee**::::::::::::::::::::::
 ++********************++$$**::ee$$$$$$$$eeee$$ee@@$$$$ee**::::::::::::::::::::::::
@@ -26566,7 +26566,7 @@ echo -en '********eeeeeeeeeeee$$@@**$$::ee@@@@@@@@!!!!$$ee$$$$$$$$eeee**::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '********eeeeeeeeeeee$$ee@@**::@@@@@@@@@@!!**eeee$$$$ee$$eeee!!::::::::::::::::::::
 **************eeeeee**$$@@::!!$$$$$$$$$$eeee$$@@@@$$**eeee::::::::::::::::::::::::
 ++++****************!!@@@@::**eeeeee$$eeeeee$$ee$$$$**ee::::::::::::::::::::::::::
@@ -26643,7 +26643,7 @@ ee$$$$$$$$$$$$$$!!$$$$$$++!!$$$$$$$$$$$$$$$$ee**++++++++!!          !!++****++ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '********eeeeeeeeeeee@@$$$$::ee@@@@@@$$++!!$$ee$$$$$$$$eeeeee::::::::::::::::::::::
 **************eeee**$$$$ee::$$$$$$$$$$$$eeee$$@@$$$$eeeeee::::::::::::::::::::::::
 ++++****************++$$**::eeeeeeeeeeeeee$$$$@@$$$$eeee::::::::::::::::::::::::::
@@ -26720,7 +26720,7 @@ ee$$ee$$$$$$$$$$!!$$$$$$++++++++********++++**++++..::!!::!!!!..!!++**!!ee..****
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '********eeeeeeeeeeee$$@@**::@@@@@@@@ee!!**eeee$$$$ee$$eeee!!::::::::::::::::::::::
 ****************ee**ee@@::!!$$$$$$$$$$$$ee$$ee@@$$eeeeee!!::::::::::::::::::::::::
 ++++**************::$$$$::**eeeeeeeeeeeeeeeeee$$$$eeee!!::::::::::::::::::::::::!!
@@ -26797,7 +26797,7 @@ ee$$$$ee$$$$$$ee!!!!++++++++**++******++!!++++!!!!::++!!**eeeeeeee++  ++::  ....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '********eeeeeeeeee@@$$$$::ee@@@@@@$$++!!$$eeee$$$$eeeeeeee::::::::::::::::::::::::
 **************ee****$$ee::$$$$$$$$$$$$eeee$$$$$$$$eeeeee::::::::::::::::::::::::::
 ++**************++**$$++::eeeeeeeeeeeeee$$$$$$$$$$eeee::::::::::::::::::::::::::!!
@@ -26874,7 +26874,7 @@ $$ee$$$$ee!!!!!!!!++++++**eeeeeeee!!!!**++ee++!!..::ee$$ee!!......  ......++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '********eeeeeeeeeeee@@!!::$$$$@@$$$$!!**eeee@@$$$$$$eeee++::::::::::::::::::::::::
 **************ee++$$@@::++$$$$$$$$$$$$ee$$ee@@$$eeeeee!!::::::::::::::::::::::::::
 ++**************!!$$$$::**eeeeeeeeeeeeee$$ee@@$$eeee::::::::::::::::::::::::::::!!
@@ -26951,7 +26951,7 @@ $$ee$$$$ee++!!!!!!!!++++eeeeeeeeee::****++++++....::eeee**  ....    ......++++**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '********eeeeee++$$$$ee::$$$$$$$$$$$$!!$$ee$$@@$$eeeeeeee::::::::::::::::::::::::::
 ******************$$**::ee$$$$$$$$$$eeee$$$$$$$$**eeee::::::::::::::::::::::::::::
 ++++**********++**$$++::eeeeeeeeeeeeee$$$$$$$$$$**ee::::::::::::::::::::::::::!!!!
@@ -27028,7 +27028,7 @@ eeee$$$$**::!!!!++++++**ee**eeee**!!******++++....::$$ee::......  ....  ++++++ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******eeeeeeee**ee@@::!!$$$$$$$$$$**eeeeee@@$$$$$$eeee++::::::::::::::::::::::::::
 **************::$$$$::**ee$$$$$$$$eeee$$ee@@$$$$eeee++::::::::::::::::::::::::::!!
 ++************++ee$$::**eeeeeeeeeeee$$eeee@@$$$$ee!!::::::::::::::::::::::::::!!!!
@@ -27105,7 +27105,7 @@ ee$$$$eeee!!!!!!!!++++**ee**eeee**ee******++::..::++$$++  ......  ......++++**ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '********eeee**ee@@**::$$$$$$$$$$$$++eeee$$@@$$eeeeeeee::::::::::::::::::::::::::::
 ************++ee@@++::eeee$$$$$$$$eeee$$ee$$$$**eeee::::::::::::::::::::::::::::!!
 ++**************$$!!!!eeeeeeeeeeeeee$$$$ee$$$$**ee::::::::::::::::::::::::::::!!::
@@ -27182,7 +27182,7 @@ $$$$$$ee**!!!!++++++++**ee**eeee**ee**++!!++....::eeee..  ....  ....  !!++++eeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '********ee**++$$@@::**$$$$$$$$$$$$eeeeee@@$$$$eeeeee**::::::::::::::::::::::::::::
 ************++$$$$::**eeeeeeeeeeeeee$$$$@@$$$$eeee++::::::::::::::::::::::::::::::
 ++************eeee::**eeeeeeeeeeee$$eeee$$$$$$ee++::::::::::::::::::::::::::!!::!!
@@ -27259,7 +27259,7 @@ $$$$eeee++!!!!!!++++++****eeeeeeeeee**ee++!!  ..!!ee++  ......  ....  ++++ee$$**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '********ee++ee@@**::$$$$$$$$$$$$$$ee$$$$@@$$eeeeeeee::::::::::::::::::::::::::::::
 **********!!ee$$!!::eeeeeeeeeeeeeeee$$ee$$$$**eeee::::::::::::::::::::::::::::::::
 ++************ee::++eeeeeeeeeeeeee$$$$ee$$$$eeee::::::::::::::::::::::::::::!!::::
@@ -27336,7 +27336,7 @@ $$eeeeee!!!!++++++++++ee**eeeeeeee******++::..::++**..  ....  ....  !!++**$$ee++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**********++$$$$::**$$$$$$$$$$$$eeeeee@@$$$$eeeeee**::::::::::::::::::::::::::::::
 **********++$$ee::**eeeeeeeeeeeeee$$$$$$$$$$eeee**::::::::::::::::::::::::::::::::
 ++++********ee**::**eeeeeeeeeeee$$ee$$$$$$$$ee++::::::::::::::::::::::::::::::!!::
@@ -27413,7 +27413,7 @@ $$$$ee**!!!!!!++++++**ee++eeeeeeee****!!!!....::**++........  ......++++ee$$**++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******ee!!ee$$++::ee$$$$$$$$$$$$ee$$$$@@$$$$$$eeee!!::::::::::::::::::::::::::::::
 ************$$::!!eeeeeeeeeeeeeeee$$ee@@$$eeeeee::::::::::::::::::::::::::::::::::
 ++++********$$::++****eeeeeeeeee$$eeee$$$$eeee::::::::::::::::::::::::::::::::::::
@@ -27490,7 +27490,7 @@ $$eeee!!!!++++++++++******eeeeeeee**$$!!!!  ::!!**!!  ....  ....  !!++ee$$ee++!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******++**$$ee::**ee$$$$$$$$$$eeee$$@@$$$$**eeee**::::::::::::::::::::::::::::::::
 **********eeee::eeeeeeeeeeeeeeee$$$$$$$$$$**ee**::::::::::::::::::::::::::::::::::
 ++++**********::******eeeeeeee$$ee$$$$$$$$****::::::::::::::::::::::::::::::::::::
@@ -27567,7 +27567,7 @@ eeee**!!++++++++++++**++eeeeeeeeee**$$!!::  ::++++  ::....  ......++**$$$$ee++..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******!!$$@@::::eeeeee$$$$$$$$ee$$ee@@$$$$eeeeee++::::::::::::::::::::::::::::::::
 **********ee::++eeeeeeeeeeeeeeeeeeee@@$$eeeeee!!::::::::::::::::::::::::::::::::::
 ++********ee::********eeee**ee$$ee**$$$$$$ee::::::::::::::::::::::::::::::::::::::
@@ -27644,7 +27644,7 @@ eeee!!!!++++++++++******eeeeeeeeee**ee!!....::**++............  ::++ee$$$$++!!..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****++**$$**::eeeeeeee$$$$$$eeee@@@@$$$$**eeeeee::::::::::::::::::::::::::::::::::
 ********ee++::eeeeeeeeeeeeeeee$$$$$$$$$$**eeee::::::::::::::::::::::::::::::::::::
 ++********!!::********eeeeee$$ee$$ee$$$$****::::::::::::::::::::::::::::::::::::::
@@ -27721,7 +27721,7 @@ ee**!!++++++++++++**!!**eeeeeeee**$$++!!  ::++**..!!....  ....  ++ee$$$$ee++....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****++ee@@::!!eeeeeeee$$$$eeee$$ee@@$$$$eeeeee++::::::::::::::::::::::::::::::::::
 ********$$::**eeeeeeeeeeeeee$$eeee@@$$$$eeee!!::::::::::::::::::::::::::::::::::::
 ++********::**********ee**ee$$ee**$$$$$$ee::::::::::::::::::::::::::::::::::::::!!
@@ -27798,7 +27798,7 @@ ee!!!!++++++++++**++****eeeeeeee**@@!!......++++!!!!....  ..    **ee$$$$**++..  
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******ee++::eeeeeeeeee$$eeeeee@@ee@@$$**eeeeee::::::::::::::::::::::::::::::::::::
 ******ee::::eeeeeeeeeeeeeeee$$$$ee$$$$eeeeee::::::::::::::::::::::::::::::::::::::
 ++******::!!************ee$$ee$$ee$$$$****::::::::::::::::::::::::::::::::::::::++
@@ -27875,7 +27875,7 @@ $$$$$$$$**!!::::::::!!!!!!::::++++++++++++++  ..      ++++******eeeeeeeeee::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****ee$$::**eeeeeeeeeeeeeeee$$ee@@$$$$eeeeee++::::::::::::::::::::::::::::::::::::
 ******$$::**eeeeeeeeeeeeee$$eeee@@$$$$eeee!!::::::::::::::::::::::::::::::::::::::
 ++****!!::**************ee$$ee**$$$$$$ee::::::::::::::::::::::::::::::::::::::::++
@@ -27952,7 +27952,7 @@ eeeeeeeeee!!!!..        ....::::          ..!!$$$$$$$$$$$$$$$$$$$$!!  ........::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****ee::::eeeeeeeeeeeeeeeeee$$ee$$$$eeeeeeee::::::::::::::::::::::::::::::::::::::
 ****ee::!!**eeeeeeeeeeeeee$$$$ee$$$$eeeeee::::::::::::::::::::::::::::::::::::::::
 ++++**::++************ee$$eeeeee$$$$ee**::::::::::::::::::::::::::::::::::::::::++
@@ -28029,7 +28029,7 @@ eeeeeeee**!!!!          ..::!!::        ....ee$$$$$$$$$$$$$$$$$$$$::..........::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****ee::**eeeeeeeeeeeeeeee$$$$$$$$$$**eeee++::::::::::::::::::::::::::::::::::::::
 ******::********eeeeeeee$$ee$$$$$$$$**ee!!::::::::::::::::::::::::::::::::::::::::
 ++++::::**************ee$$eeee$$$$$$**::::::::::::::::::::::::::::::::::::::::::++
@@ -28106,7 +28106,7 @@ eeeeeeee**!!::          ....!!..        ....$$$$$$$$$$$$$$$$$$$$**..........::++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**$$::!!eeeeeeeeeeeeeeee$$eeee@@$$$$eeeeee::::::::::::::::::::::::::::::::::::::::
 ****::++******eeeeeeeeee$$eeee$$$$$$eeee::::::::::::::::::::::::::::::::::::::::::
 ++!!::++************eeeeeeee**$$$$ee++::::::::::::::::::::::::::::::::::::::::!!++
@@ -28183,7 +28183,7 @@ eeeeeeee++!!          ::::!!::          ....$$$$$$$$$$$$$$$$$$$$!!  ........::**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****::**eeeeeeeeeeeeeeee$$$$$$$$$$**eeee++::::::::::::::::::::::::::::::::::::::::
 **::::**********eeeeee$$ee$$ee$$$$**ee::::::::::::::::::::::::::::::::::::::::::::
 ++::!!**************ee$$eeeeee$$$$**::::::::::::::::::::::::::::::::::::::::::++++
@@ -28260,7 +28260,7 @@ eeeeeeee++::          ....++!!        ......$$$$$$$$$$$$$$$$$$$$::..........++!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee::++**eeeeeeeeeeeeee$$eeee@@$$$$eeeeee::::::::::::::::::::::::::::::::::::::::::
 ++::**************ee$$$$eeee$$$$eeee**::::::::::::::::::::::::::::::::::::::::::::
 ::::++************eeeeeeee**$$$$ee++::::::::::::::::::::::::::::::::::::::::::++++
@@ -28337,7 +28337,7 @@ eeeeeeee!!          ::::::..          ....ee$$@@$$$$$$$$$$$$$$**  ........::**::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::!!******eeeeeeeeeeee$$$$ee$$$$**eeee++::::::::::::::::::::::::::::::::::::::::::
 ::!!************eeee$$ee$$ee$$$$eeee::::::::::::::::::::::::::::::::::::::::::::::
 ..++++**********eeee$$eeee**$$$$**::::::::::::::::::::::::::::::::::::::::::!!++++
@@ -28414,7 +28414,7 @@ eeeeeeee::          ....++::        ......$$@@$$$$$$$$$$$$$$$$!!......::..!!!!::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::********eeeeeeeeee$$eeee@@$$$$eeee**::::::::::::::::::::::::::::::::::::::::::::
 ::++************ee$$$$ee**$$$$$$ee++::::::::::::::::::::::::::::::::::::::::::::!!
 !!++++**********eeeeee****$$$$ee::::::::::::::::::::::::::::::::::::::::::::!!++++
@@ -28491,7 +28491,7 @@ eeeeeeee          ::....::..        ......$$@@$$$$$$$$$$$$$$$$....  ..::::**::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++********eeeeeeee$$ee$$ee$$$$eeeeee::::::::::::::::::::::::::::::::::::::::::::::
 ++**************ee$$eeeeee$$$$eeee::::::::::::::::::::::::::::::::::::::::::::::++
 ++++++********eeeeee**ee**$$$$++::::::::::::::::::::::::::::::::::::::::::::++++++
@@ -28568,7 +28568,7 @@ eeeeee!!          ....++::          ....::$$@@$$$$$$$$$$$$$$++..........::++::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**********eeeeeeee$$eeee$$$$$$**ee++::::::::::::::::::::::::::::::::::::::::::::::
 ++************eeeeeeee**$$$$$$**::::::::::::::::::::::::::::::::::::::::::::::::++
 ++++++********eeeeeeee**ee$$ee::::::::::::::::::::::::::::::::::::::::::::::++++++
@@ -28645,7 +28645,7 @@ eeeeee          ::....::::        ......ee$$@@$$$$$$@@$$$$$$!!......::::**::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**********ee**ee$$ee$$ee$$$$eeeeee::::::::::::::::::::::::::::::::::::::::::::::::
 ++************ee$$eeee**$$$$ee**::::::::::::::::::::::::::::::::::::::::::::::::++
 ++++********eeeeee******$$ee::::::::::::::::::::::::::::::::::::::::::::::!!++++++
@@ -28722,7 +28722,7 @@ ee$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$++!!....!!::      ..      ......  ::::::!!::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '************ee$$$$eeee$$$$$$**ee!!::::::::::::::::::::::::::::::::::::::::::::::::
 ++**********eeeeee****ee$$$$**::::::::::::::::::::::::::::::::::::::::::::::::!!++
 ++++********eeeeeeee!!ee$$**::::::::::::::::::::::::::::::::::::::::::::::++++++++
@@ -28799,7 +28799,7 @@ ee$$$$$$$$$$$$$$$$$$$$$$$$$$++!!....++::      ..  ..    ..  ......::::::!!::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**********eeee$$ee$$ee$$$$$$ee++::::::::::::::::::::::::::::::::::::::::::::::::::
 ++********eeee$$eeee**$$$$ee::::::::::::::::::::::::::::::::::::::::::::::::::!!++
 ++++******eeeeeeee::++eeee::::::::::::::::::::::::::::::::::::::::::::::::++++++++
@@ -28876,7 +28876,7 @@ ee$$$$$$$$$$$$$$$$$$$$ee++!!....++::....    ..    ....        ......::::::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**********eeeeeeeeee$$$$$$**ee::::::::::::::::::::::::::::::::::::::::::::::::::::
 ++********eeeeee****ee$$ee++::::::::::::::::::::::::::::::::::::::::::::::::::++++
 ++++****eeeeeeee::!!eeee::::::::::::::::::::::::::::::::::::::::::::::::!!++++++++
@@ -28953,7 +28953,7 @@ $$$$$$$$$$$$$$$$$$$$$$**++::....++    !!  ....    ....          ....::!!::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**********ee$$eeee**$$$$$$ee::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ********eeeeee**ee**$$ee**::::::::::::::::::::::::::::::::::::::::::::::::::!!++++
 ++**++**eeeeee++!!!!ee!!::::::::::::::::::::::::::::::::::::::::::::::::++++++++++
@@ -29030,7 +29030,7 @@ $$$$$$$$$$$$$$$$$$**++!!....++..  ..  ......                    ........::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '********eeeeeeeeeeee$$$$**!!::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ********eeeeeeee::ee$$ee::::::::::::::::::::::::::::::::::::::::::::::::::::++++++
 ++++eeeeeeee**!!!!ee**::::::::::::::::::::::::::::::::::::::::::::::::::++++++++++
@@ -29107,7 +29107,7 @@ $$$$$$$$$$$$$$**++!!......!!          ........        ..          ......::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******eeee$$eeee**$$$$ee++::::::::::::::::::::::::::::::::::::::::::::::::::::::++
 ******eeeeeeee::++$$ee::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++
 ++++eeee**ee!!!!++ee::::::::::::::::::::::::::::::::::::::::::::::::::++++++++++++
@@ -29184,7 +29184,7 @@ $$$$$$$$$$ee++++......++              ....  !!        ::        ........::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******eeeeeeeeeeee$$$$**::::::::::::::::::::::::::::::::::::::::::::::::::::::::++
 ****eeeeeeee::!!**ee++::::::::::::::::::::::::::::::::::::::::::::::::::::!!++++++
 ++eeee**ee::!!!!ee::::::::::::::::::::::::::::::::::::::::::::::::::::++++++++++++
@@ -29261,7 +29261,7 @@ $$$$$$ee++!!........!!                  ......        ..    ..............::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****eeeeeeeeee**$$$$ee!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::++
 **eeeeeeee++!!!!ee**::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++++
 **ee**ee::!!!!**::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++++++++
@@ -29338,7 +29338,7 @@ ee**!!!!..........::                  ....            ..  ..............::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****eeeeeeee::ee$$ee!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!++
 eeeeeeee**!!!!****::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++++
 eeee**!!!!!!**!!::::::::::::::::::::::::::::::::::::::::::::::::::::!!++++++++++**
@@ -29415,7 +29415,7 @@ $$ee++!!........::                  ..                    ..........::::::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**eeeeeeee::!!$$ee**::::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!++
 eeee****!!!!++ee::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!++++++++
 ee**++!!!!**++::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++++++++**
@@ -29492,7 +29492,7 @@ $$ee++!!........!!                  ....  ..        ::    ..........::::::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeeeeeee!!!!**$$**::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++
 ee****!!!!!!**!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!++++++++
 ee++!!!!++++::::::::::::::::::::::::::::::::::::::::::::::::::::::!!++++++++++++**
@@ -29569,7 +29569,7 @@ $$ee++!!........!!                  ..              ..  ............::::::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'ee**ee++!!!!eeee::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++
 ****::!!!!**++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!++++++**
 ++!!!!++**::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!++++++++++****
@@ -29646,7 +29646,7 @@ $$ee++++........++                      ..              ............::::::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**ee**!!!!**ee::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++
 **::!!!!**++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++++**
 !!!!++**::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++++++++****
@@ -29723,7 +29723,7 @@ $$**++++........!!                ........        ..    ..........::::::::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****::!!!!ee!!!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++
 ::!!::++**::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++++**
 !!!!**::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++++++++****
@@ -29800,7 +29800,7 @@ $$**++++........++                  ....                ..........::::::::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**!!!!!!ee++!!!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!++**
 !!!!++**!!!!!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!++++++****
 !!**::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!++++++++++++****
@@ -29877,7 +29877,7 @@ $$ee++++........!!                    ..                ........::::::::::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::++!!**++!!!!!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++**
 !!++**!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++++****
 **::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++++++++++**ee
@@ -29954,7 +29954,7 @@ $$ee++++........!!              ....::..        ::    ..........::::::::::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!****!!!!!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++**
 ++**!!!!!!!!!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++++****
 !!::::::::::!!::::::::::::::::::::::::::::::::::::::::::::::::::++++++++++++****ee
@@ -30031,7 +30031,7 @@ $$**++!!........!!                  ::                ..........::::::::::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!****!!!!!!!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++****
 **::::!!!!!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++******
 ::::::::::::!!::::::::::::::::::::::::::::::::!!::::::::::::::::++++++++++++**eeee
@@ -30108,7 +30108,7 @@ $$ee++!!........!!    ..            ::                ..........::::::::::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++**!!!!!!!!!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++****
 !!::::::::!!!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++******
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!++++++++++****eeee
@@ -30185,7 +30185,7 @@ $$ee++++........!!  ..!!          ..::        ..    ..........::::::::::::::::!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**!!!!!!!!!!!!::!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++****
 !!::::::!!!!!!::::::::::::::::::::::::::::::::::::::::::::::::::::::!!++++++****ee
 ::::::::::!!::::::!!::::::::::::::::::::::::::::::::::::::::::++++++++++++****eeee
@@ -30262,7 +30262,7 @@ $$ee++++........!!::..::          ::..              ..........::::::::::::::::!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!!!!!!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++****
 ::!!::!!!!!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!++++******ee
 ::::::::::::::!!::::::::::::::::::::::::::::::::::::::::::::::++++++++++++****eeee
@@ -30339,7 +30339,7 @@ $$ee++!!........++!!..!!          ::        ..      ..........::::::::::::::::!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!::!!!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::******
 ::::!!::!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++******ee
 ::::::::::!!!!::::::::::::::::::::::::::::::::::::::::::::::::++++++++++****eeee$$
@@ -30416,7 +30416,7 @@ $$ee++!!........++!!  ::        ..          ..      ..........::::::::::::!!!!::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::!!!!!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::******
 ::::::!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++******ee
 ::::::::!!::::::::::::::::::::::::::::::::::::::::::::::::::::++++++++++****eeee$$
@@ -30493,7 +30493,7 @@ $$ee++!!........::!!            ::                  ......::::::::::::::!!!!!!::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!::::::!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::**!!**
 ::::::!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++******ee
 ::::::::!!!!::::::::::::::::::::::::::::::::::::::::::::::::!!++++++++++****eeee$$
@@ -30570,7 +30570,7 @@ $$**++!!........::!!            ..        ::      ..........::::::::::::!!!!!!::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::!!::!!!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!++!!**
 ::::::::!!::!!::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++******ee
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!++++++++++****eeee$$
@@ -30647,7 +30647,7 @@ $$**++::........::!!..        ..          ..      ........::::::::::::!!!!!!::  
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::!!!!!!!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!**
 ::!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++******eeee
 ::::::::!!!!::::::::::::::::::::::::::::::::::::::::::::::::++++++++++******eeee$$
@@ -30724,7 +30724,7 @@ $$++++..........!!!!..        ..                  ........::::::::::::::::!!!!  
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::!!::!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::..****
 ::::::::::!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++****++eeee
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++++++****eeeeee$$
@@ -30801,7 +30801,7 @@ $$++!!..........++::      ..            ..        ........::::::::::!!!!!!!!  ..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::****
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++****++eeee
 ::::::::!!::::::::::::::::::::::::::::::::::::::::::::::::::++++++++++****eeeeee$$
@@ -30878,7 +30878,7 @@ $$++!!..........++        ....          ..      ..........::::::::::::::::::  ..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::..::****
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++********ee
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++++++****eeee$$$$
@@ -30955,7 +30955,7 @@ $$++!!........  !!..    ..                      ............::::::::::::::::....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::..++****
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++****++****ee
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!++++++++++****eeeeee$$
@@ -31032,7 +31032,7 @@ $$++!!........  !!      ..                      ..........::::::::::::::::......
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::..!!****
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++********ee
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!++++++++++******eeee$$
@@ -31109,7 +31109,7 @@ $$++!!........  !!      ..            ::        ..........::::::::::::::::  ....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::::::::::::::::::::::::::::::::::::::..::::::::::::::::::::::::::..!!++**
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++++******
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!++++++++++******eeee$$
@@ -31186,7 +31186,7 @@ ee!!!!........  !!                            ............::::::::::::::::  ....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::::::::::::::::::::::::::::..........::::::::::::::::::::::::::..::!!++**
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++********
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!!!++++++++******eeeeee
@@ -31263,7 +31263,7 @@ ee!!!!......    !!    ..                      ............::::::::::!!::::......
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::::::::::::::::::::::::::::..........::::::::::::::::::::::::::..::::++++
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++********
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!!!!!++++++******eeeeee
@@ -31340,7 +31340,7 @@ $$ee!!!!......    !!          ....                ......::::::::::::::::::::..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::::::::::::::::::::::::..............::::::::::::::::::::::::::..::::++++
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++!!++******
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!!!++++++++********eeee
@@ -31417,7 +31417,7 @@ $$ee!!!!......    !!          ....              ........::::::::::::::::  ::..  
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::::::::::::::::::::::::::..........::::::::::::::::::::::::::....::::++++
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++::++******
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!!!++++++++********eeee
@@ -31494,7 +31494,7 @@ $$ee++::......    !!          ....                ....::::::::::::!!::::  ....  
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::::::::::::::::::::::::::..........::::::::::::::::::::::::::..::::::!!++
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++..++++******
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!!!++++++++********ee**
@@ -31571,7 +31571,7 @@ $$ee!!::....      !!        ......            ........::::::::::::::::!!::....  
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::::::::::::::::::::::::::..........::::::::::::::::::::::::::..::::::!!++
 ::::::::::::::::::::::::::::::::..::::::::::::::::::::::::::::::::::++..++++****++
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!!!++++++++++******ee**
@@ -31648,7 +31648,7 @@ $$**!!......    !!          ....                ......::::::::::::::::::::  ..  
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::::::::::::::::::::::..............::::::::::::::::::::::::::..::::::::++
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++::++++****++
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!!!!!++++++++++**********
@@ -31725,7 +31725,7 @@ ee++!!......    ++          ....              ..........::::::::::::::  ::....  
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::::::::::::::::::::::............::::::::::::::::::::::::::::..::::::::!!
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::..++++****++
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!!!++++++++++************
@@ -31802,7 +31802,7 @@ ee++!!......    ++          ....              ........::::::::::!!::::  ....    
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::::::::::::::::::::..............::::::::::::::::::::::::::....::::::::!!
 ::::::::::::::::::::::::::::..::::::::::::::::::::::::::::::::::::::..++++++****++
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!!!++++++++++************
@@ -31879,7 +31879,7 @@ ee++!!......    !!        ......              ......::::::::::::::!!::......    
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::::::::::::::::::::..............::::::::::::::::::::::::::..::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::..++++++**++++
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!!!++++++++!!************
@@ -31956,7 +31956,7 @@ $$++!!......    !!        ......                ....::::::::::!!::::::::....  ..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::::::::::::::..................::::::::::::::::::::::::::::..::::::::::::
 ..::::::..::::::::::::::::....::::::::::::::::::::::::::::::::::::::..++++++++++++
 ....::::::::::::::::::::::::::::::::::::::::::::::::::::!!++++++++++++************
@@ -32033,7 +32033,7 @@ ee!!!!......    !!          ....              ......::::::::::::!!::........  ..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::..::::::::::::::::::::..::............::::::::::::::::::::::::::::..::::::::::::
 ..::..::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::..++++++++++++
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!++++++++++++************
@@ -32110,7 +32110,7 @@ ee!!::....      ++          ....                ....::::::::::::!!!!  ..  ..  ..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..::::..::::::::::::::..::............::::::::::::::::::::::::::::::..::::::::::::
 ..::..::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++++++++++++
 ..::....::..::::::::::::::::::::::::::::::::::::::::::::!!++++++++++!!************
@@ -32187,7 +32187,7 @@ ee!!......      !!      ..  ....            ........::::::::::!!::!!  ....::  ::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..::::::..::::::::::::..................::::::::::::::::::::::::::::::::::::::::::
 ..........::::::::..::::..::::::::::::::::::::::::::::::::::::::::....!!++++++++++
 ....::..::::::::::::::::::::::::::::::::::::::::::::::::!!++++++++++++************
@@ -32264,7 +32264,7 @@ $$$$++!!......    !!          ..            ......::::::::::::::::!!    ..::::..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '......::..::::::::::::....::............::::::::::::::::::::::::::::::::::::::::::
 ......::..::::::::::::::..::::::::::::::::::::::::::::::::::::::::..!!!!++++++++++
 ..........::::::::::::::::::::::::::::::::::::::::::::::::++++++++++**************
@@ -32341,7 +32341,7 @@ eeee++::......                ..              ....::::::::!!!!::::::    ::::....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '....::....::::....::::..................::::::::::::::::::::::::::::::::::::::::::
 ............::::..::::::..::::::::::::::::::::::::::::::::::::::::..::::++++++++++
 ....::::..::::::::::::::::::::::::::::::::::::::::::::::::++++++++!!++************
@@ -32418,7 +32418,7 @@ eeee!!......    ::            ..              ....::::::::::!!::!!::::  ..::....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '....::....::::::....::::..............::::::::::::::::::::::::::::::::::::::::::::
 ......::..::..::::::::....::::::::::::::::::::::::::::::::::::::::..::::!!++++++++
 ..........::::::::::::::::::::::::::::::::::::::::::::::::++++++++++++******++**++
@@ -32495,7 +32495,7 @@ eeee!!......    !!            ..              ......::::::::::::::::::  ::::::..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '............::..::....................::::::::::::::::::::::::::::::::::::::::::::
 ::..........::::..::::....::::::::::::::::::::::::::::::::::::::::..::::!!++++++++
 ......::..::::::::::::::::::::::::::::::::::::::::::::::::!!++++++++++******++****
@@ -32572,7 +32572,7 @@ eeee!!......    !!            ..              ....::..::::::::::::::::  ..::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '........::..::........................::::::::::::::::::::::::::::::::::::::::::::
 ..::..........::..::....::::::::::::::::::::::::::::::::::::::::::..::::::!!++++++
 ....::....::::::::::::::::::::::::::::::::::::::::::::::::!!++++++++++******++****
@@ -32649,7 +32649,7 @@ $$ee!!......    !!            ..            ........::::::::::::::  ::  ::::....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '............::::::....::..............::::::::::::::::::::::::::::::::::::::::::::
 ............::::..::....::::::::::::::::::::::::::::::::::::::::::..::::::!!++++++
 ........::::::::::::::::::::::::::::::::::::::::::::::::::!!++++++::++++****++**++
@@ -32726,7 +32726,7 @@ ee**!!......    ++            ..              ......::::::::::::::  ::  ::::....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '......................................::::::::::::::::::::::::::::::::::::::::::::
 ..............::..::....::::::::::::::::::::::::::::::::::::::::::..::::::!!++++++
 ....::....::::::::::::::::::::::::::::::::::::::::::::::::!!++++++::++++**++++**++
@@ -32803,7 +32803,7 @@ $$**!!......    ++            ..              ....::..::::::::::::  ::  ::::::..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '................::....................::::::::::::::::::::::::::::::::::::::::::::
 ..::............::::....::::::::::::::::::::::::::::::::::::::::::..::::::::!!++++
 ............::::::::::::::::::::::::::::::::::::::::::::::::++++++::++++++++++****
@@ -32880,7 +32880,7 @@ $$ee!!......    !!            ..              ....::::::::::::::::  ::  ::::....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '......................................::::::::::::::::::::::::::::::::::::::::::::
 ..........::..............::::::::::::::::::::::::::::::::::::::::..::::::::!!++++
 ..........::::::::::::::::::::::::::::::::::::::::::::::::::++++++::++++++++++**++
@@ -32957,7 +32957,7 @@ $$ee!!......    ::            ..              ....::::::::::::::::  ..  ::......
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '........................................::::::::::::::::::::::::::::::::::::::::::
 ..........::............::::::::::::::::::::::::::::::::::::::::::..::::::::::!!++
 ............::::::::::::::::::::::::::::::::::::::::::::::::++++++::++++++++++++++
@@ -33034,7 +33034,7 @@ $$ee!!......    ....          ..              ......::::::::::::::  ..  ::::....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '........................................::::::::::::::::::::::::::::::::::::::::::
 ................::........::::::::::::::::::::::::::::::::::::::::..::::::::::!!++
 ............::::::::::::::::::::::::::::::::::::::::::::::::!!++++::++++++++++++++
@@ -33111,7 +33111,7 @@ $$$$++......      !!          ..              ......::::::::::::::      ::......
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '........................................::::::::::::::::::::::::::::::::::::::::::
 ............................::::::::::::::::::::::::::::::::::::::..::::::::::!!++
 ................::::::::::::::::::::::::::::::::::::::::::::::++++::++++++++++++++
@@ -33188,7 +33188,7 @@ $$$$!!::......  ..!!          ..              ....::::::::::::::::      ........
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '........................................::::::::::::::::::::::::::::::::::::::::::
 ............................::::::::::::::::::::::::::::::::::::::..::::::::::::!!
 ................::::::::::::::::::::::::::::::::::::::::::::::++++..++++++++++++++
@@ -33265,7 +33265,7 @@ ee++......      !!          ..                ........::::::::::::  ......  ....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..........................................::::::::::::::::::::::::::::::::::::::::
 ............................::::::::::::::::::::::::::::::::::::::..::::::::::::!!
 ................::::::::::::::::::::::::::::::::::::::::::::::!!++..++++++++++++++
@@ -33342,7 +33342,7 @@ ee!!......      ++          ..                ......::::::::::::::  ......  ....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..........................................::::::::::::::::::::::::::::::::::::::::
 ............................::::::::::::::::::::::::::::::::::::::..::::::::::::!!
 ..................::::::::::::::::::::::::::::::::::::::::::::!!++..++++++++++++++
@@ -33419,7 +33419,7 @@ $$!!::....      ++                            ......::::::::::::::  ......  ....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '............................................::::::::::::::::::::::::::::::::::::::
 ..............................::::::::::::::::::::::::::::::::::::..::::::::::::!!
 ..................::::::::::::::::::::::::::::::::::::::::::::::++..++++++++++++++
@@ -33496,7 +33496,7 @@ $$++!!....      ++            ..            ..........::::::::::::::..  ..  ....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '............................................::::::::::::::::::::::..::::::::::::::
 ..............................::::::::::::::::::::::::::::::::::::..::::::::::::!!
 ....................::::::::::::::::::::::::::::::::::::::::::::++..++++++++++++++
@@ -33573,7 +33573,7 @@ ee!!!!....      !!            ..            ............::::::::::::::  ..  ....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '............................................::..::::::::::::::::::..::::::::::::::
 ................................::::::::::::..::::::::::::::::::::....::::::::::!!
 ....................::::::::::::::::::::::....::::::::::::::::::!!..++++++++++++++
@@ -33650,7 +33650,7 @@ $$++!!......      ::          ..              ........::::::::::::::..  ..  ::..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..............................................::::::::::::::::::::..::::::::::::::
 ................................::::::::::::::::::::::::::::::::::....::::::::::!!
 ......................::..::::::::::::::::::::::::::::::::::::::!!!!::++++++++++++
@@ -33727,7 +33727,7 @@ ee**!!......      ++          ..              ..........::::::::::::  ....  ::..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..............................................::::::::::::::::::::..::::::::::::::
 ..................................::::..::::::::::::::::::::::::::::..::::::::::!!
 ........................::::::::::::..::..::::::::::::::::::::::!!++..++++++++++++
@@ -33804,7 +33804,7 @@ eeee!!::....      ++          ..              ........::::::::::::::  ..    ::..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..............................................::::::::::::::::::::::..::::::::::::
 ..................................::::..::::::::::::::::::::::::::::..::::::::::!!
 ........................::::::::::::::::::::::..::::::::::::::::::++..++++++++++++
@@ -33881,7 +33881,7 @@ ee!!::....      !!                            ............::::::::::    ......
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..................................................::::::::::::::::::..::::::::::::
 ......................................::::::::::::::::::::::::::::::....::::::::!!
 ..........................::::::::::::::::::..::::::::::::::::::::++..++++++++++++
@@ -33958,7 +33958,7 @@ ee++!!....        !!                          ............::::::::::::........
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '................................................::::::::::::::::::::..::::::::::::
 ......................................::::::::..::::::::::::::::::::....::::::::!!
 ............................::::::::::::::::::::::::::::::::::::::++::::++++++++++
@@ -34035,7 +34035,7 @@ ee++!!..          !!        ..                  ..........::::::::::::  ......
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '................................................::::::::::::::::::::::..::::::::::
 ........................................::::::::::::::::::::::::::::::..::::::!!!!
 ............................::::::::::::::::::::::::::::::::::::::++++!!++++++++++
@@ -34112,7 +34112,7 @@ eeee!!......      !!            ..            ..........::::::::::::::  ......
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..................................................::::::::::::::::::::::::::::::::
 ........................................::::::::::::::::::::::::::::::..::::::!!++
 ..............................::::::::::::::::::::::::::::::::::::++++::++++++++++
@@ -34189,7 +34189,7 @@ ee!!......        !!                            ..........::::::::::::..........
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..................................................::::::::::::::::::::::..::::::::
 ........................................::::::::::::::::::::::::::::::::..::::!!++
 ..............................::::::::::::::::::::::::::::::::::::++++++!!++++++++
@@ -34266,7 +34266,7 @@ ee!!!!......      !!                            ............::::::::::::  ......
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..................................................::::::::::::::::::::::::::::::::
 ..........................................::::::::::::::::::::::::::::::..::::++++
 ....................::..........::::::::::::::::::::::::::::::::::++++++++++++++**
@@ -34343,7 +34343,7 @@ ee**!!  ....        !!                            ..........::::::::::::  ......
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..................................................::::::::::::::::::::::::::::::::
 ..........................................::::::::::::::::::::::::::::::....::++++
 ..................................::::::::::::::::::::::::::::::::++++++++++++****
@@ -34420,7 +34420,7 @@ ee!!::    ..      !!..                            ............::::::::::::  ....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '....................................................::::::::::::::::::::::..::::::
 ......::................::..................::::::::::::::::::::::::::::::..::++++
 ..............................::::::::::::::::::::::::::::::::::::!!++++++++++****
@@ -34497,7 +34497,7 @@ ee++!!......        !!                          ............::::::::::::::  ....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '..................::......::................::..::..::::::::::::::::::::::::..::::
 ..::......::::....::::......................::::::::::::::::::::::::::::::::::++++
 ....................::::............::::::::::::::::::::::::::::::!!++++++++++++**
@@ -34574,7 +34574,7 @@ eeee!!::....        ::::                          ............::::::::::::::  ..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::..::..::::......::::::..........................::::::::::::::::::::::::::..::::
 ::......::::::....::::::......::......::......::::::::::::::::::::::::::::::..++++
 ....::::::::::..::..::::::::..::..::::::::::::::::::::::::::::::::::++++++++++++**
@@ -34651,7 +34651,7 @@ ee!!::..    ..      !!                            ..........::::::::::::::::  ..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::..::::::::::::..::....::::................::........::::::::::::::::::::::::..::
 ..::::::::::::::::::::::::::..::........::....::::::::::::::::::::::::::::::::..++
 ..::..::..::::::::::::::..::::::::....::::::::::::::::::::::::::::::++++++++++++**
@@ -34728,7 +34728,7 @@ ee**!!..      ..      ::                  ..        ..........::::::::::::::::  
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::::::::::::::::::::::::........::......::..::::::::::::::::::::::::::..::
 ::::::::::::::::::::::::::::::::::..............::::::::::::::::::::::::::::::..++
 ..::::::::::::::::::::::::::::::::::::..::::::::::::::::::::::::::::++++++++++++++
@@ -34805,7 +34805,7 @@ ee!!::      ..      ::::        ..                ..............::::::::::::::..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::::::::::::::::::::::::::........::........::..::::::::::::::::::::::::..
 ::::::::::::::::::::::::::::::::::::..........::::::::::::::::::::::::::::::!!++!!
 ::::::::::::::::::::::::::::::..::........::::::::::::::::::::::::::++++++++++++++
@@ -34882,7 +34882,7 @@ ee++!!..      ..      ::..        ::                ..........::::::::::::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::::::::::::::::::::::::::......................::::::::::::::::::::::::..
 ::::::::::::::::::::::::::::::::::........::......::::::::::::::::::::::::::!!++++
 ::::::::::::::::::::::::::::::::::::::::..::::::::::::::::::::::::::!!!!++++++++++
@@ -34959,7 +34959,7 @@ ee!!::    ..  ..      ::..                    ..  ..................::::::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::::::::::::::::::::::::::........................::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::............::::::::::::::::::::::::::::!!++++
 ::::::::::::::::::::::::::::::::::::........::::::::::::::::::::::::!!!!++++++++++
@@ -35036,7 +35036,7 @@ ee++!!..      ..      ::::::                        ................::::..::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::::::::::::::::::::::::::::::::::::......................::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::............::..::::::::::::::::::::::::!!++++
 ::::::::::::::::::::::::::::::::::::......::::::::::::::::::::::::::::!!!!++++++++
@@ -35113,7 +35113,7 @@ ee!!::    ..  ..      ::::..                          ................::::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++::::::::::::::::::::::::::::::::::......................::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::......::..........::::::::::::::::::::::::++++
 ::::::::::::::::::::::::::::::::::::::::::..::..::::::::::::::::::::::!!!!++++++++
@@ -35190,7 +35190,7 @@ ee++!!::            ..  ::....                    ..    ..............::::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++**::::::::::::::::::::::::::::::::........::..............::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::........::........::::::::::::::::::::::::++++
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!!!++++++++
@@ -35267,7 +35267,7 @@ ee!!::                  ::                              ................::..::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!++**::::::::::::::::::::::::::::::::......::::::....::......::::::::::::::::::::
 **!!::::::::::::::::::::::::::::::::..::::::::..::::::..::::::::::::::::::::::++++
 ::::::::::::::::::::::::::::::::::::::::::..::::::::::::::::::::::::::!!!!!!++++++
@@ -35344,7 +35344,7 @@ ee++!!::                ..::..                          ....................::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!!!**!!::::::::::::::::::::::::::::::::::::..::........::..::::::::::::::::::::
 !!**++::::::::::::::::::::::::::::::::::::::::..::::::..::::::::::::::::::::::++++
 **::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!!!++++++++
@@ -35421,7 +35421,7 @@ ee!!::....              ::::                              ..............::....::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**!!!!!!ee++!!::::::::::::::::::::::::::::::::::::..::::::::..::::::::::::::::::::
 **!!****::::!!!!::::::::::::::::::::::::::::::::::::::....::::::::::::::::::::++++
 ****::::::!!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::!!++++++++
@@ -35498,7 +35498,7 @@ eeee::!!                  ::::                              ................::..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeee!!!!!!****!!!!::::::::::::::::::::::::::::::::......::....::::::::::::::::::::
 ee++!!++ee!!!!::::::::::::::::::::::::::::::::::::......::::::::::::::::::::::++++
 ee****!!::!!::!!::!!::::::::::::::::::::::::::::::::::::::::::::::::::::!!!!++++++
@@ -35575,7 +35575,7 @@ ee!!::::                  ::::                                  ..............::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeeeee::!!!!****!!::!!::::::::::::::::::::::::::................::::::::::::::::::
 eeee!!!!++ee!!!!::!!::::::::::::::::::::::::::::::::..::....::::::::::::::::::!!!!
 eeee******!!!!!!!!::!!::::::::::::::::::::::::::::::::::::::::::::::::::!!!!!!!!++
@@ -35652,7 +35652,7 @@ eeee!!::..                  ::::                                ............::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en 'eeeeeeee!!!!!!**ee!!::::::::::::::::::::::::::::::................::::::::::::::::
 eeeeee!!++!!**!!!!!!!!!!::::::::::::::::::::::::::::....::..::::::::::::::::::!!!!
 eeeeee++****!!!!!!!!::::::::::::::::::::::::::::::::::::::::::::::::::::::!!!!!!++
@@ -35729,7 +35729,7 @@ ee++::::                    ::..                                  ..............
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**eeeeeeee++!!!!++ee!!!!::::::::::::::::::::::::::..::............::::::::::::::::
 eeeeeeee!!++!!**++!!!!::::::::::::::::::::::::::::::::........::::::::::::::::::!!
 eeeeeeee++++ee!!!!!!::::!!::::::::::::::::::::::::::..::::::::::::::::::::!!!!!!++
@@ -35806,7 +35806,7 @@ ee::::....                  ::::                                    ............
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '******eeeeee**!!!!++ee!!::::::::::::::::::::::::....................::::::::::::::
 ++**eeeeee!!!!!!**++!!::::::::::::::::::::::::::::::..........::::::::::::::::::!!
 **eeeeeeee!!!!ee!!!!::!!::::::::::::::::::::::::::::..::..::::::::::::::::!!!!!!!!
@@ -35883,7 +35883,7 @@ ee**::::..                    ::..                                  ............
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '********eeeeeeee!!!!++ee::::::::::::::::::::::::::..................::::::::::::::
 ******eeeeee++!!!!****!!!!::::::::::::::::::::::::..::..........::::::::::::::::!!
 ++**eeeeee!!++!!ee!!!!::::::::::::::::::::::::::::::::..::..::::::::::::::!!!!!!++
@@ -35960,7 +35960,7 @@ eeee!!::::..                    ::::                                  ..........
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '********eeeeeeeeee::!!++ee::::::::::::::::::::::..::..................::::::::::::
 ++****++eeeeee**!!!!****!!::::::::::::::::::::::::::::..........::::::::::::::::!!
 ++++++eeeeee!!++!!**!!::::::::::::::::::::::::::::::....::::::::::::::::::::++++++
@@ -36037,7 +36037,7 @@ eeeeee$$eeee!!::..                    ::::                              ........
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++********eeeeeeeeee::!!!!ee::::::::::::::::::::::..::..::............::::::::::::
 ++++****++eeeeee**!!!!****!!::::::::::::::::::::::::::............::::::::::::::::
 ++++++++eeeeee!!!!!!**!!::::::::::::::::::::::::::::::::::..::::::::::::::::++++++
@@ -36114,7 +36114,7 @@ ee$$$$$$$$$$$$ee!!::::                    ..::..                        ........
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++**********eeeeeeee::!!!!ee::::::::::::::::::::::::..................::::::::::
 ++++******++eeeeeeee!!!!++**::::::::::::::::::::::::..::..::......::::::::::::::::
 ++++++**++eeeeee++!!!!**::::::::::::::::::::::::::::::::::::::::::::::::::::!!++++
@@ -36191,7 +36191,7 @@ ee$$$$$$$$$$$$$$eeee$$ee!!::                ..    ::::                        ..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**++************eeeeeeee::++++ee::::::::::::::::::::::..::::............::::::::::
 ++++++********eeeeeeee!!!!++**::::::::::::::::::::::::::::......::..::::::::::::::
 !!++++++**++eeeeee**!!!!**!!::::::::::::::::::::::::::::::::....::::::::::::::++++
@@ -36268,7 +36268,7 @@ ee$$$$$$$$$$$$$$$$$$$$$$ee$$$$++!!..  ........        ..::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!ee**************eeeeeeee::++**ee::::::::::::::::::::..................::::::::::
 ++++++++********eeeeeeee::!!++**::::::::::::::::::::....::::........::::::::::::::
 ++!!++++******eeeeee**!!!!**::::::::::::::::::::::::::::..::....::::::::::::::++++
@@ -36345,7 +36345,7 @@ ee$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$!!::....          ..  ..!!::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::!!************eeee$$$$ee$$::!!eeee::::::::::::::::::::..................::::::::
 !!++++++**********eeeeeeee!!!!++++::::::::::::::::::::..::::::........::::::::::::
 !!++!!++++******eeeeeeee!!::**::::::::::::::::::::::::::..::......::::::::::::::++
@@ -36422,7 +36422,7 @@ ee$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ee!!..          ....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++::!!************eeee$$eeeeee::!!eeee::::::::::::::::::....................::::..
 ++::++**************ee$$eeee::!!**++::::::::::::::::::::::....::........::::::::::
 ++!!++++++++******eeeeeeee!!!!**::::::::::::::::::::::::..::......::::::::::::::++
@@ -36499,7 +36499,7 @@ eeeeee!!::            ..  ::..                    ....::$$$$$$$$$$$$$$$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++::!!************eeee$$eeeeee::!!ee**::::::::::::::::....................::::::
 ++++::++**************eeeeeeee::!!**!!::::::::::::..::::::..............::::::::::
 ++++::++++++++******eeeeeeee!!!!**::::::::::::::::::::....::........::::::::::::!!
@@ -36576,7 +36576,7 @@ eeeeeeee!!..                !!::                  ......::$$$$$$$$$$$$$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++**::!!**********eeeeee$$eeeeee::++ee++::::::::::::::::..................::::::
 ++++++::++************eeeeeeeeee::!!**::::::::::::::::::::::............::::::::::
 ++++++!!++++**********eeeeeeee!!!!**::::::::::::::::::::............::::::::::::::
@@ -36653,7 +36653,7 @@ eeeeeeee++::..                !!..                  ......::$$$$$$$$$$$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++**::!!**********eeeeee$$eeeeee::++ee::::::::::::::::::::................::::
 !!++++++::!!************eeeeeeeeee::!!ee::::::::::::..::..::..............::::::::
 ++++++++!!++++**********$$eeee**!!!!**::::::::::::::::..::::::........::::::::::::
@@ -36730,7 +36730,7 @@ eeeeeeeeee!!::                  ..                  ..........$$$$$$$$$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++****::!!********eeeeeeee$$$$eeee::**ee::::::::::::..::::::................::
 !!++++++++::!!**********eeeeeeeeee**::!!ee::::::::::::::::..::..............::::::
 !!!!++++++::++************eeeeee**!!!!**::::::::::::::::..::::........::::::::::::
@@ -36807,7 +36807,7 @@ eeeeeeeeee++!!::                ....                  ..........$$$$$$$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++**++++****::::**********eeeeeeeeeeee**!!eeee::::::::::::::::..................::
 ++!!++++++++::++**********eeeeeeeeee**!!!!ee::::::::::::::....::............::::::
 ++!!!!++++++::++************eeeeee++!!!!**::::::::::::::........::........::::::::
@@ -36884,7 +36884,7 @@ eeeeeeeeeeee!!!!::            ..  !!..                  ..........$$$$$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++**********::!!********eeeeeeeeeeeeee++!!eeee::::::::::::..::::................
 ++++!!++++++++::!!**************$$eeee++!!!!ee::::::::::..::::::....::........::::
 ++++!!++++++++::++************eeeeee!!!!++**::::::::::::::::::....::......::::::::
@@ -36961,7 +36961,7 @@ eeeeeeeeeeeeeeeeeeeeee!!          ..::....                      ..  ......$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++******::::******eeeeeeeeeeee$$ee::!!ee**::::::::::::......::............
 ++++++++++++****::++**********ee**$$eeee::!!++++::::::::::::::::::............::::
 **++++!!++++++++::++************eeeeee::!!++!!::::::::::::::..::::........::::::::
@@ -37038,7 +37038,7 @@ eeeeee!!!!++!!!!++++++++++********!!..!!::!!::!!eeee++++    ::..!!eeeeeeeeee  ..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++************::!!********eeeeeeeeeeeeee::!!ee++::::::::::::..::..............
 ++++++++**++++****::++**********ee**$$eeee::!!**::::::::::::::::::..::..........::
 ++++++!!!!++++++++::++************eeeeee::!!**::::::::::::::..::............::::::
@@ -37115,7 +37115,7 @@ eeeeeeee!!!!++!!!!++++++++++++****++!!!!!!::!!!!!!eeee++++    ::..!!eeee**eeee  
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++************::!!******eeeeeeeeeeeeeeee::!!ee::::::::..::::::..............
 ++++++++++ee++++****::++********eeee**eeeeee::!!**::::::::::::::::::::....::....::
 ++++++++++!!++++++++::++************eeeeee::!!**::::::::::::::::::..........::::::
@@ -37192,7 +37192,7 @@ eeeeeeeeee!!!!++!!++++++++++++******++!!++!!!!!!!!++eeee++++  ..::..!!**eeeeee**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++************::!!****eeeeeeeeeeeeeeeeee!!++ee::::::::::::::::::......::..
 ++++++++++++++++******::++**********ee**eeeeee::!!ee::::::::::::::::::::........::
 ++++++++++!!!!++++++++::**************eeeeee::!!**::::::::::::::::......::....::::
@@ -37269,7 +37269,7 @@ eeeeeeeeeeee!!!!++!!++++++++++********++..!!::!!::!!**ee**++!!  ::::::::++****ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++****************::++******eeeeeeeeeeeeeeee!!**ee::::::::::::::::::..::....
 ++++++++++++++++++******::**********eeeeeeeeeeee!!!!**::::::::::::::::::::..::..::
 ++++++++++++++**++++++++::**************eeeeee!!!!**::::::::::::::::......::::::::
@@ -37346,7 +37346,7 @@ ee......::!!!!!!++****!!**++eeeeeeeeeeeeee**++..ee    ....++!!****eeeeee  ..::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++**************::++******eeeeeeeeee$$ee!!!!ee++::::::::::::::::::::::..
 ++++++++++++++**********++::**********eeeeeeeeee++!!++!!::::::::::::::::::::::::::
 ++++++++++++++++**++++++++::**************eeee**!!++!!::::::::::::::::::::..::::::
@@ -37423,7 +37423,7 @@ ee++......::!!!!!!++**!!++++**eeeeeeeeeeeeee****..ee  ....::++++******eeee  ..!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++******************::********eeeeeeeeee$$ee::!!ee::::::::::::::::::::::::
 ++++++++++++++++**********++::**********eeee$$eeee::!!**::::::::::::::::::::::::::
 ++++++++++++++++++ee++****!!::************eeeeee::!!**::::::::::::::::::::..::::::
@@ -37500,7 +37500,7 @@ eeee::....::::!!!!++****!!**++eeeeeeeeeeeeeeee**++..++  ....!!++******eeeeee  ::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++**********************::********eeeeeeeeeeeeee::!!ee::::::::::::::::::::::
 ++++++++++++++**************++::**********ee**$$eeee::!!**::::::::::::::::::::::::
 ++++++++++++++++++**++++****!!::************eeeeee::!!**::::::::::::::::::::..::::
@@ -37577,7 +37577,7 @@ ee$$$$ee$$$$$$$$ee::!!::!!++++++++++********++ee++++++!!  ::::::!!!!!!!!!!::++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++**********************::********eeeeeeeeeeeeee!!!!ee::::::::::::::::::::
 ++++++++++++++++**************!!::**********ee**eeeeee!!!!**::::::::::::::::::::::
 ++++++++++++++++++++**++******::::************eeeeee!!!!**::::::::::::::::::::::::
@@ -37654,7 +37654,7 @@ echo -en '++++++++++**********************::********eeeeeeeeeeeeee!!!!ee::::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++********************++::********eeeeeeeeeeee++!!++!!::::::::::::::::::
 ++++++++++++++++****************::::********eeee**eeee**!!++!!::::::::::::::::::::
 ++++++++++++++++++++++++++******::!!************eeeeee!!++!!::::::::::::::::::::::
@@ -37731,7 +37731,7 @@ echo -en '++++++++++++********************++::********eeeeeeeeeeee++!!++!!::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++************************!!::****ee**eeeeeeeeeeee::!!**::::::::::::::::::
 ++++++++++++++++++****************::::**********eeeeeeee::!!**::::::::::::::::::::
 ++++++++++++++++++++++************::++************eeee!!!!**::::::::::::::::::::::
@@ -37808,7 +37808,7 @@ echo -en '++++++++++************************!!::****ee**eeeeeeeeeeee::!!**::::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++**************************::::******eeeeeeee$$eeee!!!!ee::::::::::::::::
 ++++++++++++++++********************::++********eeee$$eeee::!!ee::::::::::::::::::
 ++++++++++++++++++++++++**********++::************eeeeee::!!**::::::::::::::::::::
@@ -37885,7 +37885,7 @@ echo -en '++++++++++**************************::::******eeeeeeee$$eeee!!!!ee::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++**************************::!!******eeeeee$$eeee$$!!!!**::::::::::::::
 ++++++++++**++++**********************::++********ee**$$eeee!!!!**::::::::::::::::
 ++++++++++++++++++++++++************++::************eeeeee!!!!++::::::::::::::::::
@@ -37962,7 +37962,7 @@ ee******++++++::....::!!!!!!eeeeeeee**::::++++      ..::..!!++!!  ::::!!!!!!  !!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++******************************::++**eeeeeeeeee$$eeee!!!!**!!::::::::::::
 ++++++++++++++++++**********************::********eeee**eeee**!!**::::::::::::::::
 ++++++++++++++++++**++++**************++::**********eeeeee**!!++::::::::::::::::::
@@ -38039,7 +38039,7 @@ ee********++++++  ....!!!!++!!eeeeee$$!!::!!++::      ....::++++::..::::!!!!::  
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++******************************::****eeeeeeeeee$$eeee::!!ee::::::::::::
 ++++++++++++++**************************++::********eeeeeeeeee::!!ee::::::::::::::
 ++++++++++++++++++++++**++**************::::**********eeeeee::!!**::::::::::::::::
@@ -38116,7 +38116,7 @@ ee****************  **  ::..!!!!::::!!++$$$$$$$$$$$$$$ee$$$$eeeeeeeeeeeeeeee::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++**++******************************++::****eeeeeeeeee$$ee$$!!!!**::!!::::::
 ++++++++++++++++**************************!!::********ee**$$eeee!!!!**::::::::::::
 ++++++++++++++++++++++++******************::!!**********ee$$ee!!!!**!!::::::::::::
@@ -38193,7 +38193,7 @@ ee**ee**************  ..::!!!!++**++!!++++++++::..      ......++eeeeeeeeeeeeeeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++******************************eeee!!::ee**eeeeeeeeee$$ee**!!**::!!!!::::
 ++++++++++++++++++**************************::::******eeee**$$eeee!!**!!!!::::::::
 ++++++++++++++++++++++++++******************::++**********$$eeee!!++!!::!!::::::::
@@ -38270,7 +38270,7 @@ eeeeeeee**ee**++****++**..::..!!..++::..!!ee$$$$$$$$$$$$$$$$$$$$$$eeeeeeeeeeeeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++****************************ee******::::eeeeeeeeeeee$$$$ee::!!ee!!::!!::
 ++++++++++++++********************************::++******eeeeee$$ee::!!ee!!!!!!::::
 !!++++++++++++++++++**************************::**********ee$$ee!!!!ee!!!!!!::::::
@@ -38347,7 +38347,7 @@ eeeeeeeeee************....::!!!!++++!!++..!!!!!!!!::        ....**++++eeeeeeeeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++****************************eeeeee****::**eeeeeeeeeeee$$eeee!!++**!!!!!!
 ++++++++++++++++******************************++::******eeeeee$$eeee!!++**!!!!::::
 ++++++++++++++++++++++************************!!::**********$$$$ee!!++**!!!!!!!!::
@@ -38424,7 +38424,7 @@ eeeeeeeeeeeeee**********....::!!!!++**!!!!!!!!++++!!..      ......++++****eeeeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++**************************ee**eeeeee****::**eeeeeeeeeeee$$ee**++ee!!!!!!
 ++++++++++++++**********************************++::******eeeeee$$ee**!!**!!!!!!!!
 !!++++++++++++++++++**++************************!!!!**********$$$$ee!!**!!!!!!!!::
@@ -38501,7 +38501,7 @@ eeeeeeeeeeeeeeee********++..::::!!++++++!!::++!!!!++::..      ....::++++++++**ee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++********************************eeeeeeee++::**eeeeeeeeee$$$$ee!!!!ee!!!!
 ++++++++++++++************************************!!!!******eeeeee$$ee++!!ee!!!!!!
 !!++++++++++++++++++**++**************************::++**********$$$$**!!ee!!!!!!!!
@@ -38578,7 +38578,7 @@ eeeeeeeeeeeeeeee******++++::    !!!!++++eeeeee$$$$**$$++++      ..::::++!!!!::::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++******************************eeeeeeee**++::eeeeeeeeeeee$$eeee!!++**!!
 ++++++++++++++**************************************!!!!******eeee$$$$ee!!!!**!!!!
 !!++++++++++++++++++********************************::++********ee$$$$!!!!**!!!!!!
@@ -38655,7 +38655,7 @@ eeeeeeeeeeeeeeeeeeee**++!!!!....::!!++****++****++++**eeeeeeeeeeeeeeeeee!!!!::  
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++******************************eeeeeeeeeeee!!!!eeeeeeeeeeee$$eeee!!**++
 ++++++++++++++++**************************************::++********ee$$$$ee!!**++!!
 !!++++++++++++++++++++++******************************::++********ee$$ee!!++++!!!!
@@ -38732,7 +38732,7 @@ echo -en '++++++++++++******************************eeeeeeeeeeee!!!!eeeeeeeeeeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++**********************************eeeeeeeeee!!!!eeeeeeeeeeee$$ee++!!ee
 !!++++++++++++++++**************************************::++********ee$$$$**!!ee!!
 !!!!++++++++++++++++++**++****************************++::**********$$$$ee++**!!!!
@@ -38809,7 +38809,7 @@ echo -en '++++++++++++**********************************eeeeeeeeee!!!!eeeeeeeeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++********************************ee****eeee****::++eeeeeeeeee$$$$ee!!!!
 !!++++++++++++++++****************************************::**********ee$$$$!!!!ee
 !!!!++++++++++++++++++++++******************************++::**********$$$$ee++ee!!
@@ -38886,7 +38886,7 @@ ee..**eeeeeeeeeeeeeeeeee**++++$$$$$$ee**!!!!!!++++++++++**++********++!!!!++!!!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++**************************************eeeeeeee**::++eeeeeeeeee$$$$ee++
 !!!!++++++++++++++****************************************++::******ee**$$$$$$!!++
 !!!!!!++++++++++++++++++**********************************!!::********ee$$$$ee++**
@@ -38963,7 +38963,7 @@ ee**..**eeeeeeeeeeeeeeeeee**++**$$ee$$**++::!!!!++++++++**++++********++!!++!!!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++**********************************eeeeeeeeeeeeee**::****eeeeeeee$$$$**
 !!++++++++++++++++******************************************!!::******ee**$$$$ee!!
 !!!!!!++++++++++++++++++++**********************************!!!!ee******ee$$eeee**
@@ -39040,7 +39040,7 @@ ee**!!..!!eeeeeeeeeeeeeeeeee**++!!!!..::!!!!********++**++++++++eeeeeeeeeeeeee++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!++++++++++++********************************eeeeee**eeeeee**++::**ee**ee**$$$$$$
 !!!!++++++++++++++********************************************!!!!********ee$$$$**
 !!!!!!++++++++++++++++++++************************************::!!********$$$$eeee
@@ -39117,7 +39117,7 @@ eeeeee!!..eeeeeeeeeeeeeeeeeeee**++$$$$$$ee**::!!!!++++++++++++++********++!!!!++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++++++++++++******************************ee**eeeeeeee**eeee**ee!!!!****eeee**$$$$
 !!!!++++++++++++++**********************************************::++****ee**$$$$$$
 !!!!!!++++++++++++++++++**************************************++::++******ee$$$$ee
@@ -39194,7 +39194,7 @@ eeeeeeee::::eeeeeeeeeeeeeeeeee**++**$$ee$$**!!!!!!!!++++++++**++++********++!!!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!++++++++++++****************************eeeeeeeeeeee****ee**ee**!!++**eeeeeeee$$
 !!!!++++++++++++++**********************************************++::******ee**$$$$
 !!!!!!!!++++++++++++++++****************************************!!::++******$$$$$$
@@ -39271,7 +39271,7 @@ eeeeeeeeee::++eeeeeeeeeeeeeeeeee**++$$$$$$eeee!!!!!!++++++++++++++++********++!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!++++++++++********************************eeeeeeeeeeee******eeee++!!**eeeeee**$$
 !!!!!!++++++++++++************************************************!!!!********ee$$
 !!!!!!!!++++++++++++++++++****************************************::!!********$$$$
@@ -39348,7 +39348,7 @@ eeeeeeeeee++..**eeeeeeeeeeeeeeee**++++$$ee$$**!!::!!!!++++++++++**++++********++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!++++++++++********************************eeeeeeeeeeee****ee****!!!!eeeeeeee**
 !!!!++++++++++++++**************************************************::++ee**ee**$$
 !!!!!!++++++++++++++++++++******************************************::!!******$$$$
@@ -39425,7 +39425,7 @@ echo -en '!!!!++++++++++********************************eeeeeeeeeeee****ee****!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!++++++++++++**************************ee******eeeeeeeeee************::++eeeeee**
 !!!!!!++++++++++++++************************************************++::********ee
 ::!!!!!!++++++++++++++++++******************************************!!::!!******$$
@@ -39502,7 +39502,7 @@ echo -en '!!++++++++++++**************************ee******eeeeeeeeee************
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::!!++++++++++**************************ee**eeeeeeeeeeeeeeeeeeee******++!!eeeeeeee
 ::!!!!++++++++++++****************************************************!!!!********
 !!!!!!!!++++++++++++++++**********************************************!!!!++****$$
@@ -39579,7 +39579,7 @@ echo -en '::!!++++++++++**************************ee**eeeeeeeeeeeeeeeeeeee******
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '!!!!++++++++++**************************eeeeeeeeeeeeeeeeeeeeeeeeeeee****!!!!eeeeee
 !!!!!!++++++++++++******************************************************!!!!****ee
 !!!!!!!!++++++++++++++**************************************ee********++!!!!++****
@@ -39656,7 +39656,7 @@ echo -en '!!!!++++++++++**************************eeeeeeeeeeeeeeeeeeeeeeeeeeee**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++!!++++++++++************************eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee****!!**eeee
 ++!!!!++++++++++++******************************************************++::!!****
 ++!!::!!!!++++++++++++++************************************eeee**********!!!!****
@@ -39733,7 +39733,7 @@ ee**++++**************************************++++++++++++++++!!!!!!!!!!!!!!::!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**++!!++++++++**********************eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee**!!!!eeee
 **!!::!!++++++++++********************************************************!!!!****
 **++!!!!!!++++++++++++++**************************************$$**********++!!++**
@@ -39810,7 +39810,7 @@ echo -en '**++!!++++++++**********************eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '**++!!++++++++++********************eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee**ee!!++ee
 **++!!!!++++++++++++******************************************************++!!!!**
 ****!!::!!!!++++++++++++++**************************************ee**********!!!!++
@@ -39887,7 +39887,7 @@ ee!!                  ::..++!!****++::..  ++....  ........++$$$$$$$$$$$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '****++!!++++++++++********************eeee**eeeeeeeeeeeeeeeeeeeeeeeeeeee****++!!ee
 ****++::!!++++++++++++******************************************************::!!++
 ****++!!!!!!++++++++++++++++************************************ee************++!!
@@ -39964,7 +39964,7 @@ ee++::..::::::::::::        ......................  ........!!ee$$$$$$$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '::**++!!++++++++++******************eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee****!!::
 ::****!!!!++++++++++**********************************************************!!!!
 ::****!!::!!++++++++++++++++**************************************************!!!!
@@ -40041,7 +40041,7 @@ eeee::..::::::::::::        ..................................++$$$$$$$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '++****++!!++++++++********************eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee****++!!
 ++****++::++++++++++++********************************************************!!!!
 ++****++!!!!!!++++++++++++******************************************************++
@@ -40118,7 +40118,7 @@ eeee::::::::::::::::::      ..  ..::..........................!!ee$$$$$$$$$$$$$$
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$::****!!++++++++++********************eeeeeeeeeeeeeeeeeeeeeeeeeeeeee**ee******!!
 $$::****!!!!++++++++++**********************************************************!!
 $$::****!!::!!++++++++++++++**************************************++++**********!!
@@ -40195,7 +40195,7 @@ eeeeee!!..              ..::::**eeeeeeeeeeee!!**++  ......  !!**::..::..++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$++****++!!++++++++********************eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee********!!
 $$++****++::++++++++++++**********************************************************
 $$******++!!!!++++++++++++++****************************************!!++**********
@@ -40272,7 +40272,7 @@ eeeeee++!!                ::::**++eeeeeeeeee!!****::........!!!!  ++::!!!!++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '@@$$::**++::++++++++****************ee**eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee**********
 $$$$::****!!!!++++++++++**********************************************ee**********
 $$$$::****!!!!!!++++++++++++++**************************************++++**********
@@ -40349,7 +40349,7 @@ eeeeeeee!!::  ....::::::::    ..::eeeeeeeeeeee******    ::!!!!++++**::++++**!!!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '@@$$++****++!!++++++++****************eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee**ee********
 $$$$++****++!!++++++++++**********************************************$$**********
 $$$$++****++::!!!!++++++++++****************************************++!!**********
@@ -40426,7 +40426,7 @@ eeeeeeee::!!    ..::::::::..    ..eeeeeeeeeeeeee****    ..!!!!++++++!!++++++!!!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '@@@@$$::**++!!++++++++********************eeeeeeeeeeeeeeeeeeeeeeeeeeeeee**********
 $$$$$$::**++!!!!++++++++**********************************************eeee********
 $$$$$$..**++!!!!!!++++++++++******************************************!!++********
@@ -40503,7 +40503,7 @@ eeeeeeeeee!!::  ..::::....::    ..**eeeeeeeeeeee******  ..!!!!!!++++**!!++++**!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '@@@@$$::****!!++++++++++**************ee**eeeeeeeeeeeeeeeeeeeeeeeeee**eeee********
 @@$$$$::****++!!++++++++************************************************ee********
 $$$$$$::****!!::!!++++++++++++****************************************++++**++****
@@ -40580,7 +40580,7 @@ eeeeeeeeee!!::  ..::::......    ....eeeeeeeeeeee******  ..::!!!!++++++::++++++!!
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '@@@@@@$$!!**++!!++++++++******************ee**eeeeeeeeeeeeeeeeeeeeeeee************
 $$$$$$ee!!**++::++++++++++**********************************************ee********
 $$$$$$$$!!++++::!!++++++++++++****************************************++++++******
@@ -40657,7 +40657,7 @@ eeeeeeeeee++!!    ::::......::    ..eeeeeeeeeeeeee****    ..!!!!++++++++++++++**
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$@@$$$$::**++::++++++++****************ee**eeeeeeeeeeeeeeeeeeeeeeeeee************
 $$$$$$$$::****!!++++++++++********************************************************
 $$$$$$$$::****!!!!++++++++++++******************************************++++++++**
@@ -40734,7 +40734,7 @@ eeeeeeeeeeee!!::  ..::::....::    ..eeeeeeeeeeeeee****++  ..!!!!!!++++**++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$@@$$!!****!!++++++++********************eeeeeeeeeeeeeeeeeeeeeeee**************
 $$$$$$$$!!****++!!++++++++++******************************************************
 $$$$$$$$++****!!::++++++++++++++****************************************++++++****
@@ -40811,7 +40811,7 @@ eeeeeeeeeeee!!::  ..::......::    ..!!eeeeeeeeeeee++****  ..::!!!!++++++::++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$::**++!!++++++++********************eeeeeeeeeeeeeeeeeeeeee**************
 $$$$$$$$$$::**!!::++++++++++**********************************************++++****
 $$$$$$$$$$::++++::!!++++++++++++++**************************************++++++++++
@@ -40888,7 +40888,7 @@ eeee**eeeeee!!!!................    ::eeeeeeeeeeeeee****  ....!!!!++++++++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$::**++!!++++++++******************eeeeeeeeeeeeeeeeeeeeeeee**************
 $$$$$$$$$$::**++::++++++++++++********************************************++++****
 $$$$$$$$$$::****!!!!!!++++++++++++++************************************++++++++++
@@ -40965,7 +40965,7 @@ eeee!!eeeeeeee!!::............::    ..eeeeeeeeeeeeee****    ..!!!!!!++++!!!!++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$::****::++++++++++******************eeeeeeeeeeeeeeeeeeeeeeee******$$****
 $$$$$$$$$$::****!!++++++++++**********************************************++!!****
 $$$$$$$$$$::****!!!!!!++++++++++++****************************************++++++++
@@ -41042,7 +41042,7 @@ eeee!!**eeeeee!!::............::    ..eeeeeeeeeeeeee****++  ..!!!!!!++++**!!++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$ee++++!!++++++++******************ee**eeeeeeeeeeeeeeeeeeeeee******@@****
 $$$$$$$$$$ee++++!!!!++++++++++**********************************************!!++**
 $$$$$$$$$$$$++++!!::!!++++++++++++++**************************************++++++++
@@ -41119,7 +41119,7 @@ ee..............................................................................
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$::++++!!++++++++****************eeeeeeeeeeeeeeeeeeeeee**********$$ee**
 $$$$$$$$$$$$::++!!!!++++++++++**********************************************!!++**
 $$$$$$$$$$$$::++++::!!++++++++++++****************************************++++++++
@@ -41196,7 +41196,7 @@ eeee**!!eeeeee::!!..............    ..  eeeeeeeeeeee******  ..::!!!!++++++++++++
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$::**++!!++++++++****************eeeeeeeeeeee**eeeeeeeeee********eeee**
 $$$$$$$$$$$$::**++::!!++++++++**********************************************++++**
 $$$$$$$$$$$$::****!!!!!!++++++++++++**************************************++++++++
@@ -41273,7 +41273,7 @@ ee::::::::eeee**!!              ..::..**eeeeeeee**!!::****::....::::++  ::**  ..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$::****::++++++++****************ee**eeee**eeeeeeeeeeee************ee**
 $$$$$$$$$$$$::****!!!!++++++++**********************************************++++++
 $$$$$$$$$$$$..****!!!!!!++++++++++++****************************************++++++
@@ -41350,7 +41350,7 @@ ee..............................................................................
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$++**++::++++++++********************eeeeeeeeeeeeeeee**************ee**
 $$$$$$$$$$$$******!!!!++++++++**********************************************++++++
 $$$$$$$$$$$$******!!!!!!++++++++++++**************************************++++++++
@@ -41427,7 +41427,7 @@ $$                          ::..    ............................................
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$ee++++!!++++++++********************eeeeeeeeeeeeee********************
 $$$$$$$$$$$$ee!!++!!!!++++++++++********************************************++!!++
 $$$$$$$$$$$$ee!!++!!!!!!++++++++++++++**************************************++++++
@@ -41504,7 +41504,7 @@ ee::::::::::eeee!!..              ::::****eeeeeeee++!!******..  ..!!!!++  **....
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$$$::++++!!++++++++**************ee********eeeeeeee******************++
 $$$$$$$$$$$$$$::**!!!!++++++++++**********************************************++++
 $$$$$$$$$$$$$$::++++::!!++++++++++++++**************************************++++++
@@ -41581,7 +41581,7 @@ ee..............................................................................
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$$$..++++!!++++++++******************ee**eeeeeeeeee******************++
 $$$$$$$$$$$$$$::++!!!!++++++++************************************************++++
 $$$$$$$$$$$$$$::**++::!!!!++++++++++****************************************++++++
@@ -41658,7 +41658,7 @@ eeeeee**eeeeeeee  !!  ......          ++eeeeeeeeeeeeee++++++    ..!!!!++++++eeee
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$$$::**++!!++++++++********************ee******eeeeee**************++++
 $$$$$$$$$$$$$$::**++::++++++++++++********************************************++++
 $$$$$$$$$$$$$$::****!!!!++++++++++++++**************************************++++++
@@ -41735,7 +41735,7 @@ ee!!::::::::eeee**::              ..::..  eeeeeeee**++!!****++....::++++  !!**..
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$$$..****!!++++++++**************************eeeeee****************++++
 $$$$$$$$$$$$$$::****::++++++++++**********************************************++++
 $$$$$$$$$$$$$$::****!!!!!!++++++++++****************************************++++++
@@ -41812,7 +41812,7 @@ ee++::::::::eeee**::              ..::..  eeeeeeeeee++!!******....::!!!!..!!**  
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$$$::****::++++++++**********************ee****ee********************!!
 $$$$$$$$$$$$$$::****!!!!++++++++**********************************************++++
 $$$$$$$$$$$$$$::****!!!!!!++++++++++++**************************************++++++
@@ -41889,7 +41889,7 @@ $$                            ..  ..............................................
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$$$++****!!++++++++****************ee****ee****ee********************!!
 $$$$$$$$$$$$$$++****!!!!++++++++**********************************************++++
 $$$$$$$$$$$$$$******!!!!!!++++++++++++**************************************++++++
@@ -41966,7 +41966,7 @@ $$                            ::    ............................................
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$$$ee**++::++++++++**************************ee**********************!!
 $$$$$$$$$$$$$$ee**++!!!!++++++++++********************************************++++
 $$$$$$$$$$$$$$ee**++!!!!!!++++++++++++**************************************++++++
@@ -42043,7 +42043,7 @@ ee                            ::    ............................................
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$$$ee**++::++++++++**************************ee**********************!!
 $$$$$$$$$$$$$$ee**++!!!!++++++++**********************************************++++
 $$$$$$$$$$$$$$ee**++!!!!++++++++++++++++************************************++++++
@@ -42120,7 +42120,7 @@ ee                            ::..  ............................................
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$$$ee!!++!!++++++++**********************eeee************************!!
 $$$$$$$$$$$$$$ee::++!!!!++++++++++********************************************++++
 $$$$$$$$$$$$$$ee::++!!!!!!++++++++++++**************************************++++++
@@ -42197,7 +42197,7 @@ ee                            ::    ............................................
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$$$ee::++!!++++++++**********************eeee************************!!
 $$$$$$$$$$$$$$ee::++++!!++++++++++********************************************++++
 $$$$$$$$$$$$$$$$::++!!!!!!++++++++++++**************************************++++++
@@ -42274,7 +42274,7 @@ ee..                          ::  ..............................................
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$$$$$::++++++++++++**************************************************!!
 $$$$$$$$$$$$$$$$::++++!!++++++++++**********************************************++
 $$$$$$$$$$$$$$$$..++++::!!++++++++++++++************************************++++++
@@ -42351,7 +42351,7 @@ ee..                          ::  ..............................................
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$$$$$..++++++++++++**************************************************++
 $$$$$$$$$$$$$$$$::++!!!!++++++++**********************************************++++
 $$$$$$$$$$$$$$$$::++!!::!!++++++++++++**************************************++++++
@@ -42428,7 +42428,7 @@ eeee                          ..  ..............................................
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$$$$$::++++!!++++++++************************************************++
 $$$$$$$$$$$$$$$$::++!!!!++++++++++********************************************++++
 $$$$$$$$$$$$$$$$::++!!::!!++++++++++++++************************************++++++
@@ -42505,7 +42505,7 @@ ee++                          ::    ............................................
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$$$$$::++++!!++++++**************************************************++
 $$$$$$$$$$$$$$$$::++!!!!++++++++++********************************************++++
 $$$$$$$$$$$$$$$$::++!!::!!++++++++++++++**************************************++++
@@ -42582,7 +42582,7 @@ eeee::::::::::eeee  ..              ::::**eeeeeeeeeeeeee**ee****++..!!!!::  ++::
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$$$$$::**++!!++++++****************************ee********************++
 $$$$$$$$$$$$$$$$::++++!!++++++++++**********************************************++
 $$$$$$$$$$$$$$$$::**!!::!!++++++++++++++++************************************++++
@@ -42659,7 +42659,7 @@ ee**                          ..    ............................................
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$$$$$::++++!!++++++****************************ee********************++
 $$$$$$$$$$$$$$$$::++++!!++++++++++**********************************************++
 $$$$$$$$$$$$$$$$::**++::!!!!++++++++++++**************************************++++
@@ -42736,7 +42736,7 @@ ee**                          ..    ............................................
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$$$$$..**++!!++++++**************************************************++
 $$$$$$$$$$$$$$$$::++++::++++++++++**********************************************++
 $$$$$$$$$$$$$$$$::**++::!!++++++++++++****************************************++++
@@ -42813,7 +42813,7 @@ ee**                          ..    ............................................
 
 '
 echo -en '[0;0H' 
-sleep 0.020 
+# sleep 0.020 
 echo -en '$$$$$$$$$$$$$$$$..**++!!++++++**************************************************++
 $$$$$$$$$$$$$$$$::**++::++++++++++**********************************************++
 $$$$$$$$$$$$$$$$::****::!!!!++++++++++++**********************************++++++++
